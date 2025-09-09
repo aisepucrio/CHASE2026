@@ -1,0 +1,2836 @@
+1
+00:00:00,000 --> 00:00:07,760
+Bom, o Coutinho também não, fui eu, o Johnny e até o Yann
+
+2
+00:00:07,760 --> 00:00:14,800
+A gente mostrou para elas as métricas e a gente meio que alinhou como seria o visual para Self Vision e para Team Vision
+
+3
+00:00:16,800 --> 00:00:21,200
+Em termos de usabilidade meio como é que a pessoa ia marcar a resposta dela
+
+4
+00:00:21,200 --> 00:00:27,680
+Depois a gente conversou um pouquinho sobre o Checklist da Work Environmental Conditions
+
+5
+00:00:27,680 --> 00:00:32,080
+A gente nos explicou mais ou menos as métricas para o Yann e a gente passou umas inspirações
+
+6
+00:00:32,080 --> 00:00:36,080
+Mas alguma coisa, pessoal? Acho que não
+
+7
+00:00:38,080 --> 00:00:40,080
+Você quer mostrar o filme? Pode ver isso?
+
+8
+00:00:40,080 --> 00:00:42,080
+Não
+
+9
+00:00:44,080 --> 00:00:46,080
+Aí vocês pensarem em outras telas, então?
+
+10
+00:00:46,080 --> 00:00:48,080
+É
+
+11
+00:00:48,080 --> 00:00:50,080
+As outras métricas já
+
+12
+00:00:50,480 --> 00:01:06,480
+E o que você achou, Ana, da pra já com o site dessa reunião mais cedo construir esses artefatos?
+
+13
+00:01:06,480 --> 00:01:14,480
+Então, com essa reunião mais cedo a gente pegou um pouco mais do visual que a gente planejou fazer
+
+14
+00:01:14,880 --> 00:01:20,880
+Por exemplo, essa ideia do Checklist, a ideia do MBTI
+
+15
+00:01:20,880 --> 00:01:22,880
+Não sei se você já chegou a ver
+
+16
+00:01:24,880 --> 00:01:34,880
+É porque como a primeira métrica que o Johnny mostrou vai ser usada as 10 bolinhas
+
+17
+00:01:38,880 --> 00:01:42,880
+A gente pensou em ser algo assim só que com 10 bolinhas
+
+18
+00:01:43,280 --> 00:01:45,280
+Até com esses dois cores
+
+19
+00:01:49,280 --> 00:01:51,280
+Isso era a primeira métrica, né?
+
+20
+00:01:51,280 --> 00:01:53,280
+É, para estar o Vision e para a Team Vision
+
+21
+00:01:53,280 --> 00:01:55,280
+Aí você responderia o seu, né?
+
+22
+00:01:55,280 --> 00:01:57,280
+Nessa escala assim
+
+23
+00:01:57,280 --> 00:01:59,280
+Clicaria no botão próximo, tipo esse
+
+24
+00:01:59,280 --> 00:02:01,280
+E aí você ia responder do resto do time
+
+25
+00:02:01,280 --> 00:02:05,280
+E aí ficaria cinza, o que você não respondeu ainda
+
+26
+00:02:05,280 --> 00:02:07,280
+E aí quando você responde aí de cima, meio que desbloqueia
+
+27
+00:02:07,280 --> 00:02:09,280
+Faz assim
+
+28
+00:02:09,680 --> 00:02:11,680
+Ah, legal
+
+29
+00:02:15,680 --> 00:02:17,680
+Ana e Ju
+
+30
+00:02:17,680 --> 00:02:21,680
+Eu gostei muito dessa opção aí que a gente tinha conversado mais cedo
+
+31
+00:02:21,680 --> 00:02:25,680
+Uma coisa que eu não tinha observado, que eu só estou vendo agora
+
+32
+00:02:25,680 --> 00:02:29,680
+É que esse concordo do lado esquerdo me deixa um pouco confuso
+
+33
+00:02:29,680 --> 00:02:31,680
+Não sei o que vocês acham disso
+
+34
+00:02:31,680 --> 00:02:33,680
+Eu falei a mesma coisa
+
+35
+00:02:33,680 --> 00:02:35,680
+Foi quando o Johnny saiu que você falou
+
+36
+00:02:36,080 --> 00:02:38,080
+Falei exatamente isso, cara
+
+37
+00:02:38,080 --> 00:02:40,080
+Eu falei exatamente isso
+
+38
+00:02:40,080 --> 00:02:42,080
+E eu fiz gás de lighting, eu falei que era normal
+
+39
+00:02:42,080 --> 00:02:44,080
+Mas por favor, diz que não é normal agora, Johnny
+
+40
+00:02:44,080 --> 00:02:46,080
+Isso é muito confuso
+
+41
+00:02:46,080 --> 00:02:48,080
+E na hora eu não tinha percebido
+
+42
+00:02:48,080 --> 00:02:50,080
+Esse concordo do lado esquerdo me deixa bem confuso
+
+43
+00:02:50,080 --> 00:02:52,080
+Então não fez o contrário
+
+44
+00:02:52,080 --> 00:02:56,080
+Agora que duas pessoas falaram, eu acho que é sendo comum
+
+45
+00:02:58,080 --> 00:03:00,080
+Entendi
+
+46
+00:03:00,080 --> 00:03:02,080
+Na verdade, não
+
+47
+00:03:02,480 --> 00:03:06,480
+A escala like a que a Ana pesquisou aqui
+
+48
+00:03:06,480 --> 00:03:08,480
+Parece que começaram do concordo e ia até o discord
+
+49
+00:03:08,480 --> 00:03:10,480
+É concordo da esquerda, concordo mais ou menos
+
+50
+00:03:10,480 --> 00:03:12,480
+Não concordo no meio
+
+51
+00:03:12,480 --> 00:03:14,480
+Discord mais ou menos na direita
+
+52
+00:03:14,480 --> 00:03:16,480
+Discord totalmente na direita
+
+53
+00:03:16,480 --> 00:03:18,480
+Gente, isso aí é subjetivo
+
+54
+00:03:18,480 --> 00:03:20,480
+Eu já vivo muito de etiquete ao contrário
+
+55
+00:03:24,480 --> 00:03:26,480
+Vocês preferem o contrário então, pessoal?
+
+56
+00:03:26,880 --> 00:03:28,880
+Então, pessoal
+
+57
+00:03:28,880 --> 00:03:30,880
+O hotel foi bem...
+
+58
+00:03:30,880 --> 00:03:32,880
+Por favor
+
+59
+00:03:32,880 --> 00:03:34,880
+Vamos dar em para usar na verdade
+
+60
+00:03:34,880 --> 00:03:36,880
+Porque essa escala aí é um número ímpar
+
+61
+00:03:36,880 --> 00:03:38,880
+A nossa não vai ser
+
+62
+00:03:38,880 --> 00:03:40,880
+A gente vai usar 10 bolinhas
+
+63
+00:03:40,880 --> 00:03:42,880
+Então já não vai valer
+
+64
+00:03:42,880 --> 00:03:44,880
+Então pode ser, o tempo faz
+
+65
+00:03:48,880 --> 00:03:50,880
+A nossa vem para fazer o desconto do contrário
+
+66
+00:03:52,880 --> 00:03:54,880
+Na verdade, como é 10 bolinhas
+
+67
+00:03:55,280 --> 00:03:57,280
+A intensidade seria pequenininha
+
+68
+00:03:57,280 --> 00:03:59,280
+Indo até o 10
+
+69
+00:03:59,280 --> 00:04:01,280
+Porque eu entendi que a 1
+
+70
+00:04:01,280 --> 00:04:03,280
+É quando a pessoa pontua
+
+71
+00:04:03,280 --> 00:04:05,280
+Dá uma pontuação ruim
+
+72
+00:04:05,280 --> 00:04:07,280
+E o 10 seria menor
+
+73
+00:04:07,280 --> 00:04:09,280
+Isso
+
+74
+00:04:09,280 --> 00:04:11,280
+Então seria meio que uma bolinha pequenininha
+
+75
+00:04:11,280 --> 00:04:13,280
+E depois aumentando a bolinha
+
+76
+00:04:13,280 --> 00:04:15,280
+A gente pensou nessa escala
+
+77
+00:04:15,280 --> 00:04:17,280
+Que fica grande nas extremidades
+
+78
+00:04:17,280 --> 00:04:19,280
+Porque acaba que
+
+79
+00:04:19,280 --> 00:04:21,280
+Um voto entre 1 e 5
+
+80
+00:04:21,280 --> 00:04:23,280
+É meio que um
+
+81
+00:04:23,680 --> 00:04:25,680
+É porque você não tem voto negativo
+
+82
+00:04:25,680 --> 00:04:27,680
+Então o voto entre 1 e 5
+
+83
+00:04:27,680 --> 00:04:29,680
+Acaba sendo
+
+84
+00:04:29,680 --> 00:04:31,680
+Você se autoavaliando de uma forma
+
+85
+00:04:31,680 --> 00:04:33,680
+Mais negativa
+
+86
+00:04:35,680 --> 00:04:37,680
+Tem uma neutralidade
+
+87
+00:04:37,680 --> 00:04:39,680
+No meio
+
+88
+00:04:39,680 --> 00:04:41,680
+Normalmente se usa essa
+
+89
+00:04:41,680 --> 00:04:43,680
+Escala de 1 a 10
+
+90
+00:04:43,680 --> 00:04:45,680
+Para avaliação de produtos
+
+91
+00:04:45,680 --> 00:04:47,680
+Coisas assim
+
+92
+00:04:47,680 --> 00:04:49,680
+A escala de avaliação
+
+93
+00:04:49,680 --> 00:04:51,680
+Dessa pessoa usa
+
+94
+00:04:52,080 --> 00:04:54,080
+Nesse caso esse é o report
+
+95
+00:04:54,080 --> 00:04:56,080
+Mas aí
+
+96
+00:04:56,080 --> 00:04:58,080
+O de 1 a 10
+
+97
+00:04:58,080 --> 00:05:00,080
+Eu não sei
+
+98
+00:05:00,080 --> 00:05:02,080
+A melhor forma de mostrar isso
+
+99
+00:05:02,080 --> 00:05:04,080
+Porque esse daí tá
+
+100
+00:05:04,080 --> 00:05:06,080
+Sete, né
+
+101
+00:05:06,080 --> 00:05:08,080
+Sete bolinhas
+
+102
+00:05:08,080 --> 00:05:10,080
+Sete
+
+103
+00:05:10,080 --> 00:05:12,080
+Vai encher bastante
+
+104
+00:05:14,080 --> 00:05:16,080
+A tela
+
+105
+00:05:16,080 --> 00:05:18,080
+Embaixo
+
+106
+00:05:18,080 --> 00:05:20,080
+Deixa eu ver
+
+107
+00:05:21,680 --> 00:05:23,680
+A melhor forma
+
+108
+00:05:23,680 --> 00:05:25,680
+Que a pessoa
+
+109
+00:05:25,680 --> 00:05:27,680
+Esse primeiro
+
+110
+00:05:27,680 --> 00:05:29,680
+Estrela
+
+111
+00:05:29,680 --> 00:05:31,680
+Tem isso?
+
+112
+00:05:31,680 --> 00:05:33,680
+Estrela?
+
+113
+00:05:33,680 --> 00:05:35,680
+Só trocar o formato da bolinha
+
+114
+00:05:35,680 --> 00:05:37,680
+Outra coisa
+
+115
+00:05:37,680 --> 00:05:39,680
+O pessoal faz muito
+
+116
+00:05:39,680 --> 00:05:41,680
+Trocar menos espaço
+
+117
+00:05:41,680 --> 00:05:43,680
+É ter 5 estrelas e você poder preencher pela metade
+
+118
+00:05:43,680 --> 00:05:45,680
+Então acaba ficando
+
+119
+00:05:45,680 --> 00:05:47,680
+De 1 a 10
+
+120
+00:05:47,680 --> 00:05:49,680
+Só que
+
+121
+00:05:49,680 --> 00:05:51,680
+Dependendo de como foi intercassa
+
+122
+00:05:55,680 --> 00:05:57,680
+É uma possibilidade interessante
+
+123
+00:05:57,680 --> 00:05:59,680
+Uma coisa que eu pensei também
+
+124
+00:05:59,680 --> 00:06:01,680
+É de ter estrela e preencher
+
+125
+00:06:01,680 --> 00:06:03,680
+Porque quando a pessoa
+
+126
+00:06:03,680 --> 00:06:05,680
+Coloca o 3 por exemplo
+
+127
+00:06:05,680 --> 00:06:07,680
+Coloca ali no terceiro
+
+128
+00:06:07,680 --> 00:06:09,680
+No verde, no terceiro
+
+129
+00:06:09,680 --> 00:06:11,680
+Clica ali na bolinha
+
+130
+00:06:11,680 --> 00:06:13,680
+Que tá aí na tela
+
+131
+00:06:13,680 --> 00:06:15,680
+Qual deles?
+
+132
+00:06:15,680 --> 00:06:17,680
+Essa daí
+
+133
+00:06:17,680 --> 00:06:19,680
+E essa por exemplo
+
+134
+00:06:19,680 --> 00:06:21,680
+Ele não preencha as outras anteriores
+
+135
+00:06:21,680 --> 00:06:23,680
+Porque eu entendi
+
+136
+00:06:23,680 --> 00:06:25,680
+Que pela métrica que vocês proporam
+
+137
+00:06:25,680 --> 00:06:27,680
+Ele meio que
+
+138
+00:06:27,680 --> 00:06:29,680
+É tudo, entendeu
+
+139
+00:06:29,680 --> 00:06:31,680
+Você deu essa pontuação
+
+140
+00:06:31,680 --> 00:06:33,680
+Mas quer dizer que os outros também estão preenchidos
+
+141
+00:06:33,680 --> 00:06:35,680
+Talvez faça essa impressão também
+
+142
+00:06:35,680 --> 00:06:37,680
+É um valor, quem faz isso
+
+143
+00:06:37,680 --> 00:06:39,680
+Você já deve ter visto
+
+144
+00:06:39,680 --> 00:06:41,680
+Avaliação de produtos lá no iFood
+
+145
+00:06:41,680 --> 00:06:43,680
+Quando você aperta no 10
+
+146
+00:06:43,680 --> 00:06:45,680
+Ele preenche todos os anteriores
+
+147
+00:06:45,680 --> 00:06:47,680
+É assim
+
+148
+00:06:47,680 --> 00:06:49,680
+Você ouviu?
+
+149
+00:06:49,680 --> 00:06:51,680
+Aí eu tô falando pra você clicar nesse
+
+150
+00:06:51,680 --> 00:06:53,680
+Preencher os anteriores
+
+151
+00:06:53,680 --> 00:06:55,680
+Pode ser
+
+152
+00:06:55,680 --> 00:06:57,680
+O Coutinho testou a avaliação do iFood
+
+153
+00:06:57,680 --> 00:06:59,680
+O Johnny do Uber
+
+154
+00:06:59,680 --> 00:07:01,680
+Parece que é assim
+
+155
+00:07:09,680 --> 00:07:11,680
+Esse aí tá velho
+
+156
+00:07:11,680 --> 00:07:13,680
+Não é mais estrela
+
+157
+00:07:13,680 --> 00:07:15,680
+Pode ser
+
+158
+00:07:15,680 --> 00:07:17,680
+Eu sei como é que é
+
+159
+00:07:17,680 --> 00:07:19,680
+Eu preenchi isso
+
+160
+00:07:19,680 --> 00:07:21,680
+Acho que é estrela
+
+161
+00:07:23,680 --> 00:07:25,680
+Não sei se é tatuagem só
+
+162
+00:07:25,680 --> 00:07:27,680
+O Johnny falou que acho que é estrela
+
+163
+00:07:29,680 --> 00:07:31,680
+Aqui
+
+164
+00:07:31,680 --> 00:07:33,680
+Aí
+
+165
+00:07:39,680 --> 00:07:41,680
+Você arrasta e decide pra mim
+
+166
+00:07:41,680 --> 00:07:43,680
+É
+
+167
+00:07:43,680 --> 00:07:45,680
+Aí tem como botar meia estrela
+
+168
+00:07:45,680 --> 00:07:47,680
+Que é o que eles falaram
+
+169
+00:07:49,680 --> 00:07:51,680
+Eu ainda gosto
+
+170
+00:07:51,680 --> 00:07:53,680
+Dessa ideia de as extremidades serem maiores
+
+171
+00:07:53,680 --> 00:07:55,680
+Porque dá uma impressão de que a resposta
+
+172
+00:07:55,680 --> 00:07:57,680
+É mais extrema
+
+173
+00:07:57,680 --> 00:07:59,680
+É
+
+174
+00:07:59,680 --> 00:08:01,680
+O Johnny falou sobre isso
+
+175
+00:08:01,680 --> 00:08:03,680
+Acho que faz sentido mesmo
+
+176
+00:08:03,680 --> 00:08:05,680
+Um 10 é muita coisa
+
+177
+00:08:05,680 --> 00:08:07,680
+E um 0 é bem preocupante
+
+178
+00:08:07,680 --> 00:08:09,680
+Se fosse estrela
+
+179
+00:08:09,680 --> 00:08:11,680
+Dá pra colocar a primeira estrela menor
+
+180
+00:08:11,680 --> 00:08:13,680
+Ou tudo em aumentante tamanho
+
+181
+00:08:17,680 --> 00:08:19,680
+Ok, uma pequenininha é muito ruim
+
+182
+00:08:19,680 --> 00:08:21,680
+E uma grandona é muito boa
+
+183
+00:08:29,680 --> 00:08:31,680
+Se você colocasse uma estrela grande no final
+
+184
+00:08:31,680 --> 00:08:33,680
+E usasse esse negócio de estrela
+
+185
+00:08:33,680 --> 00:08:35,680
+Deve ficar estranho
+
+186
+00:08:35,680 --> 00:08:37,680
+No número até faz sentido
+
+187
+00:08:37,680 --> 00:08:39,680
+O número você pode usar até cores
+
+188
+00:08:39,680 --> 00:08:41,680
+A escala vai mudando de cor
+
+189
+00:08:41,680 --> 00:08:43,680
+Um gradiente quase ali
+
+190
+00:08:43,680 --> 00:08:45,680
+Que vai do vermelho ao verde
+
+191
+00:08:45,680 --> 00:08:47,680
+E ao invés de que você for preenchendo ele vai preenchendo as anteriores
+
+192
+00:08:47,680 --> 00:08:49,680
+E colorindo ficando mais verde
+
+193
+00:08:49,680 --> 00:08:51,680
+À medida que você vai indo mais positivo
+
+194
+00:08:51,680 --> 00:08:53,680
+Por exemplo
+
+195
+00:08:55,680 --> 00:08:57,680
+Eu gosto mais dessa ideia do que da outra
+
+196
+00:08:57,680 --> 00:08:59,680
+Mas o único que caberia seriam as estrelas
+
+197
+00:08:59,680 --> 00:09:01,680
+Que seria 5
+
+198
+00:09:01,680 --> 00:09:03,680
+Que o número não teria como colocar metade
+
+199
+00:09:03,680 --> 00:09:05,680
+Eu acho que vai acabar sendo estrela
+
+200
+00:09:05,680 --> 00:09:07,680
+Mas estrela
+
+201
+00:09:07,680 --> 00:09:09,680
+Qual é o contexto da estrela
+
+202
+00:09:09,680 --> 00:09:11,680
+No número 10?
+
+203
+00:09:13,680 --> 00:09:15,680
+Cérebro, será?
+
+204
+00:09:15,680 --> 00:09:17,680
+Muito ruim?
+
+205
+00:09:17,680 --> 00:09:19,680
+Parece que tá chamando a pessoa de burra, né?
+
+206
+00:09:19,680 --> 00:09:21,680
+Ela tá se chamando de burra
+
+207
+00:09:21,680 --> 00:09:23,680
+De toda a escala
+
+208
+00:09:23,680 --> 00:09:25,680
+É bom
+
+209
+00:09:25,680 --> 00:09:27,680
+Eu queria o pessoal usar carinhas
+
+210
+00:09:27,680 --> 00:09:29,680
+Coloridas e tal, só queria ficar um pouco estranho
+
+211
+00:09:29,680 --> 00:09:31,680
+Vai ser lâmpada?
+
+212
+00:09:31,680 --> 00:09:33,680
+A Ana falou lâmpada aqui
+
+213
+00:09:37,680 --> 00:09:39,680
+Mas pode ser também
+
+214
+00:09:39,680 --> 00:09:41,680
+Lâmpada pra remeter a produtividade?
+
+215
+00:09:43,680 --> 00:09:45,680
+Oi?
+
+216
+00:09:45,680 --> 00:09:47,680
+Lâmpada remetendo a produtividade?
+
+217
+00:09:47,680 --> 00:09:49,680
+É esse o objetivo?
+
+218
+00:09:49,680 --> 00:09:51,680
+O pessoal está abafado pra mim então
+
+219
+00:09:53,680 --> 00:09:55,680
+Melhorou?
+
+220
+00:09:55,680 --> 00:09:57,680
+Melhorou
+
+221
+00:09:57,680 --> 00:09:59,680
+Eu não fiz absolutamente nada, mas beleza, que bom
+
+222
+00:09:59,680 --> 00:10:01,680
+Por que você foi mais alto?
+
+223
+00:10:01,680 --> 00:10:03,680
+As lâmpadas pra remeter produtividade
+
+224
+00:10:03,680 --> 00:10:05,680
+É isso, a ideia
+
+225
+00:10:05,680 --> 00:10:07,680
+Porque a gente pode pensar em outras coisas que remetam a mesma coisa
+
+226
+00:10:09,680 --> 00:10:11,680
+É, acho que sim
+
+227
+00:10:15,680 --> 00:10:17,680
+Posso fazer tipo de cala?
+
+228
+00:10:19,680 --> 00:10:21,680
+Eu já vi
+
+229
+00:10:21,680 --> 00:10:23,680
+Cinco carinhas
+
+230
+00:10:23,680 --> 00:10:25,680
+Uma com raiva, uma triste
+
+231
+00:10:25,680 --> 00:10:27,680
+Uma neutra, uma feliz, uma muito feliz
+
+232
+00:10:29,680 --> 00:10:31,680
+É, tipo aquele ali de baixo
+
+233
+00:10:33,680 --> 00:10:35,680
+Isso sim, entendeu?
+
+234
+00:10:35,680 --> 00:10:37,680
+A carinha triste
+
+235
+00:10:37,680 --> 00:10:39,680
+Só que aí a questão da metade
+
+236
+00:10:39,680 --> 00:10:41,680
+Fica muito relativa
+
+237
+00:10:41,680 --> 00:10:43,680
+Eu saber que eu dar meia carinha amarela
+
+238
+00:10:43,680 --> 00:10:45,680
+Quer dizer que eu dei três estrelas
+
+239
+00:10:45,680 --> 00:10:47,680
+Talvez
+
+240
+00:10:47,680 --> 00:10:49,680
+Que na verdade é um
+
+241
+00:10:49,680 --> 00:10:51,680
+Sete, dez
+
+242
+00:10:51,680 --> 00:10:53,680
+A métrica pede que a escala tenha dez pontos?
+
+243
+00:10:53,680 --> 00:10:55,680
+É, é de uma vez
+
+244
+00:10:55,680 --> 00:10:57,680
+Tem que ser dez
+
+245
+00:10:59,680 --> 00:11:01,680
+A estranha do um é porque
+
+246
+00:11:01,680 --> 00:11:03,680
+Se a pessoa quiser dar a pior nota
+
+247
+00:11:03,680 --> 00:11:05,680
+Ela vai ter que dar
+
+248
+00:11:05,680 --> 00:11:07,680
+Se usando carinhas até estrelas
+
+249
+00:11:07,680 --> 00:11:09,680
+A pessoa vai ter que dar meio
+
+250
+00:11:11,680 --> 00:11:13,680
+É um pouco estranho
+
+251
+00:11:13,680 --> 00:11:15,680
+Se a gente colocasse os números, tipo zero
+
+252
+00:11:15,680 --> 00:11:17,680
+Vocês conseguem ver meu cursor?
+
+253
+00:11:17,680 --> 00:11:19,680
+Sim, mas eu acho que essa aí tá ao contrário
+
+254
+00:11:19,680 --> 00:11:21,680
+Essa aí vai ser o dez
+
+255
+00:11:21,680 --> 00:11:23,680
+É, a verdade é que o dez
+
+256
+00:11:23,680 --> 00:11:25,680
+Nove, oito, sete
+
+257
+00:11:25,680 --> 00:11:27,680
+Que aí você colocaria em cima do número
+
+258
+00:11:29,680 --> 00:11:31,680
+Então o que dá pra fazer também
+
+259
+00:11:31,680 --> 00:11:33,680
+Em vez de ser isso aí especificamente
+
+260
+00:11:33,680 --> 00:11:35,680
+Pode ser um slider, igual tem ali em cima
+
+261
+00:11:35,680 --> 00:11:37,680
+Na realidade ali ó
+
+262
+00:11:37,680 --> 00:11:39,680
+Na interface, bota uma carinha em cima e um slider
+
+263
+00:11:39,680 --> 00:11:41,680
+E a carinha vai mudando, mas tipo a pessoa só vai mexendo em
+
+264
+00:11:43,680 --> 00:11:45,680
+Ela vai mudando
+
+265
+00:11:45,680 --> 00:11:47,680
+Em vez de ser um número contínuo
+
+266
+00:11:47,680 --> 00:11:49,680
+Ela vai indo de um pra dois, pra três, pra quatro
+
+267
+00:11:49,680 --> 00:11:51,680
+E aí vai mudando de cara
+
+268
+00:11:51,680 --> 00:11:53,680
+Sim
+
+269
+00:11:53,680 --> 00:11:55,680
+Eu vou até colar nada pra misturar depois
+
+270
+00:11:57,680 --> 00:11:59,680
+É, porque assim é uma maneira fácil
+
+271
+00:11:59,680 --> 00:12:01,680
+Também dela raçar, né
+
+272
+00:12:01,680 --> 00:12:03,680
+Também
+
+273
+00:12:03,680 --> 00:12:05,680
+É, e aí seria isso aqui, certo? Com números
+
+274
+00:12:05,680 --> 00:12:07,680
+Não, pode ter a carinha ainda
+
+275
+00:12:07,680 --> 00:12:09,680
+Na interface, só que aí
+
+276
+00:12:09,680 --> 00:12:11,680
+Enquanto a pessoa estiver com o app
+
+277
+00:12:11,680 --> 00:12:13,680
+Enquanto a pessoa estiver tocando ali
+
+278
+00:12:13,680 --> 00:12:15,680
+Aparece um tuto e pisinho com o número, né
+
+279
+00:12:15,680 --> 00:12:17,680
+Uhum
+
+280
+00:12:17,680 --> 00:12:19,680
+Eu gosto também
+
+281
+00:12:19,680 --> 00:12:21,680
+E aqui um tá coloridinho também
+
+282
+00:12:21,680 --> 00:12:23,680
+Eu acho que fica legal
+
+283
+00:12:23,680 --> 00:12:25,680
+E aí a gente tem
+
+284
+00:12:25,680 --> 00:12:27,680
+Duas opções ainda pra
+
+285
+00:12:27,680 --> 00:12:29,680
+Pra designer aí pensar
+
+286
+00:12:29,680 --> 00:12:31,680
+A gente pode ter todas as carinhas
+
+287
+00:12:31,680 --> 00:12:33,680
+E o slider embaixo
+
+288
+00:12:33,680 --> 00:12:35,680
+Vai parar mais próximo
+
+289
+00:12:35,680 --> 00:12:37,680
+De uma delas
+
+290
+00:12:37,680 --> 00:12:39,680
+Ou você pode ter uma carinha só
+
+291
+00:12:39,680 --> 00:12:41,680
+E na hora que você correr o slider
+
+292
+00:12:41,680 --> 00:12:43,680
+Por um lado mais positivo a carinha vai ficando
+
+293
+00:12:43,680 --> 00:12:45,680
+Mais feliz, por um lado mais negativo
+
+294
+00:12:45,680 --> 00:12:47,680
+Ela vai ficando mais triste
+
+295
+00:12:47,680 --> 00:12:49,680
+Pra ver o quanto de trabalho que ia dar pro Tomás
+
+296
+00:12:49,680 --> 00:12:51,680
+Ah, mas isso vai ficar mais frio de fazer
+
+297
+00:12:53,680 --> 00:12:55,680
+O Johnny falou em uma única carinha
+
+298
+00:12:55,680 --> 00:12:57,680
+Aí mudando a pressão de acordo com
+
+299
+00:12:57,680 --> 00:12:59,680
+O que você vai escolher
+
+300
+00:12:59,680 --> 00:13:01,680
+Se for mudando
+
+301
+00:13:01,680 --> 00:13:03,680
+Só em
+
+302
+00:13:03,680 --> 00:13:05,680
+Ah, se
+
+303
+00:13:05,680 --> 00:13:07,680
+Se chega perto do 5 ali
+
+304
+00:13:07,680 --> 00:13:09,680
+Vai ficar mais neutra
+
+305
+00:13:09,680 --> 00:13:11,680
+Uma coisa mais
+
+306
+00:13:11,680 --> 00:13:13,680
+Simples assim, eu acho que é fácil de fazer
+
+307
+00:13:13,680 --> 00:13:15,680
+Agora se todo número tiver que mudar a carinha
+
+308
+00:13:15,680 --> 00:13:17,680
+Vai dar um trabalho pra todo mundo
+
+309
+00:13:17,680 --> 00:13:19,680
+Não, mas pode fazer diferentes carinhas
+
+310
+00:13:19,680 --> 00:13:21,680
+E mudando a imagem
+
+311
+00:13:21,680 --> 00:13:23,680
+Isso é, conforme você vai arrastando
+
+312
+00:13:23,680 --> 00:13:25,680
+A imagem vai trocando
+
+313
+00:13:25,680 --> 00:13:27,680
+Se tiver que ter 10 carinhas diferentes
+
+314
+00:13:27,680 --> 00:13:29,680
+Vai ser complicado
+
+315
+00:13:29,680 --> 00:13:31,680
+É, aqui tem 10 carinhas
+
+316
+00:13:31,680 --> 00:13:33,680
+Aqui tem a opção com 5
+
+317
+00:13:33,680 --> 00:13:35,680
+Ou tipo só nos extremos
+
+318
+00:13:35,680 --> 00:13:37,680
+Vou botar essa imagem aqui
+
+319
+00:13:37,680 --> 00:13:39,680
+É, podem acessar as 10 carinhas
+
+320
+00:13:39,680 --> 00:13:41,680
+Ah, diminui aí
+
+321
+00:13:41,680 --> 00:13:43,680
+Tá aqui
+
+322
+00:13:47,680 --> 00:13:49,680
+Alguém quer falar alguma coisa?
+
+323
+00:13:49,680 --> 00:13:51,680
+Ah, essa aqui
+
+324
+00:13:51,680 --> 00:13:53,680
+Sempre aparecem todas
+
+325
+00:13:53,680 --> 00:13:55,680
+Mas aí tipo mais ou menos
+
+326
+00:13:55,680 --> 00:13:57,680
+Pode ficar ressaltado
+
+327
+00:13:57,680 --> 00:13:59,680
+Do que você tá, né
+
+328
+00:13:59,680 --> 00:14:01,680
+Tipo essa fica com uma borda preta
+
+329
+00:14:01,680 --> 00:14:03,680
+Ou mais escura que as outras
+
+330
+00:14:03,680 --> 00:14:05,680
+E conforme eu vou clicando no maiszinho
+
+331
+00:14:05,680 --> 00:14:07,680
+Tem que botar todos os números
+
+332
+00:14:07,680 --> 00:14:09,680
+Aí você vai colorindo
+
+333
+00:14:09,680 --> 00:14:11,680
+Tipo assim
+
+334
+00:14:11,680 --> 00:14:13,680
+A gente tinha falado no começo
+
+335
+00:14:13,680 --> 00:14:15,680
+De colorindo só a medida que for passando
+
+336
+00:14:15,680 --> 00:14:17,680
+É
+
+337
+00:14:17,680 --> 00:14:19,680
+E aqui, por exemplo, tá cabendo mais de 10
+
+338
+00:14:19,680 --> 00:14:21,680
+Nossa
+
+339
+00:14:21,680 --> 00:14:23,680
+É, pode ser também
+
+340
+00:14:23,680 --> 00:14:25,680
+É, deixa a minha opção
+
+341
+00:14:25,680 --> 00:14:27,680
+Pode errar também de opção
+
+342
+00:14:27,680 --> 00:14:29,680
+Aí você decide
+
+343
+00:14:31,680 --> 00:14:33,680
+No meio do texto?
+
+344
+00:14:33,680 --> 00:14:35,680
+No meio do texto
+
+345
+00:14:35,680 --> 00:14:37,680
+Ou
+
+346
+00:14:37,680 --> 00:14:39,680
+Desculpa
+
+347
+00:14:39,680 --> 00:14:41,680
+Ah, então
+
+348
+00:14:41,680 --> 00:14:43,680
+É isso, né
+
+349
+00:14:43,680 --> 00:14:45,680
+Mas aí então vocês discutiram só mais
+
+350
+00:14:45,680 --> 00:14:47,680
+Essa métrica de Self-Vision
+
+351
+00:14:47,680 --> 00:14:49,680
+TeamVision
+
+352
+00:14:49,680 --> 00:14:51,680
+E
+
+353
+00:14:51,680 --> 00:14:53,680
+Teve alguma outra...
+
+354
+00:14:53,680 --> 00:14:55,680
+Aí discutiu o Checklist também
+
+355
+00:14:55,680 --> 00:14:57,680
+O que eu pesquisei?
+
+356
+00:14:57,680 --> 00:14:59,680
+Eu mandei no blog
+
+357
+00:14:59,680 --> 00:15:01,680
+Qual é o nome do blog?
+
+358
+00:15:01,680 --> 00:15:03,680
+Aí, ó
+
+359
+00:15:07,680 --> 00:15:09,680
+Igualzinho
+
+360
+00:15:09,680 --> 00:15:11,680
+Olha a barra outra
+
+361
+00:15:11,680 --> 00:15:13,680
+Uhum
+
+362
+00:15:15,680 --> 00:15:17,680
+É um aplicativo de Checklist, entendeu?
+
+363
+00:15:17,680 --> 00:15:19,680
+Deixa eu ver, gente
+
+364
+00:15:19,680 --> 00:15:21,680
+Deixa eu aumentar aqui
+
+365
+00:15:21,680 --> 00:15:23,680
+Você compartilhando?
+
+366
+00:15:23,680 --> 00:15:25,680
+Posso aumentar aqui também
+
+367
+00:15:25,680 --> 00:15:27,680
+Aumentei e diminuiu
+
+368
+00:15:27,680 --> 00:15:29,680
+Acho que tem que baixar
+
+369
+00:15:29,680 --> 00:15:31,680
+A figura baixa ali do lado
+
+370
+00:15:31,680 --> 00:15:33,680
+Ah, agora deu
+
+371
+00:15:33,680 --> 00:15:35,680
+A ideia é ter esse Checklist
+
+372
+00:15:35,680 --> 00:15:37,680
+Assim, de
+
+373
+00:15:37,680 --> 00:15:39,680
+De dados
+
+374
+00:15:39,680 --> 00:15:41,680
+Em um blog pra empresa
+
+375
+00:15:41,680 --> 00:15:43,680
+Isso
+
+376
+00:15:43,680 --> 00:15:45,680
+Prova que vai aumentar condições
+
+377
+00:15:47,680 --> 00:15:49,680
+Esse aqui eu peguei porque ele é
+
+378
+00:15:49,680 --> 00:15:51,680
+Igualzinho ao aplicativo, então é assim
+
+379
+00:15:51,680 --> 00:15:53,680
+Que fica aí, entendeu? Se fosse Checklist
+
+380
+00:15:53,680 --> 00:15:55,680
+Eu achei ótimo
+
+381
+00:15:55,680 --> 00:15:57,680
+Tá bom
+
+382
+00:15:57,680 --> 00:15:59,680
+Tá
+
+383
+00:15:59,680 --> 00:16:01,680
+Aí, acho que ficou incluído
+
+384
+00:16:03,680 --> 00:16:05,680
+Aqui, ai
+
+385
+00:16:05,680 --> 00:16:07,680
+Como é que muda isso?
+
+386
+00:16:07,680 --> 00:16:09,680
+O que?
+
+387
+00:16:09,680 --> 00:16:11,680
+Quer ir pra outra nave?
+
+388
+00:16:11,680 --> 00:16:13,680
+É
+
+389
+00:16:13,680 --> 00:16:15,680
+Aí, aqui será aquela baquinha lateral, né?
+
+390
+00:16:15,680 --> 00:16:17,680
+Uhum
+
+391
+00:16:17,680 --> 00:16:19,680
+Aí, pra dire...
+
+392
+00:16:19,680 --> 00:16:21,680
+Não sei
+
+393
+00:16:21,680 --> 00:16:23,680
+Soltou
+
+394
+00:16:23,680 --> 00:16:25,680
+O que você quer?
+
+395
+00:16:25,680 --> 00:16:27,680
+Head design
+
+396
+00:16:31,680 --> 00:16:33,680
+A outra
+
+397
+00:16:35,680 --> 00:16:37,680
+É que eu não sei quantos Checklists
+
+398
+00:16:37,680 --> 00:16:39,680
+Seriam, né? Mas
+
+399
+00:16:39,680 --> 00:16:41,680
+Nessa página aqui
+
+400
+00:16:41,680 --> 00:16:43,680
+Dá pra ver, dá pra ocupar a tela
+
+401
+00:16:43,680 --> 00:16:45,680
+Enteira, assim, não sei quantos seriam na verdade
+
+402
+00:16:45,680 --> 00:16:47,680
+A gente tem isso, eu acho que a gente não tem
+
+403
+00:16:47,680 --> 00:16:49,680
+Isso definido
+
+404
+00:16:49,680 --> 00:16:51,680
+Era pra ser profissionalizado de contexto, né?
+
+405
+00:16:51,680 --> 00:16:53,680
+Eles seriam colocados em grupos
+
+406
+00:16:53,680 --> 00:16:55,680
+Seriam várias
+
+407
+00:16:57,680 --> 00:16:59,680
+Varias exceções, assim
+
+408
+00:16:59,680 --> 00:17:01,680
+Nem isso aqui
+
+409
+00:17:01,680 --> 00:17:03,680
+Ou seria só uma grande exceçãozona e a pessoa já marcou
+
+410
+00:17:03,680 --> 00:17:05,680
+Então eu queria...
+
+411
+00:17:05,680 --> 00:17:07,680
+A gente não tem
+
+412
+00:17:07,680 --> 00:17:09,680
+Testa muito definida direito
+
+413
+00:17:09,680 --> 00:17:11,680
+Porque a gente ia ver
+
+414
+00:17:11,680 --> 00:17:13,680
+O que era muito importante pro contexto
+
+415
+00:17:13,680 --> 00:17:15,680
+E pelo que eu tinha entendido
+
+416
+00:17:15,680 --> 00:17:17,680
+Para me lembrar, era uma coisa mais personalizada
+
+417
+00:17:17,680 --> 00:17:19,680
+Pra... Depender do...
+
+418
+00:17:19,680 --> 00:17:21,680
+A gente faz a lista então, né?
+
+419
+00:17:21,680 --> 00:17:23,680
+Fica como tarefa nossa
+
+420
+00:17:23,680 --> 00:17:25,680
+Faz uma reunião eu, você e Joana
+
+421
+00:17:25,680 --> 00:17:27,680
+Mas não era pra
+
+422
+00:17:27,680 --> 00:17:29,680
+Levar em consideração as opiniões da galera
+
+423
+00:17:29,680 --> 00:17:31,680
+Pra construir a lista, isso não era
+
+424
+00:17:31,680 --> 00:17:33,680
+Um ponto?
+
+425
+00:17:33,680 --> 00:17:35,680
+A gente podia vir com a lista pronta e discutir, né?
+
+426
+00:17:35,680 --> 00:17:37,680
+Pra não tomar tanto tempo dessa reunião
+
+427
+00:17:37,680 --> 00:17:39,680
+Faz uma genérica
+
+428
+00:17:39,680 --> 00:17:41,680
+Faz uma genérica, sabe como é que ficaria
+
+429
+00:17:41,680 --> 00:17:43,680
+Gente, eu acho que o ponto não é esse
+
+430
+00:17:43,680 --> 00:17:45,680
+A questão é da empresa, entendeu?
+
+431
+00:17:45,680 --> 00:17:47,680
+Se eu acho que esses pontos são
+
+432
+00:17:47,680 --> 00:17:49,680
+Relevantes e o meu time acha pra empresa
+
+433
+00:17:49,680 --> 00:17:51,680
+Ele vai criar a lista
+
+434
+00:17:51,680 --> 00:17:53,680
+Então não é a lista
+
+435
+00:17:53,680 --> 00:17:55,680
+Isso, mas a gente pode ter uma default
+
+436
+00:17:55,680 --> 00:17:57,680
+É, pode ter uma default mas
+
+437
+00:17:57,680 --> 00:17:59,680
+Não sei, assim
+
+438
+00:17:59,680 --> 00:18:01,680
+A questão de poder criar mais, menos
+
+439
+00:18:01,680 --> 00:18:03,680
+Isso vai depender da...
+
+440
+00:18:03,680 --> 00:18:05,680
+Mas a gente pode ter um padrão, até pra gente ter um
+
+441
+00:18:05,680 --> 00:18:07,680
+Modelo de apresentação
+
+442
+00:18:07,680 --> 00:18:09,680
+Demonstração do app
+
+443
+00:18:09,680 --> 00:18:11,680
+Tá, é porque eu pensei que vinha em branco
+
+444
+00:18:11,680 --> 00:18:13,680
+E a pessoa ia lá e criava, entendeu?
+
+445
+00:18:13,680 --> 00:18:15,680
+Sim, a gente pode...
+
+446
+00:18:15,680 --> 00:18:17,680
+Onde criar a lista?
+
+447
+00:18:17,680 --> 00:18:19,680
+A gente pode ter uma listinha assim
+
+448
+00:18:19,680 --> 00:18:21,680
+Default, que fosse
+
+449
+00:18:21,680 --> 00:18:23,680
+Ser testado, apresentado, tudo
+
+450
+00:18:23,680 --> 00:18:25,680
+Até pra gente validar
+
+451
+00:18:27,680 --> 00:18:29,680
+Mas a gente precisa criar a lista
+
+452
+00:18:29,680 --> 00:18:31,680
+Que?
+
+453
+00:18:33,680 --> 00:18:35,680
+Subta pro default
+
+454
+00:18:41,680 --> 00:18:43,680
+Pode ser, então aí talvez
+
+455
+00:18:43,680 --> 00:18:45,680
+Fazem
+
+456
+00:18:45,680 --> 00:18:47,680
+Essa listinha aí
+
+457
+00:18:47,680 --> 00:18:49,680
+Inicial, só pra ter algo, né?
+
+458
+00:18:49,680 --> 00:18:51,680
+Como vocês mencionaram
+
+459
+00:18:51,680 --> 00:18:53,680
+Mas com a opção
+
+460
+00:18:53,680 --> 00:18:55,680
+Aí vai ter a opção
+
+461
+00:18:55,680 --> 00:18:57,680
+Eu acho que deve ser igual a esse aí
+
+462
+00:18:57,680 --> 00:18:59,680
+Que vocês estão mostrando
+
+463
+00:18:59,680 --> 00:19:01,680
+A opção de cadastrar novos ou excluir, né?
+
+464
+00:19:01,680 --> 00:19:03,680
+Tá bom
+
+465
+00:19:03,680 --> 00:19:05,680
+Barra excluir
+
+466
+00:19:05,680 --> 00:19:07,680
+Excluir?
+
+467
+00:19:07,680 --> 00:19:09,680
+É, criar barra excluir aqui
+
+468
+00:19:13,680 --> 00:19:15,680
+Aí você acha que é importante separar assim?
+
+469
+00:19:15,680 --> 00:19:17,680
+Igual tá separado
+
+470
+00:19:21,680 --> 00:19:23,680
+O Johnny falou que acha que é importante separar
+
+471
+00:19:23,680 --> 00:19:25,680
+Igual tá separado aí
+
+472
+00:19:25,680 --> 00:19:27,680
+Por sessões, né?
+
+473
+00:19:27,680 --> 00:19:29,680
+De iniciando o recorde
+
+474
+00:19:29,680 --> 00:19:31,680
+Principal, explorar mais concluindo?
+
+475
+00:19:31,680 --> 00:19:33,680
+Não, né?
+
+476
+00:19:33,680 --> 00:19:35,680
+A empresa pode escolher a sessão
+
+477
+00:19:35,680 --> 00:19:37,680
+Que ela quer, né?
+
+478
+00:19:37,680 --> 00:19:39,680
+Acho que seria
+
+479
+00:19:39,680 --> 00:19:41,680
+Interessante a gente ter uma separação
+
+480
+00:19:41,680 --> 00:19:43,680
+Do tipo, sei lá
+
+481
+00:19:43,680 --> 00:19:45,680
+Coisas que envolvem
+
+482
+00:19:45,680 --> 00:19:47,680
+Parte de infraestrutura no trabalho
+
+483
+00:19:47,680 --> 00:19:49,680
+Coisas que
+
+484
+00:19:49,680 --> 00:19:51,680
+Sei lá, envolvem
+
+485
+00:19:51,680 --> 00:19:53,680
+Acho que poderia ter umas subcategorias
+
+486
+00:20:03,680 --> 00:20:05,680
+Infraestrutura, tem mais algum exemplo?
+
+487
+00:20:05,680 --> 00:20:07,680
+A banana?
+
+488
+00:20:07,680 --> 00:20:09,680
+Genômica?
+
+489
+00:20:09,680 --> 00:20:11,680
+Ou isso não entra?
+
+490
+00:20:11,680 --> 00:20:13,680
+Tipo
+
+491
+00:20:13,680 --> 00:20:15,680
+Tem mais na sessão lá, pessoal
+
+492
+00:20:21,680 --> 00:20:23,680
+Eu não sei que nome a gente daria pra isso, né?
+
+493
+00:20:23,680 --> 00:20:25,680
+Mas
+
+494
+00:20:25,680 --> 00:20:27,680
+Coisas relacionadas a
+
+495
+00:20:27,680 --> 00:20:29,680
+Barulho, ruído
+
+496
+00:20:29,680 --> 00:20:31,680
+Temperatura
+
+497
+00:20:31,680 --> 00:20:33,680
+Não sei se isso entra em infraestrutura
+
+498
+00:20:33,680 --> 00:20:35,680
+Inflações externas, talvez?
+
+499
+00:20:35,680 --> 00:20:37,680
+Pode ser conforto também
+
+500
+00:20:37,680 --> 00:20:39,680
+Conforto, isso
+
+501
+00:20:43,680 --> 00:20:45,680
+Poderia pensar nos nomes mais adequados
+
+502
+00:20:45,680 --> 00:20:47,680
+Pra separar, mas acho que seria
+
+503
+00:20:47,680 --> 00:20:49,680
+Interessante separar a linha
+
+504
+00:20:49,680 --> 00:20:51,680
+Entre pelo menos uns dois ou três grupinhos
+
+505
+00:20:55,680 --> 00:20:57,680
+Todo mundo já viu o Figma?
+
+506
+00:20:57,680 --> 00:20:59,680
+Como é que tá?
+
+507
+00:20:59,680 --> 00:21:01,680
+Ou já mostrou no último vídeo?
+
+508
+00:21:01,680 --> 00:21:03,680
+Já
+
+509
+00:21:03,680 --> 00:21:05,680
+Já
+
+510
+00:21:07,680 --> 00:21:09,680
+Acho que foi, pessoal
+
+511
+00:21:09,680 --> 00:21:11,680
+Tá, então
+
+512
+00:21:11,680 --> 00:21:13,680
+Tem mais alguma métrica qualitativa
+
+513
+00:21:13,680 --> 00:21:15,680
+Que vocês não chegaram a olhar?
+
+514
+00:21:17,680 --> 00:21:19,680
+Que vai ser importada direto no app
+
+515
+00:21:19,680 --> 00:21:23,680
+Tem a de absenteísmo e turnover
+
+516
+00:21:23,680 --> 00:21:25,680
+Absenteísmo e turnover?
+
+517
+00:21:25,680 --> 00:21:27,680
+Mas essa a gente deixou pra um segundo
+
+518
+00:21:27,680 --> 00:21:29,680
+O momento
+
+519
+00:21:29,680 --> 00:21:31,680
+Como esses dados vão ser importados
+
+520
+00:21:33,680 --> 00:21:35,680
+No dia que eu aprender
+
+521
+00:21:35,680 --> 00:21:37,680
+Escrever absenteísmo
+
+522
+00:21:39,680 --> 00:21:41,680
+Ah, tá tudo certo
+
+523
+00:21:45,680 --> 00:21:47,680
+Tá, então tem que depois
+
+524
+00:21:47,680 --> 00:21:49,680
+Verificar essas duas, né?
+
+525
+00:21:49,680 --> 00:21:51,680
+Certo
+
+526
+00:21:51,680 --> 00:21:53,680
+Eu acho que do front
+
+527
+00:21:53,680 --> 00:21:55,680
+Seria isso, né?
+
+528
+00:21:55,680 --> 00:21:57,680
+Pra Ana já conseguir dar um andamento
+
+529
+00:21:57,680 --> 00:21:59,680
+A de turnover, pensando aqui agora
+
+530
+00:21:59,680 --> 00:22:01,680
+Talvez o nosso próprio gerenciamento
+
+531
+00:22:01,680 --> 00:22:03,680
+De time dentro do aplicativo
+
+532
+00:22:03,680 --> 00:22:05,680
+Podesse guardar registros
+
+533
+00:22:05,680 --> 00:22:07,680
+De alteração no time
+
+534
+00:22:07,680 --> 00:22:09,680
+Tipo, ah, uma pessoa entra
+
+535
+00:22:09,680 --> 00:22:11,680
+Em determinado time e tal data
+
+536
+00:22:11,680 --> 00:22:13,680
+Aí se você remove ela, coloca outra pessoa
+
+537
+00:22:13,680 --> 00:22:15,680
+Essa alteração a gente poderia capturar
+
+538
+00:22:15,680 --> 00:22:17,680
+Por ali
+
+539
+00:22:17,680 --> 00:22:19,680
+Os registros de
+
+540
+00:22:19,680 --> 00:22:21,680
+Movimentação dentro dos times
+
+541
+00:22:25,680 --> 00:22:27,680
+Acho que talvez não precisasse de uma
+
+542
+00:22:27,680 --> 00:22:29,680
+Nela especifica pra capturar esses dados
+
+543
+00:22:29,680 --> 00:22:31,680
+Seria meio natural
+
+544
+00:22:31,680 --> 00:22:33,680
+Vocês ouviram pra mais?
+
+545
+00:22:33,680 --> 00:22:35,680
+Sim, sim
+
+546
+00:22:35,680 --> 00:22:37,680
+Ah, tá
+
+547
+00:22:39,680 --> 00:22:41,680
+Eu acho que
+
+548
+00:22:41,680 --> 00:22:43,680
+Talvez seria interessante
+
+549
+00:22:43,680 --> 00:22:45,680
+Ter um, depois
+
+550
+00:22:45,680 --> 00:22:47,680
+Pensar numa tela de dashboard
+
+551
+00:22:47,680 --> 00:22:49,680
+Para as pessoas verem essas informações
+
+552
+00:22:49,680 --> 00:22:51,680
+Que tipo absenteísmo
+
+553
+00:22:51,680 --> 00:22:53,680
+Se for pegar
+
+554
+00:22:53,680 --> 00:22:55,680
+Das outras telas, tipo de entrar
+
+555
+00:22:55,680 --> 00:22:57,680
+No time, de sair do time, etc
+
+556
+00:22:57,680 --> 00:22:59,680
+É, turnover
+
+557
+00:22:59,680 --> 00:23:01,680
+Aí
+
+558
+00:23:01,680 --> 00:23:03,680
+A gente consegue, depois
+
+559
+00:23:03,680 --> 00:23:05,680
+Ver essa informação
+
+560
+00:23:05,680 --> 00:23:07,680
+No dashboardzinho
+
+561
+00:23:07,680 --> 00:23:09,680
+Não, não
+
+562
+00:23:09,680 --> 00:23:11,680
+E a questão também de reuniões
+
+563
+00:23:11,680 --> 00:23:13,680
+Eu acho que é mais cadastro, tipo assim, das reuniões
+
+564
+00:23:13,680 --> 00:23:15,680
+Que tem
+
+565
+00:23:15,680 --> 00:23:17,680
+E aí, quando elas ocorrem
+
+566
+00:23:17,680 --> 00:23:19,680
+Teria que ter uma tela de cadastro das reuniões
+
+567
+00:23:19,680 --> 00:23:21,680
+E preferência, tipo igual do
+
+568
+00:23:21,680 --> 00:23:23,680
+Google Calendário que a gente faz
+
+569
+00:23:23,680 --> 00:23:25,680
+E aí, depois
+
+570
+00:23:25,680 --> 00:23:27,680
+Ele pega a pita
+
+571
+00:23:27,680 --> 00:23:29,680
+Ou alguma coisa assim, perguntando se alguém faltou
+
+572
+00:23:29,680 --> 00:23:31,680
+Aí você coloca quem faltou
+
+573
+00:23:47,680 --> 00:23:49,680
+E talvez até poderia ter uma
+
+574
+00:23:49,680 --> 00:23:51,680
+Tela pro próprio
+
+575
+00:23:51,680 --> 00:23:53,680
+Pessoa que não foi
+
+576
+00:23:53,680 --> 00:23:55,680
+Que o gestor
+
+577
+00:23:55,680 --> 00:23:57,680
+Colocou ali como
+
+578
+00:23:57,680 --> 00:23:59,680
+Alvente
+
+579
+00:23:59,680 --> 00:24:01,680
+Já parecia pra ele
+
+580
+00:24:01,680 --> 00:24:03,680
+Para ver se ele vai justificar ou não
+
+581
+00:24:05,680 --> 00:24:07,680
+Então acho que seria mais
+
+582
+00:24:07,680 --> 00:24:09,680
+Pensar nessa tela
+
+583
+00:24:09,680 --> 00:24:11,680
+Do absenteísmo
+
+584
+00:24:11,680 --> 00:24:13,680
+E a outra
+
+585
+00:24:13,680 --> 00:24:15,680
+É o dashboard que vai
+
+586
+00:24:15,680 --> 00:24:17,680
+Mostrar
+
+587
+00:24:17,680 --> 00:24:19,680
+Todas essas
+
+588
+00:24:19,680 --> 00:24:21,680
+Qualitativas junto
+
+589
+00:24:23,680 --> 00:24:25,680
+No app seria até interessante
+
+590
+00:24:25,680 --> 00:24:27,680
+Mostrar as quantitativas também
+
+591
+00:24:27,680 --> 00:24:29,680
+Mas aí depois é um outro passo
+
+592
+00:24:33,680 --> 00:24:35,680
+Tá, então acho que é isso
+
+593
+00:24:35,680 --> 00:24:37,680
+Eu noto aí, Ju? É você que está notando?
+
+594
+00:24:37,680 --> 00:24:39,680
+Eu e Ana, essa máquina
+
+595
+00:24:39,680 --> 00:24:41,680
+Tá, perfeito
+
+596
+00:24:45,680 --> 00:24:47,680
+Acho que no fundo acho que é isso
+
+597
+00:24:47,680 --> 00:24:49,680
+Alguma dúvida, Ana?
+
+598
+00:24:49,680 --> 00:24:51,680
+Não, não
+
+599
+00:24:51,680 --> 00:24:53,680
+Tomá, tem alguma coisa
+
+600
+00:24:53,680 --> 00:24:55,680
+Do front para mostrar
+
+601
+00:24:55,680 --> 00:24:57,680
+Discutir?
+
+602
+00:24:59,680 --> 00:25:01,680
+Calma aí
+
+603
+00:25:03,680 --> 00:25:05,680
+Pode falar do microfone
+
+604
+00:25:05,680 --> 00:25:07,680
+Pera aí, deixa eu botar o som aqui
+
+605
+00:25:09,680 --> 00:25:11,680
+Fala alguma coisa
+
+606
+00:25:11,680 --> 00:25:13,680
+Alô
+
+607
+00:25:15,680 --> 00:25:17,680
+Trocamos o notebook de comunicação
+
+608
+00:25:17,680 --> 00:25:19,680
+Então
+
+609
+00:25:19,680 --> 00:25:21,680
+Eu coloquei
+
+610
+00:25:21,680 --> 00:25:23,680
+Fiz o início do back
+
+611
+00:25:23,680 --> 00:25:25,680
+Não fiz o início do front-end
+
+612
+00:25:25,680 --> 00:25:27,680
+Então tentei colocar um pouquinho
+
+613
+00:25:27,680 --> 00:25:29,680
+De cada coisa pra daí
+
+614
+00:25:29,680 --> 00:25:31,680
+Enfim, eu vou botar um readme mais bonitinho
+
+615
+00:25:31,680 --> 00:25:33,680
+Mas pra
+
+616
+00:25:33,680 --> 00:25:35,680
+Dá pra olhar e entender mais ou menos como as coisas estão acontecendo
+
+617
+00:25:35,680 --> 00:25:37,680
+Então criei uns molhos, criei um controller
+
+618
+00:25:41,680 --> 00:25:43,680
+Criei um
+
+619
+00:25:43,680 --> 00:25:45,680
+Exemplos de
+
+620
+00:25:45,680 --> 00:25:47,680
+Exemplos só de
+
+621
+00:25:47,680 --> 00:25:49,680
+Para você poder rodar e testar
+
+622
+00:25:49,680 --> 00:25:51,680
+Criei uma migration
+
+623
+00:25:51,680 --> 00:25:53,680
+Configurei o básico
+
+624
+00:25:59,680 --> 00:26:01,680
+E comentei
+
+625
+00:26:01,680 --> 00:26:03,680
+Até agora
+
+626
+00:26:05,680 --> 00:26:07,680
+E aí pra semana que vem o que eu vou tentar fazer
+
+627
+00:26:07,680 --> 00:26:09,680
+Fazer uma coisa parecida pro front
+
+628
+00:26:09,680 --> 00:26:11,680
+Enfim, ter como
+
+629
+00:26:11,680 --> 00:26:13,680
+Mostrar e todo mundo estar na mesma página
+
+630
+00:26:13,680 --> 00:26:15,680
+Sobre
+
+631
+00:26:15,680 --> 00:26:17,680
+A estrutura básica dos dois repositórios
+
+632
+00:26:19,680 --> 00:26:21,680
+E vou fazer um readme
+
+633
+00:26:23,680 --> 00:26:27,680
+Tá, eu acho ótimo porque aí a Ju já consegue te ajudar
+
+634
+00:26:27,680 --> 00:26:29,680
+Nesse ponto do front
+
+635
+00:26:33,680 --> 00:26:35,680
+Mas é isso, aí eu perdi um tempo
+
+636
+00:26:35,680 --> 00:26:37,680
+Me entendendo com as migrations do
+
+637
+00:26:37,680 --> 00:26:39,680
+Entity Framework, mas saiu
+
+638
+00:26:39,680 --> 00:26:41,680
+Então
+
+639
+00:26:43,680 --> 00:26:45,680
+Aí vou
+
+640
+00:26:45,680 --> 00:26:47,680
+Também
+
+641
+00:26:47,680 --> 00:26:49,680
+Em paralelo a fazer essa primeira
+
+642
+00:26:49,680 --> 00:26:51,680
+Versão de alguma coisa do front
+
+643
+00:26:51,680 --> 00:26:53,680
+Pra construir em cima disso
+
+644
+00:26:53,680 --> 00:26:55,680
+E avançando
+
+645
+00:26:55,680 --> 00:26:57,680
+Terminando de migrar as coisas que já existiam
+
+646
+00:26:57,680 --> 00:26:59,680
+Já funcionavam no Node
+
+647
+00:26:59,680 --> 00:27:01,680
+Pra existirem e funcionarem no Cchap
+
+648
+00:27:03,680 --> 00:27:05,680
+E aí começar a partir daí
+
+649
+00:27:05,680 --> 00:27:07,680
+E a
+
+650
+00:27:07,680 --> 00:27:09,680
+Pegar as coisas que a Ana está fazendo
+
+651
+00:27:09,680 --> 00:27:11,680
+E colocando também
+
+652
+00:27:15,680 --> 00:27:17,680
+Tá
+
+653
+00:27:17,680 --> 00:27:19,680
+Aí você deixa pra apresentar algo
+
+654
+00:27:19,680 --> 00:27:21,680
+Pra mostrar mesmo na próxima reunião?
+
+655
+00:27:21,680 --> 00:27:23,680
+O que que você prefere?
+
+656
+00:27:23,680 --> 00:27:25,680
+Acho melhor porque eu mostro tanto o back
+
+657
+00:27:25,680 --> 00:27:27,680
+Mas conexo
+
+658
+00:27:29,680 --> 00:27:31,680
+E aí como é que a gente faz? A próxima reunião
+
+659
+00:27:31,680 --> 00:27:33,680
+Vai ser que dia? Porque a próxima
+
+660
+00:27:33,680 --> 00:27:35,680
+A próxima terá que ser feriado, né?
+
+661
+00:27:35,680 --> 00:27:37,680
+Ah, é verdade
+
+662
+00:27:37,680 --> 00:27:39,680
+Bom
+
+663
+00:27:39,680 --> 00:27:41,680
+Não sei mais
+
+664
+00:27:41,680 --> 00:27:43,680
+Não sei o que vocês acham melhor
+
+665
+00:27:45,680 --> 00:27:47,680
+A gente pode fazer depois
+
+666
+00:27:47,680 --> 00:27:49,680
+Acho que aí fica o dia 29
+
+667
+00:27:49,680 --> 00:27:51,680
+29
+
+668
+00:27:55,680 --> 00:27:57,680
+A gente pode ver
+
+669
+00:27:57,680 --> 00:27:59,680
+Acho que a princípio a gente deixa 29
+
+670
+00:27:59,680 --> 00:28:01,680
+29 não vai ser feriado, né?
+
+671
+00:28:01,680 --> 00:28:03,680
+Não, não
+
+672
+00:28:05,680 --> 00:28:07,680
+29 é terça
+
+673
+00:28:07,680 --> 00:28:09,680
+Não, 29 não é feriado
+
+674
+00:28:09,680 --> 00:28:11,680
+Aí o que eu posso fazer
+
+675
+00:28:11,680 --> 00:28:13,680
+Se já tiver coisa antes eu já posso mostrar
+
+676
+00:28:13,680 --> 00:28:15,680
+Pra Julieta
+
+677
+00:28:17,680 --> 00:28:19,680
+Tá, é aí dia 24
+
+678
+00:28:19,680 --> 00:28:21,680
+E 25
+
+679
+00:28:21,680 --> 00:28:23,680
+Aí vocês voltam, né? Qualquer coisa
+
+680
+00:28:23,680 --> 00:28:25,680
+Você reúne com a Jo, mostra pra ela
+
+681
+00:28:25,680 --> 00:28:27,680
+Pra ela poder te ajudar em algumas coisas
+
+682
+00:28:27,680 --> 00:28:29,680
+E aí dia 29
+
+683
+00:28:29,680 --> 00:28:31,680
+Você mostra pra todo mundo
+
+684
+00:28:31,680 --> 00:28:33,680
+Pode ser sim então?
+
+685
+00:28:33,680 --> 00:28:35,680
+Pode sim
+
+686
+00:28:35,680 --> 00:28:37,680
+Tá bom
+
+687
+00:28:39,680 --> 00:28:41,680
+Mais alguma coisa pessoal pra comentar?
+
+688
+00:28:41,680 --> 00:28:43,680
+Sobre esse trabalho?
+
+689
+00:28:45,680 --> 00:28:47,680
+Não
+
+690
+00:28:47,680 --> 00:28:49,680
+Até alguma consideração?
+
+691
+00:28:49,680 --> 00:28:51,680
+Não, por certo
+
+692
+00:28:51,680 --> 00:28:53,680
+Não
+
+693
+00:28:53,680 --> 00:28:55,680
+Sobre o artigo lá, o outro que a gente tá conduzindo
+
+694
+00:28:55,680 --> 00:28:57,680
+Tem que ver o que tá faltando
+
+695
+00:28:57,680 --> 00:28:59,680
+Pra poder enviar, né?
+
+696
+00:28:59,680 --> 00:29:01,680
+Aí
+
+697
+00:29:01,680 --> 00:29:03,680
+Depois o Johnny vê direitinho
+
+698
+00:29:03,680 --> 00:29:05,680
+A linha com vocês
+
+699
+00:29:05,680 --> 00:29:07,680
+Eu acho que são poucas coisas
+
+700
+00:29:07,680 --> 00:29:09,680
+Pouquíssimas coisas
+
+701
+00:29:09,680 --> 00:29:11,680
+Vamos ver quando que a gente consegue ir
+
+702
+00:29:11,680 --> 00:29:13,680
+Passar nesses feriados e a gente já consegue mandar
+
+703
+00:29:15,680 --> 00:29:17,680
+Mas é isso
+
+704
+00:29:19,680 --> 00:29:21,680
+Qualquer coisa vocês enviem lá no grupo
+
+705
+00:29:21,680 --> 00:29:23,680
+Então, vou finalizar aqui
+
+706
+00:29:23,680 --> 00:29:25,680
+Boa pizza aí
+
+707
+00:29:25,680 --> 00:29:27,680
+Tchau, tchau
+
+708
+00:29:27,680 --> 00:29:29,680
+Valeu pessoal
+
+709
+00:29:29,680 --> 00:29:31,680
+Valeu pessoal
+

@@ -1,0 +1,3884 @@
+1
+00:00:00,000 --> 00:00:05,360
+É, Ana, você quer compartilhar aí a tela para mostrar o que você fez?
+
+2
+00:00:07,360 --> 00:00:09,200
+Muitas expectativas, hein, Ana?
+
+3
+00:00:09,200 --> 00:00:12,480
+Posso compartilhar aqui?
+
+4
+00:00:16,880 --> 00:00:17,920
+Vamos começar aí?
+
+5
+00:00:18,240 --> 00:00:19,040
+Tá, tá aqui.
+
+6
+00:00:19,040 --> 00:00:19,840
+Vai aqui, vai aqui.
+
+7
+00:00:20,320 --> 00:00:21,360
+Prepare, Ana.
+
+8
+00:00:23,520 --> 00:00:26,400
+Como eu conto, a Ana foi boazinha contigo.
+
+9
+00:00:27,920 --> 00:00:29,600
+Eu nem vi você cantar longe.
+
+10
+00:00:29,840 --> 00:00:31,360
+Como que eu compartilho?
+
+11
+00:00:32,880 --> 00:00:37,680
+Embaixo tem um botão verde de compartilhar, olha se está apertando para você, eu não sei.
+
+12
+00:00:38,000 --> 00:00:42,240
+É porque não está aparecendo a opção... calma.
+
+13
+00:00:43,360 --> 00:00:47,360
+É o menu lá embaixo mesmo, no próprio app do Zoom.
+
+14
+00:00:48,320 --> 00:00:52,320
+Tem participantes, reagir, é...
+
+15
+00:00:52,880 --> 00:01:00,880
+Tem o mais ali, talvez ele está no mais, os três pontinhos ali.
+
+16
+00:01:01,680 --> 00:01:02,880
+A opção.
+
+17
+00:01:10,000 --> 00:01:12,160
+Essa foi a sua.
+
+18
+00:01:12,640 --> 00:01:15,360
+Mas todo mundo que está lá consegue liberar.
+
+19
+00:01:15,680 --> 00:01:16,320
+Dá para ver?
+
+20
+00:01:19,680 --> 00:01:20,720
+Tá dando para ver.
+
+21
+00:01:22,320 --> 00:01:23,600
+Pessoal, vamos lá?
+
+22
+00:01:29,360 --> 00:01:30,000
+Está vendo?
+
+23
+00:01:30,960 --> 00:01:32,320
+Está cortando.
+
+24
+00:01:33,280 --> 00:01:34,640
+Será que é eu? Não.
+
+25
+00:01:35,200 --> 00:01:36,320
+Eu, eu, eu, desculpa.
+
+26
+00:01:36,320 --> 00:01:37,360
+A gente está vendo.
+
+27
+00:01:42,320 --> 00:01:43,920
+Então dá um Zoom para conseguir ver.
+
+28
+00:01:47,840 --> 00:01:48,320
+Foi.
+
+29
+00:01:53,280 --> 00:01:56,080
+E você quer passar com a gente, assim?
+
+30
+00:01:56,080 --> 00:01:58,080
+Eu acho que é trivial, né?
+
+31
+00:01:58,080 --> 00:02:04,800
+É a mesma coisa que estava no anterior, só que deu uma melhorada no layout e tudo.
+
+32
+00:02:05,600 --> 00:02:11,920
+É, eu peguei um pouco, eu mudei a tipografia, eu aumentei um pouco porque está muito pequeno e está muito escuro.
+
+33
+00:02:13,120 --> 00:02:14,080
+Não dá muito para ler.
+
+34
+00:02:16,240 --> 00:02:18,320
+A luga é temporária, né? Vou mudar para...
+
+35
+00:02:18,800 --> 00:02:20,560
+Dependendo do nome, vou mudar também.
+
+36
+00:02:22,800 --> 00:02:25,040
+As cores, está tudo aqui.
+
+37
+00:02:25,600 --> 00:02:28,720
+Aí eu vou passando aqui para acompanhar.
+
+38
+00:02:29,440 --> 00:02:33,360
+Aí aqui tem a parte de registrar, né?
+
+39
+00:02:33,760 --> 00:02:47,200
+Eu tentei fazer com que o Figma fizesse aquele prototype, que quando você clicasse, por exemplo, clicar em registrar o login, vai aparecer a tela, mas como não estava tudo pronto, eu achei melhor só mostrar as telas mesmo.
+
+40
+00:02:47,920 --> 00:02:50,240
+Aí aqui é a de registrar.
+
+41
+00:02:51,200 --> 00:02:52,480
+Aí descendo um pouquinho.
+
+42
+00:02:53,440 --> 00:03:01,120
+Essa questão aqui dessa parte, eu não sei se vai ficar assim ainda, porque tem duas opções aqui, tipo uma com essa nuvenzinha aí, outra sem.
+
+43
+00:03:02,400 --> 00:03:06,560
+Aqui é a parte do menu principal, né? Quando você abre o aplicativo, vai aparecer isso aqui.
+
+44
+00:03:08,800 --> 00:03:12,160
+Aí tem a unha do sanduíche, do hamburguinho aqui.
+
+45
+00:03:13,600 --> 00:03:14,720
+Aí vindo para cá.
+
+46
+00:03:14,720 --> 00:03:17,680
+É legal, eu gostei. Da nuvenzinha.
+
+47
+00:03:18,640 --> 00:03:24,160
+E aqui ele não estaria feliz, né? Ele estaria triste, porque não tem times ainda.
+
+48
+00:03:25,200 --> 00:03:27,200
+É porque só tem uma versão do boneco, né? Então...
+
+49
+00:03:28,640 --> 00:03:31,680
+Ah, tá, tem que fazer o boneco triste e o boneco feliz.
+
+50
+00:03:32,080 --> 00:03:32,880
+É, isso.
+
+51
+00:03:34,800 --> 00:03:35,760
+Tá se mexendo o boneco ainda.
+
+52
+00:03:35,760 --> 00:03:42,080
+Aí aqui seria quando você puxasse o menu e abria essa parte aqui.
+
+53
+00:03:42,080 --> 00:03:45,440
+Eu trabalhei com os prints, eu tirei prints do vídeo que ele mandou, né?
+
+54
+00:03:46,160 --> 00:03:48,160
+Então, eu fui para a outra parte.
+
+55
+00:03:51,200 --> 00:03:54,720
+Ah, quer dizer, tem que mudar também, porque aqui não vai ficar assim, né? No caso.
+
+56
+00:03:55,760 --> 00:04:01,200
+Seriam só os olhinhos. Aí aqui, tem que ser branco, branco, branco, branco.
+
+57
+00:04:01,760 --> 00:04:02,560
+Aqui também.
+
+58
+00:04:03,760 --> 00:04:08,400
+Mas é só para ter uma ideiazinha do que está de diferente.
+
+59
+00:04:10,800 --> 00:04:14,560
+Aí aqui, é para quando você for criar um time.
+
+60
+00:04:15,680 --> 00:04:19,680
+Que ele tinha colocado ali, que estava bem em capa do docks, assim.
+
+61
+00:04:20,720 --> 00:04:24,480
+Aí aqui já tem uma parte mais colorida.
+
+62
+00:04:25,520 --> 00:04:29,200
+Aí você bota o nome do time, aí aparece assim.
+
+63
+00:04:31,280 --> 00:04:37,360
+Eu pensei em tirar essa seta aqui, mas não fica clicável.
+
+64
+00:04:37,360 --> 00:04:41,040
+Eu acho que não parece que dá para clicar, então acho melhor deixar a setinha mesmo.
+
+65
+00:04:41,040 --> 00:04:46,320
+E aqui é a última tela que eu fiz, que foi a última tela do vídeo.
+
+66
+00:04:46,320 --> 00:04:50,560
+Que era as relações do time, né?
+
+67
+00:04:50,560 --> 00:04:54,560
+Aí você pode colocar em minha adreça, não sei o quê, e aí convidar alguém.
+
+68
+00:04:58,400 --> 00:05:03,920
+A segunda parte do vídeo, ele tinha feito uma tela escura e uma tela clara.
+
+69
+00:05:03,920 --> 00:05:08,320
+Eu fiz só uma versão da tela clara, mas eu não sei se ficaria legal uma tela escura.
+
+70
+00:05:08,320 --> 00:05:10,320
+Mas posso fazer também.
+
+71
+00:05:11,840 --> 00:05:13,840
+Qualquer, eu não entendi.
+
+72
+00:05:13,840 --> 00:05:17,840
+É porque ele colocou no vídeo?
+
+73
+00:05:17,840 --> 00:05:22,720
+Eu coloquei um dark mode, um light mode, mas é porque quando eu comecei a fazer,
+
+74
+00:05:22,720 --> 00:05:24,720
+eu comecei a fazer com a tela branca.
+
+75
+00:05:24,720 --> 00:05:26,720
+E aí estava doendo o olho, porque a tela era branca.
+
+76
+00:05:26,720 --> 00:05:30,720
+Agora que ela não é branca, eu acho que não tem necessidade de ter outro modo.
+
+77
+00:05:30,720 --> 00:05:32,720
+Ah, beleza.
+
+78
+00:05:32,720 --> 00:05:34,720
+Só que daquele jeito branco era um pouco agressivo.
+
+79
+00:05:34,720 --> 00:05:36,720
+Aham.
+
+80
+00:05:40,000 --> 00:05:42,000
+Mas foi isso.
+
+81
+00:05:42,000 --> 00:05:46,000
+Ah, no geral eu gostei bastante, eu achei que ficou ótimo.
+
+82
+00:05:46,000 --> 00:05:48,000
+O que vocês acharam?
+
+83
+00:05:48,000 --> 00:05:50,000
+Alguém tem algum tipo de black?
+
+84
+00:05:50,000 --> 00:05:52,000
+Que tomasse?
+
+85
+00:05:52,000 --> 00:05:54,000
+Eu acho que foi uma melhor, né?
+
+86
+00:05:54,000 --> 00:05:58,000
+Isso é o que a gente mostra no time.
+
+87
+00:05:58,000 --> 00:06:04,000
+Esses campos são pra ter essa barra de tudo aí, pra ficar um tentinho assim?
+
+88
+00:06:04,880 --> 00:06:10,880
+Você pode dar um zoom aí maior nessa última tela do time?
+
+89
+00:06:10,880 --> 00:06:12,880
+Eu tiro um zoom.
+
+90
+00:06:12,880 --> 00:06:18,880
+Aí o coach perguntou se a ideia é ficar mesmo pro lado esquerdo.
+
+91
+00:06:18,880 --> 00:06:24,880
+Tipo, não seria ocultar toda a tela, essa parte do membro e...
+
+92
+00:06:24,880 --> 00:06:28,880
+Assim, vai colocar um cada membro do lado do outro, assim, dois a dois.
+
+93
+00:06:28,880 --> 00:06:30,880
+O que vai fazer?
+
+94
+00:06:30,880 --> 00:06:32,880
+Se passa em branco aí, não sei se...
+
+95
+00:06:33,760 --> 00:06:35,760
+É só pra enviar novos metros.
+
+96
+00:06:35,760 --> 00:06:37,760
+Acho que não é pra ficar vendo.
+
+97
+00:06:43,760 --> 00:06:45,760
+Entendi.
+
+98
+00:06:45,760 --> 00:06:53,760
+É, a caixinha do texto, eles estão falando da caixinha do texto e até o botão ali,
+
+99
+00:06:53,760 --> 00:06:55,760
+na mesma linha, entendeu?
+
+100
+00:06:55,760 --> 00:06:57,760
+Sim.
+
+101
+00:06:57,760 --> 00:06:59,760
+É aumentar a tela no final, em vez de ficar...
+
+102
+00:07:00,640 --> 00:07:02,640
+Assim, você diz, né?
+
+103
+00:07:02,640 --> 00:07:06,640
+É, te preocupar o espaço todo aí também.
+
+104
+00:07:06,640 --> 00:07:08,640
+Só tem um membro.
+
+105
+00:07:08,640 --> 00:07:10,640
+Se tivesse outro, ia ficar assim, ó.
+
+106
+00:07:12,640 --> 00:07:14,640
+Ah, entendi.
+
+107
+00:07:14,640 --> 00:07:16,640
+Entendeu?
+
+108
+00:07:16,640 --> 00:07:18,640
+A de barra.
+
+109
+00:07:18,640 --> 00:07:20,640
+E entrar um novo em meio.
+
+110
+00:07:21,520 --> 00:07:23,520
+E entrar um novo em meio.
+
+111
+00:07:27,520 --> 00:07:31,520
+Essa, eu te convidava novos membros, daria pra aumentar ela, né?
+
+112
+00:07:31,520 --> 00:07:33,520
+Porque ela sempre vai estar aí, não é isso?
+
+113
+00:07:33,520 --> 00:07:35,520
+Aqui, né?
+
+114
+00:07:35,520 --> 00:07:37,520
+É.
+
+115
+00:07:37,520 --> 00:07:39,520
+Então, aqui eu preciso colocar um maiszinho.
+
+116
+00:07:39,520 --> 00:07:41,520
+Aqui onde está a minha seta.
+
+117
+00:07:41,520 --> 00:07:43,520
+Pra colocar mais uma pessoa, entendeu?
+
+118
+00:07:43,520 --> 00:07:45,520
+Sim.
+
+119
+00:07:45,520 --> 00:07:47,520
+Em vez de ficar clicando, ah, um email de cada vez.
+
+120
+00:07:47,520 --> 00:07:49,520
+Tipo, clicar aqui e enviar.
+
+121
+00:07:50,400 --> 00:07:52,400
+Clicar aqui e enviar.
+
+122
+00:07:52,400 --> 00:07:58,400
+Se clicar aqui no maiszinho, vai aparecer mais de uma caixinha desta, né?
+
+123
+00:07:58,400 --> 00:08:02,400
+Mesmo assim, a caixa poderia ser maior.
+
+124
+00:08:02,400 --> 00:08:06,400
+E com maiszinho, ela tem a mesma largura do botão.
+
+125
+00:08:06,400 --> 00:08:08,400
+Isso.
+
+126
+00:08:10,400 --> 00:08:12,400
+Assim, é...
+
+127
+00:08:12,400 --> 00:08:14,400
+Não, mas deixar um espaço pro maiszinho, né?
+
+128
+00:08:14,400 --> 00:08:16,400
+Deixar um espaço pro mais.
+
+129
+00:08:20,400 --> 00:08:22,400
+É, algo assim.
+
+130
+00:08:26,400 --> 00:08:28,400
+Assim?
+
+131
+00:08:28,400 --> 00:08:30,400
+É, a gente pensou em algo assim.
+
+132
+00:08:30,400 --> 00:08:32,400
+E aí, lá em cima, você falou que vai ter vários membros, né?
+
+133
+00:08:32,400 --> 00:08:36,400
+Você talvez seria interessante a colocar uns dois, três pra gente ver como é que vai ficar.
+
+134
+00:08:36,400 --> 00:08:40,400
+Aí, essa parte aqui embaixo já vai entrar baixo, assim?
+
+135
+00:08:40,400 --> 00:08:44,400
+De acordo com a quantidade menos que tem, isso vai ficando aí embaixo?
+
+136
+00:08:44,400 --> 00:08:46,400
+Sim.
+
+137
+00:08:46,400 --> 00:08:48,400
+A intenção é que quando vai crescendo o número de pessoas,
+
+138
+00:08:49,280 --> 00:08:51,280
+aqui, tá vendo?
+
+139
+00:08:51,280 --> 00:08:53,280
+Vai abaixando.
+
+140
+00:08:53,280 --> 00:08:55,280
+Uhum, entendi.
+
+141
+00:08:55,280 --> 00:08:57,280
+E se tiver muitas pessoas,
+
+142
+00:08:57,280 --> 00:08:59,280
+sei lá, mas quinze pessoas,
+
+143
+00:08:59,280 --> 00:09:01,280
+cria uma barra de scroll lá, né?
+
+144
+00:09:01,280 --> 00:09:03,280
+Pra poder achar isso aqui.
+
+145
+00:09:05,280 --> 00:09:07,280
+É, tem que pensar, por exemplo,
+
+146
+00:09:07,280 --> 00:09:09,280
+se tiver muitas pessoas,
+
+147
+00:09:09,280 --> 00:09:13,280
+você vai criar um scroll só nas caixinhas dos membros?
+
+148
+00:09:13,280 --> 00:09:17,280
+Ou você vai criar um scroll na tela inteira?
+
+149
+00:09:18,160 --> 00:09:20,160
+Então, eu pensei na tela inteira.
+
+150
+00:09:20,160 --> 00:09:24,160
+Mas aí fica a critério também, né?
+
+151
+00:09:24,160 --> 00:09:26,160
+Porque eu acho que se ficar só aqui,
+
+152
+00:09:26,160 --> 00:09:30,160
+vai ter que fazer uma outra caixa só pra essa barra.
+
+153
+00:09:30,160 --> 00:09:32,160
+Isso.
+
+154
+00:09:32,160 --> 00:09:34,160
+Poderia ficar dentro de uma caixa invisível aí.
+
+155
+00:09:34,160 --> 00:09:36,160
+Sim.
+
+156
+00:09:36,160 --> 00:09:40,160
+Mas pode ser que fique com a visualização.
+
+157
+00:09:40,160 --> 00:09:42,160
+É, talvez pessoalmente.
+
+158
+00:09:42,160 --> 00:09:44,160
+Não sei.
+
+159
+00:09:45,040 --> 00:09:47,040
+Não sei se os carros vão ter vários membros.
+
+160
+00:09:47,040 --> 00:09:49,040
+Qual o máximo?
+
+161
+00:09:49,040 --> 00:09:51,040
+Teria o máximo de membros?
+
+162
+00:09:51,040 --> 00:09:53,040
+Não sei.
+
+163
+00:10:07,040 --> 00:10:09,040
+Ó, tá vendo?
+
+164
+00:10:09,040 --> 00:10:11,040
+Se tiver quinze pessoas,
+
+165
+00:10:11,040 --> 00:10:13,040
+vai ficar ocupando esses quinze espaços, entendeu?
+
+166
+00:10:13,920 --> 00:10:15,920
+Aqui, aqui, aqui, aqui.
+
+167
+00:10:17,920 --> 00:10:19,920
+E isso aqui desce.
+
+168
+00:10:19,920 --> 00:10:21,920
+Vai descendo.
+
+169
+00:10:25,920 --> 00:10:27,920
+Não, acho que a gente pode experimentar e ver,
+
+170
+00:10:27,920 --> 00:10:29,920
+mas eu gostaria assim.
+
+171
+00:10:31,920 --> 00:10:36,920
+Eu acho que a parte de enviar pra novo membro
+
+172
+00:10:36,920 --> 00:10:38,920
+não é a principal, acho que foi aqui.
+
+173
+00:10:40,920 --> 00:10:42,920
+Mas é o meu ver.
+
+174
+00:10:43,800 --> 00:10:49,800
+É, teoricamente isso é a tela que vai ser usada pouco, né?
+
+175
+00:10:49,800 --> 00:10:51,800
+Pois é.
+
+176
+00:10:51,800 --> 00:10:53,800
+A gente ainda entrou na tela,
+
+177
+00:10:53,800 --> 00:10:55,800
+no mérito das telas,
+
+178
+00:10:55,800 --> 00:10:57,800
+do uso do dia a dia, né?
+
+179
+00:10:57,800 --> 00:11:01,800
+Mas isso deveria ser só pra ocasiões de mudança aí mesmo.
+
+180
+00:11:01,800 --> 00:11:03,800
+Uhum.
+
+181
+00:11:05,800 --> 00:11:07,800
+Seria assim, né?
+
+182
+00:11:07,800 --> 00:11:11,800
+A anterior, deixa eu ver de novo a anterior.
+
+183
+00:11:12,680 --> 00:11:14,680
+Até o de cima?
+
+184
+00:11:14,680 --> 00:11:16,680
+É.
+
+185
+00:11:18,680 --> 00:11:20,680
+Esse maiszinho seria o quê?
+
+186
+00:11:20,680 --> 00:11:22,680
+Esse maiszinho do lado do...
+
+187
+00:11:22,680 --> 00:11:24,680
+Isso aqui é de criar time.
+
+188
+00:11:24,680 --> 00:11:26,680
+Mas é ficar lá embaixo mesmo assim?
+
+189
+00:11:26,680 --> 00:11:28,680
+É, porque vai pra essa tela aqui, ó.
+
+190
+00:11:32,680 --> 00:11:34,680
+Entendi.
+
+191
+00:11:34,680 --> 00:11:36,680
+Aí desce vai pra essa.
+
+192
+00:11:38,680 --> 00:11:40,680
+Agora aqui ele não tem necessidade.
+
+193
+00:11:42,680 --> 00:11:44,680
+É, ele não tem necessidade.
+
+194
+00:11:44,680 --> 00:11:46,680
+Ele não tinha necessidade, é.
+
+195
+00:11:46,680 --> 00:11:48,680
+Mas esse maiszinho aqui é pra criar time mesmo.
+
+196
+00:11:48,680 --> 00:11:50,680
+Uhum, tá.
+
+197
+00:11:52,680 --> 00:11:54,680
+Mais alguma coisa?
+
+198
+00:11:56,680 --> 00:11:58,680
+Volta lá naquela outra.
+
+199
+00:11:58,680 --> 00:12:00,680
+Por que tem duas do lado?
+
+200
+00:12:00,680 --> 00:12:02,680
+Uma da outra é lá em cima.
+
+201
+00:12:04,680 --> 00:12:06,680
+Aqui?
+
+202
+00:12:06,680 --> 00:12:08,680
+É.
+
+203
+00:12:08,680 --> 00:12:10,680
+Aqui é...
+
+204
+00:12:11,560 --> 00:12:13,560
+O nome do time.
+
+205
+00:12:13,560 --> 00:12:15,560
+E aqui já é pra ir tido.
+
+206
+00:12:15,560 --> 00:12:17,560
+Uhum, tá.
+
+207
+00:12:17,560 --> 00:12:19,560
+Foi só pra dar o fluxo, mas...
+
+208
+00:12:19,560 --> 00:12:21,560
+Eu não consigo fazer, então...
+
+209
+00:12:21,560 --> 00:12:23,560
+Deixei assim mesmo.
+
+210
+00:12:23,560 --> 00:12:25,560
+Uhum, tá, entendi.
+
+211
+00:12:27,560 --> 00:12:29,560
+E aquele outro lá que você fez a carinha triste,
+
+212
+00:12:29,560 --> 00:12:31,560
+a carinha feliz, seria porque...
+
+213
+00:12:31,560 --> 00:12:33,560
+Não tem nenhum time, eu não entendi.
+
+214
+00:12:33,560 --> 00:12:35,560
+É, porque não tem ainda.
+
+215
+00:12:35,560 --> 00:12:37,560
+Tá vendo?
+
+216
+00:12:38,440 --> 00:12:40,440
+Não tinha isso falando.
+
+217
+00:12:40,440 --> 00:12:42,440
+Aí seria triste.
+
+218
+00:12:42,440 --> 00:12:44,440
+Aí quando criasse um, feliz no.
+
+219
+00:12:44,440 --> 00:12:46,440
+Entendi.
+
+220
+00:12:46,440 --> 00:12:48,440
+E em termos de tipo...
+
+221
+00:12:50,440 --> 00:12:52,440
+Porque uma das coisas que eu tava na dúvida
+
+222
+00:12:52,440 --> 00:12:54,440
+sobre design também,
+
+223
+00:12:54,440 --> 00:12:56,440
+era...
+
+224
+00:12:56,440 --> 00:13:00,440
+Sobre a estrutura dessa tela inicial aí.
+
+225
+00:13:02,440 --> 00:13:04,440
+Então, por exemplo, se eu deixo as notificações
+
+226
+00:13:04,440 --> 00:13:06,440
+onde eu tinha deixado os convites,
+
+227
+00:13:07,320 --> 00:13:09,320
+se eu deixo os times como eu tinha deixado,
+
+228
+00:13:09,320 --> 00:13:11,320
+você chegou a ter alguma ideia sobre isso,
+
+229
+00:13:11,320 --> 00:13:13,320
+ou se tava bom,
+
+230
+00:13:13,320 --> 00:13:15,320
+se tava ruim,
+
+231
+00:13:15,320 --> 00:13:17,320
+se tem outra ideia melhor, diferente...
+
+232
+00:13:19,320 --> 00:13:21,320
+Não, acho que você colocou tudo certinho.
+
+233
+00:13:21,320 --> 00:13:23,320
+Por exemplo, aqui esse menu sanduíche,
+
+234
+00:13:23,320 --> 00:13:25,320
+ele é aqui mesmo.
+
+235
+00:13:25,320 --> 00:13:27,320
+Esse negócio aqui que o pai vai abrir.
+
+236
+00:13:27,320 --> 00:13:29,320
+Porque ele tem que abrir na direção da direita.
+
+237
+00:13:29,320 --> 00:13:31,320
+Aqui tá bom esse negócio de...
+
+238
+00:13:31,320 --> 00:13:33,320
+criar um novo time também.
+
+239
+00:13:33,320 --> 00:13:35,320
+Acho que aqui no meio fica legal.
+
+240
+00:13:36,200 --> 00:13:38,200
+Porque acho que é o principal, né?
+
+241
+00:13:42,200 --> 00:13:44,200
+A única questão que eu fiquei meio assim foi...
+
+242
+00:13:46,200 --> 00:13:48,200
+essa da tela aqui.
+
+243
+00:13:50,200 --> 00:13:52,200
+Porque colocar o time assim,
+
+244
+00:13:52,200 --> 00:13:54,200
+em fileirinha,
+
+245
+00:13:54,200 --> 00:13:56,200
+eu tinha pensado em colocar em caixas.
+
+246
+00:13:56,200 --> 00:13:58,200
+Mas eu não sei se...
+
+247
+00:13:58,200 --> 00:14:00,200
+Pode ser.
+
+248
+00:14:00,200 --> 00:14:02,200
+Na verdade, essa tela e a tela inicial são a mesma tela, né?
+
+249
+00:14:02,200 --> 00:14:04,200
+Uma é com time, a outra sem time.
+
+250
+00:14:05,080 --> 00:14:07,080
+Isso.
+
+251
+00:14:07,080 --> 00:14:09,080
+Concordo, eu acho que...
+
+252
+00:14:09,080 --> 00:14:11,080
+A tendência é ser em menos times,
+
+253
+00:14:11,080 --> 00:14:13,080
+e aí você dá alguma forma visual
+
+254
+00:14:13,080 --> 00:14:15,080
+de dar mais relevância com o time do que uma linhazinha.
+
+255
+00:14:17,080 --> 00:14:19,080
+Pois é, e aí eu pensei em colocar grande.
+
+256
+00:14:19,080 --> 00:14:21,080
+Porque colocar grande, ele ocupa mais espaço.
+
+257
+00:14:21,080 --> 00:14:23,080
+Se a pessoa tiver, tipo...
+
+258
+00:14:23,080 --> 00:14:25,080
+só assim...
+
+259
+00:14:25,080 --> 00:14:27,080
+Precisa de 10 times pra encher isso aqui tudo.
+
+260
+00:14:29,080 --> 00:14:31,080
+Concordo.
+
+261
+00:14:31,080 --> 00:14:33,080
+Eu ajurei, mas acho que uns 5, 100 assim.
+
+262
+00:14:35,080 --> 00:14:37,080
+Aí eu pensei em colocar como se fosse...
+
+263
+00:14:37,080 --> 00:14:39,080
+essas caixas assim, tá vendo?
+
+264
+00:14:41,080 --> 00:14:43,080
+Por mim funciona.
+
+265
+00:14:43,080 --> 00:14:45,080
+Dá pra...
+
+266
+00:14:45,080 --> 00:14:47,080
+a gente achar relevante também pra dar uma diferença visual.
+
+267
+00:14:47,080 --> 00:14:49,080
+A gente pode botar...
+
+268
+00:14:49,080 --> 00:14:51,080
+alguma forma de mudar a imagem
+
+269
+00:14:51,080 --> 00:14:53,080
+pra aparecer em coisas diferentes, sei lá.
+
+270
+00:14:55,080 --> 00:14:57,080
+Qualquer coisa que dê mais destaque, né?
+
+271
+00:14:57,960 --> 00:14:59,960
+Mas eu gostei, achei bem bonitinho.
+
+272
+00:14:59,960 --> 00:15:01,960
+Obrigada.
+
+273
+00:15:01,960 --> 00:15:03,960
+E realmente, tipo assim...
+
+274
+00:15:03,960 --> 00:15:07,960
+a diferença de cores e de tamanhos nas fontes,
+
+275
+00:15:07,960 --> 00:15:09,960
+tipo, claro, olhando de longe aqui,
+
+276
+00:15:09,960 --> 00:15:13,960
+tipo, eu não estou muito perto do monitor do notebook,
+
+277
+00:15:13,960 --> 00:15:15,960
+a tamanha da tela tá muito pequena,
+
+278
+00:15:15,960 --> 00:15:17,960
+e ainda assim eu consigo ler tudo bem,
+
+279
+00:15:17,960 --> 00:15:19,960
+e no anterior eu não consigo ler tudo bem, então...
+
+280
+00:15:19,960 --> 00:15:21,960
+isso é um bom sinal.
+
+281
+00:15:21,960 --> 00:15:23,960
+É um bom sinal.
+
+282
+00:15:24,840 --> 00:15:26,840
+Isso é outra coisa, eu precisava saber só uma coisa,
+
+283
+00:15:26,840 --> 00:15:28,840
+é...
+
+284
+00:15:28,840 --> 00:15:30,840
+pra que tipo de...
+
+285
+00:15:30,840 --> 00:15:32,840
+telefone vai ser, mas assim...
+
+286
+00:15:32,840 --> 00:15:34,840
+porque quando... esse aqui eu coloquei iPhone.
+
+287
+00:15:34,840 --> 00:15:36,840
+E a tela do iPhone, ela tem uma diferença,
+
+288
+00:15:36,840 --> 00:15:38,840
+que ela tem uma coisa aqui.
+
+289
+00:15:38,840 --> 00:15:40,840
+Sabe? A câmera fica aqui assim,
+
+290
+00:15:40,840 --> 00:15:42,840
+pra dentro do telefone.
+
+291
+00:15:42,840 --> 00:15:44,840
+Aí isso aqui fica comido.
+
+292
+00:15:44,840 --> 00:15:46,840
+Vai ser pra os dois.
+
+293
+00:15:46,840 --> 00:15:48,840
+Então, a gente tem que pensar em alguma forma
+
+294
+00:15:48,840 --> 00:15:50,840
+que...
+
+295
+00:15:50,840 --> 00:15:52,840
+a câmera vai ficar aqui assim,
+
+296
+00:15:52,840 --> 00:15:54,840
+e pensar em alguma forma que funcione
+
+297
+00:15:54,840 --> 00:15:56,840
+pros dois.
+
+298
+00:15:56,840 --> 00:15:58,840
+Então, eu vou tentar fazer uma tela de Samsung,
+
+299
+00:15:58,840 --> 00:16:00,840
+pra poder mudar,
+
+300
+00:16:00,840 --> 00:16:02,840
+porque senão aqui o iPhone fica tudo errado.
+
+301
+00:16:02,840 --> 00:16:04,840
+Pode ser.
+
+302
+00:16:04,840 --> 00:16:06,840
+É, mas no...
+
+303
+00:16:08,840 --> 00:16:10,840
+Não dá pra só fechar um pouquinho pra baixo?
+
+304
+00:16:12,840 --> 00:16:14,840
+É, eu acho que o que vai dar mais certo,
+
+305
+00:16:14,840 --> 00:16:16,840
+provavelmente, vai ser...
+
+306
+00:16:16,840 --> 00:16:18,840
+colocar, tipo...
+
+307
+00:16:18,840 --> 00:16:20,840
+botar a parte relevante
+
+308
+00:16:20,840 --> 00:16:22,840
+pra acabar um pouquinho pra baixo,
+
+309
+00:16:22,840 --> 00:16:24,840
+mas deixar com uma cobertura
+
+310
+00:16:24,840 --> 00:16:26,840
+que vai ser visualmente agradável,
+
+311
+00:16:26,840 --> 00:16:28,840
+porque isso vai aparecer em alguns dispositivos, né?
+
+312
+00:16:28,840 --> 00:16:30,840
+Porque...
+
+313
+00:16:30,840 --> 00:16:32,840
+principalmente quando você entra no mundo
+
+314
+00:16:32,840 --> 00:16:34,840
+do Android, a gente não vai conseguir fazer
+
+315
+00:16:34,840 --> 00:16:36,840
+uma coisa específica pra cada, são infinitos.
+
+316
+00:16:36,840 --> 00:16:38,840
+Sim, sim.
+
+317
+00:16:38,840 --> 00:16:40,840
+Então, uma vez que rode pra Android,
+
+318
+00:16:40,840 --> 00:16:42,840
+tudo que a gente vai ter de informação mesmo relevante
+
+319
+00:16:42,840 --> 00:16:44,840
+é...
+
+320
+00:16:44,840 --> 00:16:46,840
+proporção da tela.
+
+321
+00:16:46,840 --> 00:16:48,840
+Daí pra frente, vai mudar o mostro.
+
+322
+00:16:48,840 --> 00:16:50,840
+Diga, a proporção da tela ainda muda,
+
+323
+00:16:50,840 --> 00:16:52,840
+mas ela é razoavelmente parecida, né?
+
+324
+00:16:52,840 --> 00:16:54,840
+Eu acho que é do...
+
+325
+00:16:54,840 --> 00:16:56,840
+Se for focar no Samsung, eu acho que isso aqui não altera tanto.
+
+326
+00:16:56,840 --> 00:16:58,840
+É que eu coloquei num
+
+327
+00:16:58,840 --> 00:17:00,840
+mock-up de telefone de iPhone,
+
+328
+00:17:00,840 --> 00:17:02,840
+e mudou muito por causa dessa câmera pra dentro,
+
+329
+00:17:02,840 --> 00:17:04,840
+mas eu acho que no Samsung
+
+330
+00:17:04,840 --> 00:17:06,840
+não muda tanto, não.
+
+331
+00:17:06,840 --> 00:17:08,840
+A tela é mais aberta.
+
+332
+00:17:10,840 --> 00:17:12,840
+Mas aí...
+
+333
+00:17:12,840 --> 00:17:14,840
+Essa nuvem aqui, por exemplo,
+
+334
+00:17:14,840 --> 00:17:16,840
+eu tenho aqui um...
+
+335
+00:17:16,840 --> 00:17:18,840
+O Johnny tá falando aí que muda pra resolução.
+
+336
+00:17:18,840 --> 00:17:20,840
+É que muda muita coisa.
+
+337
+00:17:20,840 --> 00:17:22,840
+Você tem, sei lá, tem
+
+338
+00:17:22,840 --> 00:17:24,840
+o celular Samsung de entrada,
+
+339
+00:17:24,840 --> 00:17:26,840
+que custam, sei lá, 300 reais,
+
+340
+00:17:26,840 --> 00:17:28,840
+e que a resolução é super baixa,
+
+341
+00:17:28,840 --> 00:17:30,840
+e você tem o Samsung
+
+342
+00:17:30,840 --> 00:17:32,840
+top de linha, que custa...
+
+343
+00:17:32,840 --> 00:17:34,840
+O meu reais, e tipo assim, a resolução,
+
+344
+00:17:34,840 --> 00:17:36,840
+o tamanho da tela, tudo muda completamente.
+
+345
+00:17:36,840 --> 00:17:38,840
+O...
+
+346
+00:17:38,840 --> 00:17:40,840
+O Samsung tem uma coisa
+
+347
+00:17:40,840 --> 00:17:42,840
+igual pra câmera ali, que é mais como se fosse
+
+348
+00:17:42,840 --> 00:17:44,840
+o iPhone X,
+
+349
+00:17:44,840 --> 00:17:46,840
+e o...
+
+350
+00:17:46,840 --> 00:17:48,840
+e os mascaras é só o comprote da câmera.
+
+351
+00:17:48,840 --> 00:17:50,840
+Muda bastante, não.
+
+352
+00:17:50,840 --> 00:17:52,840
+Tô vendo dentro de uma marca.
+
+353
+00:17:52,840 --> 00:17:54,840
+Só que tem outro marca que a câmera é na esquerda,
+
+354
+00:17:54,840 --> 00:17:56,840
+a câmera é na direita.
+
+355
+00:17:56,840 --> 00:17:58,840
+É porque aqui,
+
+356
+00:17:58,840 --> 00:18:00,840
+esse aqui é um exemplo que ficou bem...
+
+357
+00:18:00,840 --> 00:18:02,840
+Quando tem essa
+
+358
+00:18:02,840 --> 00:18:04,840
+parte aqui, come a metade da tela.
+
+359
+00:18:06,840 --> 00:18:08,840
+Porque fica um...
+
+360
+00:18:08,840 --> 00:18:10,840
+É, teria que abaixar
+
+361
+00:18:10,840 --> 00:18:12,840
+um pouco essa parte, né, porque senão
+
+362
+00:18:12,840 --> 00:18:14,840
+ele ia ficar aí tampando.
+
+363
+00:18:14,840 --> 00:18:16,840
+Fica assim, entendeu?
+
+364
+00:18:16,840 --> 00:18:18,840
+É, quando você dominou, tem como desenvolvedor
+
+365
+00:18:18,840 --> 00:18:20,840
+também botar uma opção
+
+366
+00:18:20,840 --> 00:18:22,840
+do inulador, que eu acho que também.
+
+367
+00:18:22,840 --> 00:18:24,840
+Ele só ia empurrar tudo pra baixo,
+
+368
+00:18:24,840 --> 00:18:26,840
+do notch de linha aí,
+
+369
+00:18:26,840 --> 00:18:28,840
+não é assim?
+
+370
+00:18:28,840 --> 00:18:30,840
+É, porque, eu não sei, né,
+
+371
+00:18:30,840 --> 00:18:32,840
+porque, como é que funciona, mas aqui
+
+372
+00:18:32,840 --> 00:18:34,840
+teria que ficar
+
+373
+00:18:34,840 --> 00:18:36,840
+um pra baixo, um pro lado,
+
+374
+00:18:36,840 --> 00:18:38,840
+aí eu não sei se...
+
+375
+00:18:38,840 --> 00:18:40,840
+porque senão...
+
+376
+00:18:40,840 --> 00:18:42,840
+Não sei explicar mais.
+
+377
+00:18:42,840 --> 00:18:44,840
+Tá vendo?
+
+378
+00:18:44,840 --> 00:18:46,840
+Ele não é todo assim.
+
+379
+00:18:46,840 --> 00:18:48,840
+A tela tem um espaço aqui que é utilizável, entendeu?
+
+380
+00:18:50,840 --> 00:18:52,840
+Aqui,
+
+381
+00:18:52,840 --> 00:18:54,840
+ela faz meio que um U, assim.
+
+382
+00:18:56,840 --> 00:18:58,840
+Mas aí, se puder mexer nisso aí,
+
+383
+00:18:58,840 --> 00:19:00,840
+nem precisa.
+
+384
+00:19:02,840 --> 00:19:04,840
+Se você conseguir adaptar, no caso.
+
+385
+00:19:04,840 --> 00:19:06,840
+Eu vou
+
+386
+00:19:06,840 --> 00:19:08,840
+tentar entender como é que funciona.
+
+387
+00:19:08,840 --> 00:19:10,840
+Se você quiser resolver,
+
+388
+00:19:10,840 --> 00:19:12,840
+você pode botar pra
+
+389
+00:19:12,840 --> 00:19:14,840
+ver os índios do app.
+
+390
+00:19:14,840 --> 00:19:16,840
+Se ele abasta,
+
+391
+00:19:16,840 --> 00:19:18,840
+sempre do...
+
+392
+00:19:18,840 --> 00:19:20,840
+Então, já resolvei.
+
+393
+00:19:22,840 --> 00:19:24,840
+Vocês entenderam um pouquinho?
+
+394
+00:19:24,840 --> 00:19:26,840
+Entendi.
+
+395
+00:19:26,840 --> 00:19:28,840
+O que...
+
+396
+00:19:28,840 --> 00:19:30,840
+O ponto é, o que você vai fazer é
+
+397
+00:19:30,840 --> 00:19:32,840
+botar a margem pra baixo.
+
+398
+00:19:32,840 --> 00:19:34,840
+Tá certo, ele vai estar fazendo isso pra gente,
+
+399
+00:19:34,840 --> 00:19:36,840
+não vai ser mais de nada, mas é isso que ele vai fazer,
+
+400
+00:19:36,840 --> 00:19:38,840
+ele vai botar pra baixo.
+
+401
+00:19:38,840 --> 00:19:40,840
+As informações
+
+402
+00:19:40,840 --> 00:19:42,840
+relevantes que a gente definiu.
+
+403
+00:19:42,840 --> 00:19:44,840
+Ah, mas vai botar pra não querer,
+
+404
+00:19:44,840 --> 00:19:46,840
+quando é nível de ISO,
+
+405
+00:19:46,840 --> 00:19:48,840
+tanto o Android quanto o iOS,
+
+406
+00:19:48,840 --> 00:19:50,840
+você conseguir configurar isso, é mais fácil que a gente
+
+407
+00:19:50,840 --> 00:19:52,840
+não ter que se preocupar com isso, né?
+
+408
+00:19:52,840 --> 00:19:54,840
+Sim, sim, sim.
+
+409
+00:19:58,840 --> 00:20:00,840
+É, a minha questão é só essa, Mico.
+
+410
+00:20:06,840 --> 00:20:08,840
+Eu acho que isso é resolvido.
+
+411
+00:20:08,840 --> 00:20:10,840
+Eu vou entender melhor
+
+412
+00:20:10,840 --> 00:20:12,840
+como é que funciona pra fazer isso via código,
+
+413
+00:20:12,840 --> 00:20:14,840
+mas eu acho que é factível assim.
+
+414
+00:20:20,840 --> 00:20:22,840
+Tá mais algum mensagem?
+
+415
+00:20:24,840 --> 00:20:26,840
+Eu queria acessar esse vídeo.
+
+416
+00:20:28,840 --> 00:20:30,840
+Como é que eu posso ligar?
+
+417
+00:20:30,840 --> 00:20:32,840
+Link a...
+
+418
+00:20:32,840 --> 00:20:34,840
+Sei lá.
+
+419
+00:20:34,840 --> 00:20:36,840
+Pode ser, qualquer jeito.
+
+420
+00:20:38,840 --> 00:20:40,840
+Manda no chat.
+
+421
+00:20:42,840 --> 00:20:44,840
+Pode copiar o link e mandar no grupo.
+
+422
+00:20:52,840 --> 00:20:54,840
+Pode copiar o link e mandar no chat.
+
+423
+00:20:54,840 --> 00:20:56,840
+A gente tem um grupo?
+
+424
+00:20:56,840 --> 00:20:58,840
+Não.
+
+425
+00:20:58,840 --> 00:21:00,840
+Eu vou criar aqui então.
+
+426
+00:21:00,840 --> 00:21:02,840
+Ah, é verdade, eu posso mandar no
+
+427
+00:21:02,840 --> 00:21:04,840
+grupo.
+
+428
+00:21:06,840 --> 00:21:08,840
+Mas a gente não tem por enquanto, eu vou
+
+429
+00:21:08,840 --> 00:21:10,840
+criar aqui.
+
+430
+00:21:10,840 --> 00:21:12,840
+Ah, é pra mandar no chat.
+
+431
+00:21:14,840 --> 00:21:16,840
+Mas eu acho que é legal ter de qualquer
+
+432
+00:21:16,840 --> 00:21:18,840
+forma pra gente poder
+
+433
+00:21:18,840 --> 00:21:20,840
+ir comunicando ao longo da semana
+
+434
+00:21:20,840 --> 00:21:22,840
+pra gente.
+
+435
+00:21:28,840 --> 00:21:30,840
+Mandei.
+
+436
+00:21:30,840 --> 00:21:32,840
+Pode botar a chave aqui.
+
+437
+00:21:32,840 --> 00:21:34,840
+Obrigado.
+
+438
+00:21:36,840 --> 00:21:38,840
+Olá.
+
+439
+00:21:38,840 --> 00:21:40,840
+Depois é interessante a gente marcar
+
+440
+00:21:40,840 --> 00:21:42,840
+uma reunião com a Ana,
+
+441
+00:21:42,840 --> 00:21:44,840
+que é o Delto,
+
+442
+00:21:44,840 --> 00:21:46,840
+pra gente conversar
+
+443
+00:21:46,840 --> 00:21:48,840
+um pouco sobre as outras
+
+444
+00:21:48,840 --> 00:21:50,840
+métricas
+
+445
+00:21:50,840 --> 00:21:52,840
+que eu coletava pra ela
+
+446
+00:21:52,840 --> 00:21:54,840
+explicar,
+
+447
+00:21:54,840 --> 00:21:56,840
+ela entender o que é isso,
+
+448
+00:21:56,840 --> 00:21:58,840
+pra gente começar a
+
+449
+00:21:58,840 --> 00:22:00,840
+espunhar e postar de fato.
+
+450
+00:22:02,840 --> 00:22:04,840
+Então as métricas, como por exemplo,
+
+451
+00:22:04,840 --> 00:22:06,840
+Checklist,
+
+452
+00:22:06,840 --> 00:22:08,840
+como que ela poderia ser até
+
+453
+00:22:08,840 --> 00:22:10,840
+ela.
+
+454
+00:22:12,840 --> 00:22:14,840
+Enquanto o Tomás vai
+
+455
+00:22:14,840 --> 00:22:16,840
+desenvolvendo outras partes, a gente pode
+
+456
+00:22:16,840 --> 00:22:18,840
+fazer essa parte.
+
+457
+00:22:18,840 --> 00:22:20,840
+É, eu acho que
+
+458
+00:22:20,840 --> 00:22:22,840
+já agiliza isso.
+
+459
+00:22:22,840 --> 00:22:24,840
+Tomás focar na
+
+460
+00:22:24,840 --> 00:22:26,840
+parte do código.
+
+461
+00:22:26,840 --> 00:22:28,840
+Outra coisa,
+
+462
+00:22:28,840 --> 00:22:30,840
+se alguém por aí,
+
+463
+00:22:30,840 --> 00:22:32,840
+me ofereça um react,
+
+464
+00:22:32,840 --> 00:22:34,840
+eu posso dar alguma coisa de tomás
+
+465
+00:22:34,840 --> 00:22:36,840
+pra gente também, é interessante.
+
+466
+00:22:38,840 --> 00:22:40,840
+É, mas é um pouco difícil.
+
+467
+00:22:40,840 --> 00:22:42,840
+Sério?
+
+468
+00:22:44,840 --> 00:22:46,840
+É, eu só já
+
+469
+00:22:46,840 --> 00:22:48,840
+acertei.
+
+470
+00:22:48,840 --> 00:22:50,840
+Ui, sincero.
+
+471
+00:22:50,840 --> 00:22:52,840
+Eu dei molhar.
+
+472
+00:22:52,840 --> 00:22:54,840
+Mas eu posso agitar isso?
+
+473
+00:22:54,840 --> 00:22:56,840
+Pode.
+
+474
+00:22:58,840 --> 00:23:00,840
+Não.
+
+475
+00:23:00,840 --> 00:23:02,840
+Nunca.
+
+476
+00:23:12,840 --> 00:23:14,840
+É uma pergunta.
+
+477
+00:23:16,840 --> 00:23:18,840
+Não vai ter,
+
+478
+00:23:18,840 --> 00:23:20,840
+como que fala,
+
+479
+00:23:20,840 --> 00:23:22,840
+competição,
+
+480
+00:23:22,840 --> 00:23:24,840
+uma gameficação
+
+481
+00:23:24,840 --> 00:23:26,840
+desintegrativa?
+
+482
+00:23:28,840 --> 00:23:30,840
+É porque
+
+483
+00:23:30,840 --> 00:23:32,840
+quando ela pediu inspiração,
+
+484
+00:23:32,840 --> 00:23:34,840
+eu falei que era se ela focar na
+
+485
+00:23:34,840 --> 00:23:36,840
+área do olhinho, só que o do olhinho
+
+486
+00:23:36,840 --> 00:23:38,840
+tem várias que tinha de competição.
+
+487
+00:23:38,840 --> 00:23:40,840
+Não é botar isso,
+
+488
+00:23:40,840 --> 00:23:42,840
+fazer hinnies de produtividade, hinnies
+
+489
+00:23:42,840 --> 00:23:44,840
+só olhando pra fora.
+
+490
+00:23:46,840 --> 00:23:48,840
+É tipo assim, pulando,
+
+491
+00:23:48,840 --> 00:23:50,840
+pulando o punctuário dele.
+
+492
+00:23:50,840 --> 00:23:52,840
+Não.
+
+493
+00:23:54,840 --> 00:23:56,840
+É uma tarefa diária.
+
+494
+00:23:56,840 --> 00:23:58,840
+Eu tô te lembrando, falando que
+
+495
+00:23:58,840 --> 00:24:00,840
+é aqui que a gente começa.
+
+496
+00:24:00,840 --> 00:24:02,840
+Ah, eu acho que bota uma pressão meio chata.
+
+497
+00:24:06,840 --> 00:24:08,840
+Tipo assim, arroba Juliana Tadeu, e aí?
+
+498
+00:24:08,840 --> 00:24:10,840
+Você é o que?
+
+499
+00:24:10,840 --> 00:24:12,840
+Todo mundo já respondeu, só falta você.
+
+500
+00:24:12,840 --> 00:24:14,840
+Mas bota pra mentir
+
+501
+00:24:14,840 --> 00:24:16,840
+todo dia,
+
+502
+00:24:16,840 --> 00:24:18,840
+todo mundo.
+
+503
+00:24:18,840 --> 00:24:20,840
+Essa pessoa não adoece uma semana,
+
+504
+00:24:20,840 --> 00:24:22,840
+ou será que ela tá com uma faca na mão?
+
+505
+00:24:22,840 --> 00:24:24,840
+Ele tá enraged.
+
+506
+00:24:24,840 --> 00:24:26,840
+Mas é meio que a trabalho,
+
+507
+00:24:26,840 --> 00:24:28,840
+não ironicamente?
+
+508
+00:24:28,840 --> 00:24:30,840
+Não, eu acho que não, por favor.
+
+509
+00:24:30,840 --> 00:24:32,840
+Eu chego pra baixo, por favor.
+
+510
+00:24:32,840 --> 00:24:34,840
+Eu não gostei muito.
+
+511
+00:24:34,840 --> 00:24:36,840
+Eu acho que a gente pode só pedir mais
+
+512
+00:24:36,840 --> 00:24:38,840
+pessoas. Elas trabalham, é uma obrigação de
+
+513
+00:24:38,840 --> 00:24:40,840
+trabalho.
+
+514
+00:24:40,840 --> 00:24:42,840
+Mas ter um lembrete
+
+515
+00:24:42,840 --> 00:24:44,840
+é importante.
+
+516
+00:24:44,840 --> 00:24:46,840
+Pode ser um greche normal.
+
+517
+00:24:46,840 --> 00:24:48,840
+Pode ser, pode ser.
+
+518
+00:24:50,840 --> 00:24:52,840
+Pode ser pouquinho.
+
+519
+00:24:52,840 --> 00:24:54,840
+Eu gostei mais da ideia que você deu na outra
+
+520
+00:24:54,840 --> 00:24:56,840
+vez.
+
+521
+00:24:56,840 --> 00:24:58,840
+O cérebrozinho com os personagens
+
+522
+00:24:58,840 --> 00:25:00,840
+de pessoas que são sujeitas.
+
+523
+00:25:00,840 --> 00:25:02,840
+O body is calling.
+
+524
+00:25:02,840 --> 00:25:04,840
+E não, o body faz o som.
+
+525
+00:25:04,840 --> 00:25:06,840
+A direita de todo o sonho, por isso que
+
+526
+00:25:06,840 --> 00:25:08,840
+eu transei pra mim.
+
+527
+00:25:12,840 --> 00:25:14,840
+A pessoa já vai?
+
+528
+00:25:14,840 --> 00:25:16,840
+A pessoa já vai responder vai.
+
+529
+00:25:18,840 --> 00:25:20,840
+Eu me esqueço de uma dicação às vezes,
+
+530
+00:25:20,840 --> 00:25:22,840
+se eu vou ficar espetada,
+
+531
+00:25:22,840 --> 00:25:24,840
+eu vou ficar espetada.
+
+532
+00:25:24,840 --> 00:25:26,840
+Mas nem com o GSP,
+
+533
+00:25:26,840 --> 00:25:28,840
+é uma coisa que tem que fazer o mesmo dia.
+
+534
+00:25:30,840 --> 00:25:32,840
+Mas não é uma obrigação, gente?
+
+535
+00:25:32,840 --> 00:25:34,840
+Não é, mas nem todo mundo faz
+
+536
+00:25:34,840 --> 00:25:36,840
+obrigação, né?
+
+537
+00:25:36,840 --> 00:25:38,840
+Porque é uma obrigação, não quer dizer
+
+538
+00:25:38,840 --> 00:25:40,840
+que as pessoas vão fazer muito menos que
+
+539
+00:25:40,840 --> 00:25:42,840
+elas vão fazer na hora que deveriam.
+
+540
+00:25:42,840 --> 00:25:44,840
+Gente, mas se eu tivesse que perder
+
+541
+00:25:44,840 --> 00:25:46,840
+de comigo antes do meu horário de trabalho
+
+542
+00:25:46,840 --> 00:25:48,840
+pra responder perguntinha,
+
+543
+00:25:48,840 --> 00:25:50,840
+eu ia ficando ansiosa pra chegar
+
+544
+00:25:50,840 --> 00:25:52,840
+ao dia seguinte.
+
+545
+00:25:54,840 --> 00:25:56,840
+Enfim, pediu e tomou.
+
+546
+00:25:56,840 --> 00:25:58,840
+Tomei.
+
+547
+00:25:58,840 --> 00:26:00,840
+Então não?
+
+548
+00:26:02,840 --> 00:26:04,840
+Então tá, vamos lá. Próxima
+
+549
+00:26:04,840 --> 00:26:06,840
+etapa.
+
+550
+00:26:06,840 --> 00:26:08,840
+Mas vai, pediu.
+
+551
+00:26:08,840 --> 00:26:10,840
+Ela que faz uma tela de XP ao mesmo tempo.
+
+552
+00:26:10,840 --> 00:26:12,840
+Não, cara,
+
+553
+00:26:12,840 --> 00:26:14,840
+obrigação.
+
+554
+00:26:14,840 --> 00:26:16,840
+Ou como é que vai ser?
+
+555
+00:26:16,840 --> 00:26:18,840
+Vai ter...
+
+556
+00:26:18,840 --> 00:26:20,840
+Vai ter o XP,
+
+557
+00:26:20,840 --> 00:26:22,840
+vai ter uma notificação.
+
+558
+00:26:22,840 --> 00:26:24,840
+Eu acho que mais do que XP,
+
+559
+00:26:24,840 --> 00:26:26,840
+se for fazer alguma coisa nessa linha,
+
+560
+00:26:26,840 --> 00:26:28,840
+pode ser mais legal fazer
+
+561
+00:26:28,840 --> 00:26:30,840
+uma coisa na linha da...
+
+562
+00:26:30,840 --> 00:26:32,840
+Não tem aqueles aplicativos
+
+563
+00:26:32,840 --> 00:26:34,840
+de estudo que, tipo,
+
+564
+00:26:34,840 --> 00:26:36,840
+tu vai fazer uma floresta,
+
+565
+00:26:36,840 --> 00:26:38,840
+e aí a floresta vai crescendo, e aí se você faz
+
+566
+00:26:38,840 --> 00:26:40,840
+uma merda, a floresta some?
+
+567
+00:26:40,840 --> 00:26:42,840
+Você faz o quê?
+
+568
+00:26:42,840 --> 00:26:44,840
+É porque foi uma referência
+
+569
+00:26:44,840 --> 00:26:46,840
+vaga porque eu tava torcendo pra alguém
+
+570
+00:26:46,840 --> 00:26:48,840
+crescer. Tem uns aplicativos
+
+571
+00:26:48,840 --> 00:26:50,840
+tipo assim, vou estudar uma hora,
+
+572
+00:26:50,840 --> 00:26:52,840
+aí você liga no celular,
+
+573
+00:26:52,840 --> 00:26:54,840
+e aí ele tipo...
+
+574
+00:26:54,840 --> 00:26:56,840
+Peraí, peraí, peraí, peraí. Tem duas pessoas falando
+
+575
+00:26:56,840 --> 00:26:58,840
+mesmo que eu não entendo de nada.
+
+576
+00:26:58,840 --> 00:27:00,840
+Se o cortinho tá falando presencial eu nunca
+
+577
+00:27:00,840 --> 00:27:02,840
+ouvi, não.
+
+578
+00:27:04,840 --> 00:27:06,840
+Não, eu tava só explicando a ideia.
+
+579
+00:27:06,840 --> 00:27:15,840
+Não é porque, eu não sei quem tá mais longe do notebook, quem tá mais perto, mas é porque tem uma galera que eu simplesmente não escuto, que o negócio deve tirar como ruído.
+
+580
+00:27:15,840 --> 00:27:21,840
+Entendi, não é porque eu tava duas pessoas falando, eu não entendi, mas pode falar que agora só tá você.
+
+581
+00:27:21,840 --> 00:27:34,840
+O que eu falei é que, tipo, tem um aplicativo que tem uma galera que usa pra estudar, que é tipo assim, você bota ele no celular e aí ele começa a crescer uma árvore e crescendo uma floresta.
+
+582
+00:27:34,840 --> 00:27:43,840
+E aí quando você mexe no celular, ele destrói a floresta. Isso é feito pra você não mexer no celular enquanto você tá estudando.
+
+583
+00:27:43,840 --> 00:27:54,840
+O ponto é, eu acho que se for fazer alguma coisa nessa linha, que eu não sei se faz sentido ou não, eu acho que é mais legal fazer isso do que uma coisa tipo XP que fica...
+
+584
+00:27:54,840 --> 00:28:08,840
+Eu acho que é muito mais interessante fazer uma coisa sutil e lúdica do tipo o cérebrozinho tá ficando bravo do que coisas quantitativas tipo o número de XP, se for fazer coisas nessa linha.
+
+585
+00:28:09,840 --> 00:28:20,840
+É muito legal, assim, por exemplo, você ter, sei lá, uma escala de humor do cérebrozinho, ou então essa questão aí da árvore poderia ser uma analogia com outras coisas.
+
+586
+00:28:20,840 --> 00:28:24,840
+Tinha aquele bonequinho personal que a gente matava ele, que não tinha nem que dar o grau.
+
+587
+00:28:24,840 --> 00:28:25,840
+Isso?
+
+588
+00:28:25,840 --> 00:28:26,840
+É...
+
+589
+00:28:26,840 --> 00:28:28,840
+Ideias leves e lúdicas.
+
+590
+00:28:28,840 --> 00:28:30,840
+Não, dá pra fazer isso porque...
+
+591
+00:28:30,840 --> 00:28:39,840
+Eu acho que tem que ter um limite.
+
+592
+00:28:39,840 --> 00:28:44,840
+Ele fica triste porque você não apareceu hoje, agora você tá no ponto de rir.
+
+593
+00:28:44,840 --> 00:28:49,840
+Tá, mas eu acho que você tá triste e feliz, eu não rio muito não.
+
+594
+00:28:49,840 --> 00:28:51,840
+É, o bonequinho, eu acho...
+
+595
+00:28:51,840 --> 00:29:03,840
+Eu acho que talvez mostrar um pouco de competitividade com a pessoa que tá nessa frente, porque você tá aqui...
+
+596
+00:29:03,840 --> 00:29:05,840
+Era a ideia de eu ir só pra ali.
+
+597
+00:29:05,840 --> 00:29:07,840
+Não, mas tipo...
+
+598
+00:29:07,840 --> 00:29:08,840
+O Juliana?
+
+599
+00:29:08,840 --> 00:29:12,840
+Você vai querer estar ali na frente, né?
+
+600
+00:29:12,840 --> 00:29:16,840
+Só que você não conseguiu de papas, você respondeu nos 50 dias.
+
+601
+00:29:16,840 --> 00:29:18,840
+Ah, aquela...
+
+602
+00:29:23,840 --> 00:29:25,840
+Exatamente.
+
+603
+00:29:25,840 --> 00:29:27,840
+Quanto dias seguidos você vai estar respondendo.
+
+604
+00:29:27,840 --> 00:29:30,840
+Por exemplo, esse bonequinho, eu tô com aquele problema de não sei...
+
+605
+00:29:30,840 --> 00:29:32,840
+Tem 3 dias que eu vou fazer ela todo dia.
+
+606
+00:29:32,840 --> 00:29:34,840
+Se eu não fizer...
+
+607
+00:29:34,840 --> 00:29:37,840
+É, eu perdi o meu bonequinho e vou ter que começar de zero.
+
+608
+00:29:37,840 --> 00:29:43,840
+E isso aqui também que eu acho legal, tem atriz e todas as coisas que eu já fiz.
+
+609
+00:29:43,840 --> 00:29:46,840
+Mas vamos ver de quanto dia a gente vai mudar.
+
+610
+00:29:46,840 --> 00:29:47,840
+É, isso também.
+
+611
+00:29:47,840 --> 00:29:49,840
+Isso não funciona.
+
+612
+00:29:49,840 --> 00:29:51,840
+A gente não tá vendo, né, coitado?
+
+613
+00:29:51,840 --> 00:29:52,840
+E então?
+
+614
+00:29:54,840 --> 00:29:56,840
+Ô Ana, você queria falar alguma coisa?
+
+615
+00:29:56,840 --> 00:30:01,840
+Essa questão dos humoros que vocês falaram, é que eu não deu pra ouvir muito bem.
+
+616
+00:30:01,840 --> 00:30:04,840
+Que acho que ficou um ruído.
+
+617
+00:30:04,840 --> 00:30:09,840
+Mas a questão do Duolingo, eles ficam tipo uns...
+
+618
+00:30:10,840 --> 00:30:12,840
+Widgets?
+
+619
+00:30:12,840 --> 00:30:13,840
+É, eu mostrei.
+
+620
+00:30:13,840 --> 00:30:15,840
+Ah, tá, então eu esqueci.
+
+621
+00:30:17,840 --> 00:30:18,840
+Vai te falar.
+
+622
+00:30:18,840 --> 00:30:21,840
+É porque às vezes o volume chega aqui no Zoom, às vezes ele não chega.
+
+623
+00:30:21,840 --> 00:30:22,840
+É, pois...
+
+624
+00:30:22,840 --> 00:30:23,840
+Aí às vezes...
+
+625
+00:30:23,840 --> 00:30:24,840
+Não é...
+
+626
+00:30:24,840 --> 00:30:25,840
+Passarinho assim.
+
+627
+00:30:26,840 --> 00:30:27,840
+Esse aí é o quê?
+
+628
+00:30:27,840 --> 00:30:28,840
+Ah, tipo chorando?
+
+629
+00:30:28,840 --> 00:30:29,840
+Não.
+
+630
+00:30:29,840 --> 00:30:30,840
+Brabo.
+
+631
+00:30:33,840 --> 00:30:34,840
+Brabo assim.
+
+632
+00:30:35,840 --> 00:30:37,840
+Que você não tá fazendo as tarefas, sabe?
+
+633
+00:30:37,840 --> 00:30:39,840
+Tipo, ah, um dia de negócio.
+
+634
+00:30:40,840 --> 00:30:42,840
+Aí a gente não faz isso.
+
+635
+00:30:44,840 --> 00:30:46,840
+Tá desenhando na mesa ou não, né?
+
+636
+00:30:46,840 --> 00:30:48,840
+Não, no mousepad.
+
+637
+00:30:48,840 --> 00:30:49,840
+Ah, tá.
+
+638
+00:30:54,840 --> 00:31:01,840
+Mas aí eu pensei que, por exemplo, se definisse pelo menos uns três humores pra esse coisinho aqui,
+
+639
+00:31:01,840 --> 00:31:04,840
+dá pra colocar nessas telinhas, entendeu?
+
+640
+00:31:04,840 --> 00:31:06,840
+E aí se ativar a pessoa faz...
+
+641
+00:31:07,840 --> 00:31:09,840
+Ah, é exatamente isso.
+
+642
+00:31:11,840 --> 00:31:16,840
+Até o que a Julia mostrou da trilha poderia ser as métricas de árvores, não poderia não?
+
+643
+00:31:16,840 --> 00:31:17,840
+É.
+
+644
+00:31:17,840 --> 00:31:18,840
+Aí vai construir na trilha?
+
+645
+00:31:18,840 --> 00:31:19,840
+Sim.
+
+646
+00:31:19,840 --> 00:31:20,840
+Tipo, quanto mais vai fazendo, poderia ser isso.
+
+647
+00:31:20,840 --> 00:31:23,840
+Tipo, quanto mais vai fazendo, mais a gente vai afinar a tela, tá?
+
+648
+00:31:23,840 --> 00:31:24,840
+Por ir descendo ali.
+
+649
+00:31:24,840 --> 00:31:26,840
+E isso é muito legal.
+
+650
+00:31:26,840 --> 00:31:27,840
+Vou ver que é legal.
+
+651
+00:31:28,840 --> 00:31:29,840
+Eu gosto, né?
+
+652
+00:31:29,840 --> 00:31:31,840
+Quando eu preocupo com a trilha?
+
+653
+00:31:31,840 --> 00:31:32,840
+Tem.
+
+654
+00:31:32,840 --> 00:31:33,840
+Repete.
+
+655
+00:31:33,840 --> 00:31:35,840
+Acho que a Julia deu, acho que é uma trilha.
+
+656
+00:31:35,840 --> 00:31:36,840
+Então?
+
+657
+00:31:36,840 --> 00:31:39,840
+Aí nessa trilha, quanto mais você está fazendo, mais vai crescendo.
+
+658
+00:31:39,840 --> 00:31:40,840
+O áudio tá.
+
+659
+00:31:40,840 --> 00:31:41,840
+Como será?
+
+660
+00:31:41,840 --> 00:31:42,840
+Você sabe como é que é a trilha?
+
+661
+00:31:42,840 --> 00:31:44,840
+Aí vai crescendo a trilha e vai crescendo isso mais.
+
+662
+00:31:44,840 --> 00:31:46,840
+Tipo, meio mistura, tanto como verdade.
+
+663
+00:31:46,840 --> 00:31:47,840
+Isso.
+
+664
+00:31:47,840 --> 00:31:49,840
+Não, só a gente precisa ser roncorais, não é?
+
+665
+00:31:49,840 --> 00:31:50,840
+Pode ser.
+
+666
+00:31:50,840 --> 00:31:52,840
+Só acho que ia ser triste, né?
+
+667
+00:31:52,840 --> 00:31:55,840
+Porque um dia tem que fazer e aí eles dão uns movimentos.
+
+668
+00:31:55,840 --> 00:31:56,840
+Eu também.
+
+669
+00:31:57,840 --> 00:31:58,840
+Ana, tá ouvindo?
+
+670
+00:32:00,840 --> 00:32:01,840
+Mais ou menos.
+
+671
+00:32:02,840 --> 00:32:04,840
+Sabe aquela trilha do Luaninho?
+
+672
+00:32:04,840 --> 00:32:05,840
+É.
+
+673
+00:32:05,840 --> 00:32:08,840
+Quando você faz uma cara que fica verdinho e aí você não fez ainda, tá assim?
+
+674
+00:32:08,840 --> 00:32:09,840
+Uhum.
+
+675
+00:32:09,840 --> 00:32:11,840
+É disso que a gente tá falando.
+
+676
+00:32:11,840 --> 00:32:13,840
+De fazer ou ver.
+
+677
+00:32:15,840 --> 00:32:17,840
+Mas com o próprio time, né?
+
+678
+00:32:19,840 --> 00:32:20,840
+É pra métrica.
+
+679
+00:32:20,840 --> 00:32:21,840
+É pra métrica.
+
+680
+00:32:21,840 --> 00:32:25,840
+Cada bolinha ali da trilha seria...
+
+681
+00:32:25,840 --> 00:32:28,840
+Cada bolinha da trilha seria meio que uma métrica, entendeu?
+
+682
+00:32:28,840 --> 00:32:31,840
+Diariamente fica aparecendo bolinhas ali da trilha.
+
+683
+00:32:31,840 --> 00:32:35,840
+E quanto mais você vai fazendo, poderia ser mais ou menos a ideia de tomar os dedos.
+
+684
+00:32:35,840 --> 00:32:38,840
+Tipo, ir avançando e construir um cenário.
+
+685
+00:32:38,840 --> 00:32:41,840
+Talvez até uma floresta ou alguma coisa relacionada ao cérebro mesmo.
+
+686
+00:32:41,840 --> 00:32:42,840
+Não sei.
+
+687
+00:32:42,840 --> 00:32:43,840
+Entendi.
+
+688
+00:32:43,840 --> 00:32:44,840
+Mas...
+
+689
+00:32:45,840 --> 00:32:47,840
+Vocês tinham falado de notificação.
+
+690
+00:32:47,840 --> 00:32:51,840
+Como é que se coloca na notificação?
+
+691
+00:32:53,840 --> 00:32:57,840
+Cérebro miserável, cérebro puto, cérebro feliz.
+
+692
+00:32:57,840 --> 00:32:58,840
+Não?
+
+693
+00:32:59,840 --> 00:33:00,840
+Não.
+
+694
+00:33:02,840 --> 00:33:09,840
+Não, a notificação poderia ser um desenho desse jeito e não dá pra pôr um desenho.
+
+695
+00:33:10,840 --> 00:33:11,840
+Ah.
+
+696
+00:33:14,840 --> 00:33:17,840
+Então seria isso aqui junto com uma notificação.
+
+697
+00:33:18,840 --> 00:33:20,840
+Falando, ah, vai lá fazer.
+
+698
+00:33:21,840 --> 00:33:22,840
+É isso, pessoal?
+
+699
+00:33:23,840 --> 00:33:24,840
+É, tipo isso.
+
+700
+00:33:24,840 --> 00:33:25,840
+Sim.
+
+701
+00:33:25,840 --> 00:33:27,840
+Mas não vamos fazer, né?
+
+702
+00:33:27,840 --> 00:33:30,840
+Tipo, você tem que pensar pra cá que vai pra frente.
+
+703
+00:33:30,840 --> 00:33:32,840
+Não, mas eles usam o personal.
+
+704
+00:33:32,840 --> 00:33:33,840
+Rainey tá te...
+
+705
+00:33:33,840 --> 00:33:34,840
+Como é o nome dele?
+
+706
+00:33:35,840 --> 00:33:36,840
+Buddy.
+
+707
+00:33:36,840 --> 00:33:38,840
+Buddy tá te amando.
+
+708
+00:33:38,840 --> 00:33:43,840
+Ou algo do tipo, ah, a trilha continua, ou algo assim.
+
+709
+00:33:43,840 --> 00:33:45,840
+Tipo, eu não sei, alguma coisa.
+
+710
+00:33:46,840 --> 00:33:49,840
+Pode ter uma frase motivacional, assim?
+
+711
+00:33:50,840 --> 00:33:52,840
+Nossa, motivacional é...
+
+712
+00:33:52,840 --> 00:33:53,840
+Danilo.
+
+713
+00:33:54,840 --> 00:33:55,840
+Nossa, assim.
+
+714
+00:33:55,840 --> 00:33:56,840
+Motivacional?
+
+715
+00:33:56,840 --> 00:33:57,840
+Motivacional.
+
+716
+00:34:00,840 --> 00:34:01,840
+No seu tempo.
+
+717
+00:34:02,840 --> 00:34:03,840
+Não, não.
+
+718
+00:34:04,840 --> 00:34:05,840
+Motivacional é o...
+
+719
+00:34:07,840 --> 00:34:11,840
+Cara, se a gente não dar um travasado, se não calçar o índio da pessoa até o responde,
+
+720
+00:34:12,840 --> 00:34:13,840
+pode dar um travasado.
+
+721
+00:34:13,840 --> 00:34:15,840
+É o que que é que você falou?
+
+722
+00:34:15,840 --> 00:34:16,840
+Eu não entendi.
+
+723
+00:34:16,840 --> 00:34:17,840
+Eu não percebo se...
+
+724
+00:34:17,840 --> 00:34:23,840
+Não é motivacional, mas é uma frase que fala algum dado assim, sei lá, e aí no final da frase fala,
+
+725
+00:34:23,840 --> 00:34:24,840
+Ah, é saber que o cérebro tem...
+
+726
+00:34:24,840 --> 00:34:25,840
+Será que tem neurônio?
+
+727
+00:34:25,840 --> 00:34:27,840
+Sei lá o que, se você não fizer, vai morrer dois.
+
+728
+00:34:28,840 --> 00:34:29,840
+Uma coisa assim.
+
+729
+00:34:29,840 --> 00:34:30,840
+O quê?
+
+730
+00:34:30,840 --> 00:34:32,840
+É o cérebro tem neurônio, ó.
+
+731
+00:34:38,840 --> 00:34:39,840
+Saber que seu cérebro ganha...
+
+732
+00:34:39,840 --> 00:34:42,840
+Eu acho que não é assim, eu não gosto disso.
+
+733
+00:34:42,840 --> 00:34:47,840
+Se um que encensa em resolver algo, é a mais trouxa que tem dentro de uma equipe.
+
+734
+00:34:47,840 --> 00:34:51,840
+E aí se ele for mandar uma sede de arrapeão...
+
+735
+00:34:51,840 --> 00:34:58,640
+E a gente fala, ah, voltou, é.
+
+736
+00:34:58,640 --> 00:35:06,040
+É, tipo assim, passou um, dois dias, faleceu as notícias.
+
+737
+00:35:06,040 --> 00:35:10,240
+Tinha que ganhar um bônus, gente, porque um bônus ajuda a pessoa.
+
+738
+00:35:10,240 --> 00:35:12,240
+A gente estava na educação negativa, né, menina?
+
+739
+00:35:12,240 --> 00:35:14,240
+Eu não sou na educação negativa.
+
+740
+00:35:14,240 --> 00:35:21,240
+É, tipo, se a pessoa está ali seguindo o protocolo, ela ganha um bônus.
+
+741
+00:35:21,640 --> 00:35:24,640
+Ah, trilha bonitinha, desenhadinha?
+
+742
+00:35:24,640 --> 00:35:26,640
+Isso não é onde...
+
+743
+00:35:26,640 --> 00:35:27,640
+Não, não, não.
+
+744
+00:35:27,640 --> 00:35:29,640
+Tem a ver o que é.
+
+745
+00:35:29,640 --> 00:35:31,640
+Eu não sei.
+
+746
+00:35:31,640 --> 00:35:33,640
+Gente, mas...
+
+747
+00:35:33,640 --> 00:35:35,640
+Eu não sei.
+
+748
+00:35:35,640 --> 00:35:36,640
+É, eu acho que a gente...
+
+749
+00:35:36,640 --> 00:35:37,640
+É, mas tem triza, né?
+
+750
+00:35:37,640 --> 00:35:39,640
+Ela pode cadastrar um bônus, tudo assim, né?
+
+751
+00:35:39,640 --> 00:35:41,640
+É, mas vai...
+
+752
+00:35:41,640 --> 00:35:43,640
+Ganhar um bônus.
+
+753
+00:35:43,640 --> 00:35:45,640
+Ela pode ser.
+
+754
+00:35:48,640 --> 00:35:49,640
+É o quê, Chupa?
+
+755
+00:35:50,040 --> 00:35:54,040
+A gente estava falando da empresa poder cadastrar um bônus para o funcionário,
+
+756
+00:35:54,040 --> 00:36:01,040
+se ele for frequente no app, entendeu?
+
+757
+00:36:01,040 --> 00:36:04,040
+Se ele estiver frequente, a empresa pode cadastrar algum bônus,
+
+758
+00:36:04,040 --> 00:36:06,040
+aí cada empresa cadastra um.
+
+759
+00:36:06,040 --> 00:36:10,040
+Aí poderia, por exemplo, aparecer uma mensagem falando
+
+760
+00:36:10,040 --> 00:36:13,040
+que falta tanto para ele receber o bônus e tal,
+
+761
+00:36:13,040 --> 00:36:17,040
+aí dependendo de qual é o bônus que a empresa fazer.
+
+762
+00:36:17,440 --> 00:36:22,440
+Júlia, mostra o aplicativo da Whelp.
+
+763
+00:36:22,440 --> 00:36:24,440
+Ah, tá.
+
+764
+00:36:24,440 --> 00:36:26,440
+Vou mostrar aí.
+
+765
+00:36:26,440 --> 00:36:29,440
+Quanto mais você cadastra exercícios...
+
+766
+00:36:31,440 --> 00:36:33,440
+Você ganha...
+
+767
+00:36:35,440 --> 00:36:36,440
+Como é que é, Ana?
+
+768
+00:36:36,440 --> 00:36:37,440
+Pode repetir?
+
+769
+00:36:37,440 --> 00:36:38,440
+É um aplicativo...
+
+770
+00:36:38,440 --> 00:36:42,440
+A Júlia vai mostrar aí que é um aplicativo que quanto mais você cadastra...
+
+771
+00:36:42,440 --> 00:36:45,440
+Ah, eu entrei no aplicativo e fiz tal coisa.
+
+772
+00:36:45,840 --> 00:36:48,840
+Ele transforma essa sua entrada em pontos
+
+773
+00:36:48,840 --> 00:36:52,840
+e esses pontos podem virar desconto, por exemplo.
+
+774
+00:36:52,840 --> 00:36:55,840
+Acho que a empresa podia fazer alguma coisa parecida.
+
+775
+00:36:57,840 --> 00:36:59,840
+Fala da qual a parte.
+
+776
+00:37:04,840 --> 00:37:06,840
+Qual a parte, famosa?
+
+777
+00:37:06,840 --> 00:37:08,840
+A dos pontos.
+
+778
+00:37:08,840 --> 00:37:10,840
+Ela vai ser tarde?
+
+779
+00:37:10,840 --> 00:37:11,840
+Não, não.
+
+780
+00:37:11,840 --> 00:37:12,840
+Ela é tipo...
+
+781
+00:37:12,840 --> 00:37:14,840
+É exercício.
+
+782
+00:37:14,840 --> 00:37:17,840
+Tem um aplicativo que é de acompanhamento.
+
+783
+00:37:17,840 --> 00:37:19,840
+Aí eu vou dar exercício.
+
+784
+00:37:19,840 --> 00:37:21,840
+Exercício?
+
+785
+00:37:21,840 --> 00:37:23,840
+Eu fiz uma hora de esterro.
+
+786
+00:37:23,840 --> 00:37:26,840
+Aí eu uso aqueles aplicativos da Nike.
+
+787
+00:37:26,840 --> 00:37:30,840
+Se eles terem que eu fiz, eu uso eles na cadastra aqui.
+
+788
+00:37:30,840 --> 00:37:33,840
+E aí, por exemplo, se você vende 20 horas de exercício por semana,
+
+789
+00:37:33,840 --> 00:37:35,840
+você ganha um cupom.
+
+790
+00:37:35,840 --> 00:37:37,840
+Você pode ganhar cento de pontos.
+
+791
+00:37:38,840 --> 00:37:40,840
+Aí tem um sistema de pontos, tá vendo?
+
+792
+00:37:40,840 --> 00:37:43,840
+Não tem competitividade quando a pessoa inventa ganhar um ponto.
+
+793
+00:37:43,840 --> 00:37:45,840
+Eu lembro.
+
+794
+00:37:53,840 --> 00:37:55,840
+Ah, eu gosto do que conta o tempo inteiro.
+
+795
+00:37:55,840 --> 00:37:57,840
+Isso vai até agora, então.
+
+796
+00:37:57,840 --> 00:37:59,840
+O que todo mundo gostou.
+
+797
+00:38:03,840 --> 00:38:05,840
+Aí volumes ou punição?
+
+798
+00:38:06,840 --> 00:38:10,840
+Eu acho que punição não é uma boa, mas acho que nos viram muito legal.
+
+799
+00:38:10,840 --> 00:38:11,840
+Eu acho que sim.
+
+800
+00:38:14,840 --> 00:38:18,840
+Mas a questão do cérebro mudar, eu não sei.
+
+801
+00:38:18,840 --> 00:38:19,840
+Eu gosto muito.
+
+802
+00:38:19,840 --> 00:38:21,840
+Eu desde que eu gosto do cérebro mudar de monstro.
+
+803
+00:38:21,840 --> 00:38:23,840
+E eu acho que fica melhor.
+
+804
+00:38:23,840 --> 00:38:25,840
+E fica menos competitivo.
+
+805
+00:38:25,840 --> 00:38:27,840
+Os volumes não forem individuais.
+
+806
+00:38:27,840 --> 00:38:31,840
+Tipo, se todo mundo responder, eles têm o pita deles.
+
+807
+00:38:31,840 --> 00:38:33,840
+Sabe, coisas mais...
+
+808
+00:38:33,840 --> 00:38:36,840
+Nós vamos odiar as pessoas que não respondem ao vídeo.
+
+809
+00:38:36,840 --> 00:38:38,840
+Bom, acho que não dá pra saber quem não respondeu.
+
+810
+00:38:38,840 --> 00:38:40,840
+Não respondeu, mas era...
+
+811
+00:38:43,840 --> 00:38:45,840
+Ranking com o nome da pessoa.
+
+812
+00:38:45,840 --> 00:38:47,840
+Não, porque o arroba...
+
+813
+00:38:47,840 --> 00:38:49,840
+É melhor a gente...
+
+814
+00:38:49,840 --> 00:38:51,840
+Geralmente a competitividade não é legal.
+
+815
+00:38:51,840 --> 00:38:53,840
+Mas tem uma competitividade.
+
+816
+00:38:53,840 --> 00:38:56,840
+Todo mundo ganha se atingir aquela meta.
+
+817
+00:38:56,840 --> 00:38:59,840
+A gente não perde se um vai dar um ou dois anos.
+
+818
+00:38:59,840 --> 00:39:01,840
+O problema é que eu chego mal assim hoje.
+
+819
+00:39:01,840 --> 00:39:03,840
+Até essa semana eu não tô aqui de pizza.
+
+820
+00:39:03,840 --> 00:39:05,840
+Vou zoar, galera.
+
+821
+00:39:05,840 --> 00:39:07,840
+Não, gente, é muito difícil.
+
+822
+00:39:07,840 --> 00:39:09,840
+Eu acho que tem uns dois.
+
+823
+00:39:09,840 --> 00:39:13,840
+Eu acho que a gente pode amadurecer esse bem.
+
+824
+00:39:13,840 --> 00:39:15,840
+E eu acho que é isso.
+
+825
+00:39:15,840 --> 00:39:19,840
+Com relação às telas, eu acho que tá muito legal.
+
+826
+00:39:19,840 --> 00:39:21,840
+Falta só as outras, né?
+
+827
+00:39:21,840 --> 00:39:23,840
+Que o pessoal vai juntar...
+
+828
+00:39:23,840 --> 00:39:25,840
+Vai juntar, acho que, essa semana?
+
+829
+00:39:25,840 --> 00:39:27,840
+Ou é semana que vem?
+
+830
+00:39:27,840 --> 00:39:28,840
+Semana que vem.
+
+831
+00:39:29,840 --> 00:39:30,840
+Tá.
+
+832
+00:39:30,840 --> 00:39:34,840
+Semana que vem pra poder fazer as próximas telas.
+
+833
+00:39:34,840 --> 00:39:36,840
+Vocês combinam o horário?
+
+834
+00:39:38,840 --> 00:39:39,840
+Agora?
+
+835
+00:39:39,840 --> 00:39:41,840
+Vocês sabem.
+
+836
+00:39:41,840 --> 00:39:42,840
+O melhor.
+
+837
+00:39:42,840 --> 00:39:43,840
+O que vai dar?
+
+838
+00:39:48,840 --> 00:39:49,840
+Interessante.
+
+839
+00:39:49,840 --> 00:39:51,840
+Depois a gente vai ver o horário.
+
+840
+00:39:51,840 --> 00:39:53,840
+A gente vai ver o meu horário.
+
+841
+00:39:53,840 --> 00:39:54,840
+Depois você olha aí.
+
+842
+00:39:54,840 --> 00:39:56,840
+Então você fica encarregado de olhar o horário.
+
+843
+00:39:56,840 --> 00:39:58,840
+Todo mundo pode combinar.
+
+844
+00:39:59,840 --> 00:40:03,840
+Aí, Tomá, você acha que já dá pra trabalhar nessas telas aí?
+
+845
+00:40:03,840 --> 00:40:05,840
+Ah, sim. Dá sim.
+
+846
+00:40:05,840 --> 00:40:08,840
+Agora eu tô com acesso ao Figma também.
+
+847
+00:40:08,840 --> 00:40:12,840
+E desde ontem eu tô livre pra ter tempo livre.
+
+848
+00:40:12,840 --> 00:40:13,840
+Então...
+
+849
+00:40:15,840 --> 00:40:17,840
+Vai dar pra andar bem.
+
+850
+00:40:17,840 --> 00:40:20,840
+Então tá, se precisar de ajuda também.
+
+851
+00:40:20,840 --> 00:40:24,840
+Se tiver com dificuldade em alguma parte do front.
+
+852
+00:40:24,840 --> 00:40:27,840
+Tem pessoas aqui trabalhando no front.
+
+853
+00:40:27,840 --> 00:40:28,840
+Pode te ajudar.
+
+854
+00:40:28,840 --> 00:40:30,840
+A Jill também vai ajudar a desenvolver.
+
+855
+00:40:30,840 --> 00:40:34,840
+Talvez você quiser dividir a tela com ela, alguma das telas.
+
+856
+00:40:34,840 --> 00:40:37,840
+Ela pode tentar desenvolver algumas.
+
+857
+00:40:37,840 --> 00:40:39,840
+A gente dividiu duas.
+
+858
+00:40:41,840 --> 00:40:42,840
+O quê?
+
+859
+00:40:42,840 --> 00:40:45,840
+Tomás criou o repositório, né, Tomás?
+
+860
+00:40:45,840 --> 00:40:47,840
+Só não tem nada ainda.
+
+861
+00:40:47,840 --> 00:40:49,840
+Só não tem nada ainda.
+
+862
+00:40:49,840 --> 00:40:50,840
+É.
+
+863
+00:40:50,840 --> 00:40:53,840
+Eu acho que todo mundo já programou isso.
+
+864
+00:40:53,840 --> 00:40:56,840
+De se botar a minha parte de novo.
+
+865
+00:40:56,840 --> 00:40:58,840
+Só tem que chamar alguém pra ajudar.
+
+866
+00:40:58,840 --> 00:41:00,840
+Não, mas todo mundo aqui pode ajudar.
+
+867
+00:41:00,840 --> 00:41:05,840
+Mas aí eu acho melhor talvez o Tomás fazer uma tela, né?
+
+868
+00:41:05,840 --> 00:41:07,840
+Tomás vai estar de login.
+
+869
+00:41:07,840 --> 00:41:09,840
+E aí de base pra Jill.
+
+870
+00:41:09,840 --> 00:41:12,840
+Que aí a Jill pode ajudar com alguma outra.
+
+871
+00:41:12,840 --> 00:41:18,840
+Sim, eu posso aproveitar os discos que eu tô na PUC pra fazer também.
+
+872
+00:41:18,840 --> 00:41:20,840
+Ou do laboratório de Stone.
+
+873
+00:41:20,840 --> 00:41:23,840
+Ou de algum lugar que eu possa mostrar presencial também.
+
+874
+00:41:23,840 --> 00:41:25,840
+Pra poder conversar sobre.
+
+875
+00:41:25,840 --> 00:41:26,840
+Ótimo, não?
+
+876
+00:41:26,840 --> 00:41:27,840
+Muito bom.
+
+877
+00:41:27,840 --> 00:41:30,840
+Aí você quiser olhar lá na planilha os horários que a Jill tá aqui.
+
+878
+00:41:30,840 --> 00:41:31,840
+No Stone.
+
+879
+00:41:31,840 --> 00:41:34,840
+Aí você conseguir ver esse horário.
+
+880
+00:41:34,840 --> 00:41:36,840
+Aí vocês conseguirem compartilhar.
+
+881
+00:41:36,840 --> 00:41:39,840
+Posso olhar assim e aí eu falo qual.
+
+882
+00:41:39,840 --> 00:41:40,840
+Tá bom.
+
+883
+00:41:40,840 --> 00:41:42,840
+Aí quem tá gostando de usar o Figma?
+
+884
+00:41:42,840 --> 00:41:45,840
+Que a gente está pagando modo dev, vai dar certo?
+
+885
+00:41:45,840 --> 00:41:47,840
+Eu peguei o Figma agora, eu vou testar.
+
+886
+00:41:51,840 --> 00:41:54,840
+O modo dev quer falar pra eu poder já conversar direto.
+
+887
+00:41:54,840 --> 00:41:57,840
+É, não vai direto tão, mas dá...
+
+888
+00:42:00,840 --> 00:42:01,840
+Eu vou testar.
+
+889
+00:42:01,840 --> 00:42:06,840
+E aí eu conto minha experiência na próxima vez que a gente se encontrar.
+
+890
+00:42:06,840 --> 00:42:09,840
+Eu tenho interesse de ver o antes e o depois.
+
+891
+00:42:09,840 --> 00:42:13,840
+Hoje na aula um aluno apresentou uma abordagem
+
+892
+00:42:13,840 --> 00:42:15,840
+pra pegar de uma imagem.
+
+893
+00:42:15,840 --> 00:42:16,840
+Não foi nem do Figma.
+
+894
+00:42:16,840 --> 00:42:20,840
+Ele pega uma imagem, uma tela e aí joga no prompt do LLM.
+
+895
+00:42:20,840 --> 00:42:26,840
+O LLM gera o CSV e o HTML direto, assim, automático.
+
+896
+00:42:26,840 --> 00:42:31,840
+E aí fez uma validação e o coração foi até ok, assim.
+
+897
+00:42:31,840 --> 00:42:33,840
+Eu fiquei curiosa.
+
+898
+00:42:33,840 --> 00:42:37,840
+E aí tava com trabalhos futuros de usar o Figma.
+
+899
+00:42:37,840 --> 00:42:39,840
+Mas já tem essa abordagem também.
+
+900
+00:42:39,840 --> 00:42:41,840
+Não sei se...
+
+901
+00:42:41,840 --> 00:42:43,840
+E no caso dele foi CSS e HTML, né?
+
+902
+00:42:43,840 --> 00:42:46,840
+No caso de você seria o LLM.
+
+903
+00:42:46,840 --> 00:42:47,840
+Não, não, não.
+
+904
+00:42:47,840 --> 00:42:49,840
+Tem uma tela mesmo pra crô.
+
+905
+00:42:50,840 --> 00:42:53,840
+Tem um framework pro LLM que chama NET, né?
+
+906
+00:42:53,840 --> 00:42:55,840
+Que se desenvolve.
+
+907
+00:42:55,840 --> 00:42:59,840
+Tem um LLM que você pode fazer um screenshot e gera o LLM.
+
+908
+00:42:59,840 --> 00:43:01,840
+Você pode faltar tudo.
+
+909
+00:43:01,840 --> 00:43:03,840
+Talvez era.
+
+910
+00:43:03,840 --> 00:43:07,840
+O que eu já vi no LLM, eu sei que tem algo que você pode colar,
+
+911
+00:43:07,840 --> 00:43:11,840
+pode colar o CSS dentro do...
+
+912
+00:43:13,840 --> 00:43:15,840
+É isso que você tá falando, né?
+
+913
+00:43:15,840 --> 00:43:17,840
+Não, não é isso.
+
+914
+00:43:17,840 --> 00:43:18,840
+Ah, tá.
+
+915
+00:43:18,840 --> 00:43:24,840
+É porque eu colar o CSS normal dentro de algo e transformar de NET.
+
+916
+00:43:24,840 --> 00:43:26,840
+Não sei.
+
+917
+00:43:26,840 --> 00:43:28,840
+Mas é uma imagem.
+
+918
+00:43:28,840 --> 00:43:30,840
+Mas o que o Cotinho falou que eu acho,
+
+919
+00:43:30,840 --> 00:43:33,840
+é você pega uma imagem, tipo essa do Figma,
+
+920
+00:43:33,840 --> 00:43:35,840
+ou qualquer imagem aí, o screenshot,
+
+921
+00:43:35,840 --> 00:43:36,840
+e joga na FIA.
+
+922
+00:43:36,840 --> 00:43:39,840
+E aí a FIA, de maneira automatizada, vai lá e...
+
+923
+00:43:40,840 --> 00:43:41,840
+É que não tem um grupo.
+
+924
+00:43:41,840 --> 00:43:42,840
+Ainda dá pra botar o link.
+
+925
+00:43:42,840 --> 00:43:44,840
+Ah, deixa eu ver aqui o grupo.
+
+926
+00:43:44,840 --> 00:43:45,840
+Não tem?
+
+927
+00:43:45,840 --> 00:43:47,840
+Eu tenho.
+
+928
+00:43:47,840 --> 00:43:49,840
+Não tem.
+
+929
+00:43:49,840 --> 00:43:50,840
+Não tem.
+
+930
+00:43:50,840 --> 00:43:52,840
+Agora.
+
+931
+00:43:54,840 --> 00:43:56,840
+Ué, o Cotinho tá aqui já.
+
+932
+00:44:00,840 --> 00:44:01,840
+Tá assim.
+
+933
+00:44:01,840 --> 00:44:03,840
+Acabei de ver.
+
+934
+00:44:04,840 --> 00:44:06,840
+Já, existia isso.
+
+935
+00:44:06,840 --> 00:44:07,840
+Pra mim é perguntar como.
+
+936
+00:44:07,840 --> 00:44:08,840
+Ah, tá.
+
+937
+00:44:08,840 --> 00:44:10,840
+Eu me confundi aqui.
+
+938
+00:44:12,840 --> 00:44:13,840
+Nossa.
+
+939
+00:44:13,840 --> 00:44:15,840
+Eu acho que tô com outra pessoa aqui.
+
+940
+00:44:15,840 --> 00:44:18,840
+Tem várias imagens.
+
+941
+00:44:19,840 --> 00:44:21,840
+Como que o Cotinho trata isso?
+
+942
+00:44:23,840 --> 00:44:25,840
+Porque ele não vai saber quebrar...
+
+943
+00:44:25,840 --> 00:44:27,840
+Não perdeu nada, porque eu acabei de criar.
+
+944
+00:44:28,840 --> 00:44:30,840
+Ele não vai saber quebrar...
+
+945
+00:44:31,840 --> 00:44:34,840
+Pensa que você tem, sei lá, o grupo embaixo...
+
+946
+00:44:34,840 --> 00:44:36,840
+Pra mim, ele gera uma coisa...
+
+947
+00:44:36,840 --> 00:44:38,840
+Não tem esse modo que eu vou botar no meu grafito.
+
+948
+00:44:38,840 --> 00:44:39,840
+Ah, não tem esse modo.
+
+949
+00:44:39,840 --> 00:44:40,840
+Tem aquele outro grafito aqui, ó.
+
+950
+00:44:40,840 --> 00:44:41,840
+Ele gera um...
+
+951
+00:44:43,840 --> 00:44:45,840
+Ele gera uns gráficos, umas coisas tipo...
+
+952
+00:44:45,840 --> 00:44:48,840
+Sem grafitos, assim, de jeito aleatório.
+
+953
+00:44:50,840 --> 00:44:52,840
+É bem legal isso aqui.
+
+954
+00:44:55,840 --> 00:44:57,840
+Aí tem, ó, um parque aqui.
+
+955
+00:44:57,840 --> 00:44:59,840
+Pode colocar um screenshot.
+
+956
+00:45:00,840 --> 00:45:02,840
+Esse que você mandou aí no grupo.
+
+957
+00:45:03,840 --> 00:45:05,840
+Eu acho que...
+
+958
+00:45:05,840 --> 00:45:07,840
+São poucos uns grafitos, eu acho que...
+
+959
+00:45:09,840 --> 00:45:11,840
+Eu vou experimentar.
+
+960
+00:45:11,840 --> 00:45:13,840
+Pelo que eu tô vendo aqui...
+
+961
+00:45:13,840 --> 00:45:16,840
+Ele tem até como importar coisas do Figma.
+
+962
+00:45:16,840 --> 00:45:18,840
+Tem.
+
+963
+00:45:18,840 --> 00:45:20,840
+Vou dar uma experimentária com ele.
+
+964
+00:45:20,840 --> 00:45:23,840
+Gente, eu preciso sair agora às sete.
+
+965
+00:45:24,840 --> 00:45:26,840
+Não, a gente quer isso, a gente finaliza.
+
+966
+00:45:26,840 --> 00:45:28,840
+Obrigada, pessoal.
+
+967
+00:45:30,840 --> 00:45:31,840
+Bom, obrigada.
+
+968
+00:45:31,840 --> 00:45:32,840
+A gente vai falando, então.
+
+969
+00:45:32,840 --> 00:45:34,840
+Agora tem um grupo também, que é bom.
+
+970
+00:45:34,840 --> 00:45:36,840
+Ah, é, a gente vai...
+
+971
+00:45:36,840 --> 00:45:38,840
+Vamos lá.
+
