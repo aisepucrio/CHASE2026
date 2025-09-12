@@ -1,0 +1,2364 @@
+{
+  "output_v1": {
+    "segment_000": {
+      "principal_emocao_detectada": "Happiness"
+    },
+    "segment_001": {
+      "principal_emocao_detectada": "Happiness"
+    },
+    "segment_002": {
+      "principal_emocao_detectada": "Neutral"
+    },
+    "segment_003": {
+      "principal_emocao_detectada": "Neutral"
+    },
+    "segment_004": {
+      "principal_emocao_detectada": "Neutral"
+    },
+    "segment_005": {
+      "principal_emocao_detectada": "Neutral"
+    },
+    "segment_006": {
+      "principal_emocao_detectada": "Neutral"
+    },
+    "segment_007": {
+      "principal_emocao_detectada": "Neutral"
+    },
+    "segment_008": {
+      "principal_emocao_detectada": "Neutral"
+    },
+    "segment_009": {
+      "principal_emocao_detectada": "Neutral"
+    },
+    "segment_010": {
+      "principal_emocao_detectada": "Neutral"
+    },
+    "segment_011": {
+      "principal_emocao_detectada": "Neutral"
+    },
+    "segment_012": {
+      "principal_emocao_detectada": "Neutral"
+    },
+    "segment_013": {
+      "principal_emocao_detectada": "Neutral"
+    },
+    "segment_014": {
+      "principal_emocao_detectada": "Neutral"
+    },
+    "segment_015": {
+      "principal_emocao_detectada": "Neutral"
+    },
+    "segment_016": {
+      "principal_emocao_detectada": "Neutral"
+    },
+    "segment_017": {
+      "principal_emocao_detectada": "Neutral"
+    },
+    "segment_018": {
+      "principal_emocao_detectada": "Neutral"
+    },
+    "segment_019": {
+      "principal_emocao_detectada": "Neutral"
+    },
+    "segment_020": {
+      "principal_emocao_detectada": "Neutral"
+    },
+    "segment_021": {
+      "principal_emocao_detectada": "Neutral"
+    },
+    "segment_022": {
+      "principal_emocao_detectada": "Happiness"
+    },
+    "segment_023": {
+      "principal_emocao_detectada": "Neutral"
+    },
+    "segment_024": {
+      "principal_emocao_detectada": "Neutral"
+    },
+    "segment_025": {
+      "principal_emocao_detectada": "Neutral"
+    },
+    "segment_026": {
+      "principal_emocao_detectada": "Neutral"
+    },
+    "segment_027": {
+      "principal_emocao_detectada": "Neutral"
+    },
+    "segment_028": {
+      "principal_emocao_detectada": "Neutral"
+    },
+    "segment_029": {
+      "principal_emocao_detectada": "Neutral"
+    },
+    "segment_030": {
+      "principal_emocao_detectada": "Neutral"
+    },
+    "segment_031": {
+      "principal_emocao_detectada": "Neutral"
+    },
+    "segment_032": {
+      "principal_emocao_detectada": "Neutral"
+    },
+    "segment_033": {
+      "principal_emocao_detectada": "Neutral"
+    },
+    "segment_034": {
+      "principal_emocao_detectada": "Neutral"
+    },
+    "segment_035": {
+      "principal_emocao_detectada": "Neutral"
+    },
+    "segment_036": {
+      "principal_emocao_detectada": "Neutral"
+    },
+    "segment_037": {
+      "principal_emocao_detectada": "Neutral"
+    },
+    "segment_038": {
+      "principal_emocao_detectada": "Neutral"
+    },
+    "segment_039": {
+      "principal_emocao_detectada": "Neutral"
+    },
+    "segment_040": {
+      "principal_emocao_detectada": "Neutral"
+    },
+    "segment_041": {
+      "principal_emocao_detectada": "Neutral"
+    },
+    "segment_042": {
+      "principal_emocao_detectada": "Neutral"
+    },
+    "segment_043": {
+      "principal_emocao_detectada": "Neutral"
+    },
+    "segment_044": {
+      "principal_emocao_detectada": "Neutral"
+    },
+    "segment_045": {
+      "principal_emocao_detectada": "Neutral"
+    },
+    "segment_046": {
+      "principal_emocao_detectada": "Neutral"
+    },
+    "segment_047": {
+      "principal_emocao_detectada": "Neutral"
+    },
+    "segment_048": {
+      "principal_emocao_detectada": "Neutral"
+    },
+    "segment_049": {
+      "principal_emocao_detectada": "Neutral"
+    },
+    "segment_050": {
+      "principal_emocao_detectada": "Neutral"
+    },
+    "segment_051": {
+      "principal_emocao_detectada": "Neutral"
+    },
+    "segment_052": {
+      "principal_emocao_detectada": "Neutral"
+    },
+    "segment_053": {
+      "principal_emocao_detectada": "Neutral"
+    },
+    "segment_054": {
+      "principal_emocao_detectada": "Neutral"
+    },
+    "segment_055": {
+      "principal_emocao_detectada": "Neutral"
+    },
+    "segment_056": {
+      "principal_emocao_detectada": "Neutral"
+    },
+    "segment_057": {
+      "principal_emocao_detectada": "Neutral"
+    },
+    "segment_058": {
+      "principal_emocao_detectada": "Neutral"
+    },
+    "segment_059": {
+      "principal_emocao_detectada": "Neutral"
+    },
+    "segment_060": {
+      "principal_emocao_detectada": "Happiness"
+    },
+    "segment_061": {
+      "principal_emocao_detectada": "Neutral"
+    },
+    "segment_062": {
+      "principal_emocao_detectada": "Neutral"
+    },
+    "segment_063": {
+      "principal_emocao_detectada": "Neutral"
+    },
+    "segment_064": {
+      "principal_emocao_detectada": "Neutral"
+    },
+    "segment_065": {
+      "principal_emocao_detectada": "Neutral"
+    },
+    "segment_066": {
+      "principal_emocao_detectada": "Neutral"
+    },
+    "segment_067": {
+      "principal_emocao_detectada": "Neutral"
+    },
+    "segment_068": {
+      "principal_emocao_detectada": "Neutral"
+    },
+    "segment_069": {
+      "principal_emocao_detectada": "Neutral"
+    },
+    "segment_070": {
+      "principal_emocao_detectada": "Neutral"
+    },
+    "segment_071": {
+      "principal_emocao_detectada": "Neutral"
+    },
+    "segment_072": {
+      "principal_emocao_detectada": "Neutral"
+    },
+    "segment_073": {
+      "principal_emocao_detectada": "Neutral"
+    },
+    "segment_074": {
+      "principal_emocao_detectada": "Neutral"
+    },
+    "segment_075": {
+      "principal_emocao_detectada": "Neutral"
+    },
+    "segment_076": {
+      "principal_emocao_detectada": "Neutral"
+    },
+    "segment_077": {
+      "principal_emocao_detectada": "Neutral"
+    },
+    "segment_078": {
+      "principal_emocao_detectada": "Neutral"
+    },
+    "segment_079": {
+      "principal_emocao_detectada": "Neutral"
+    },
+    "segment_080": {
+      "principal_emocao_detectada": "Neutral"
+    },
+    "segment_081": {
+      "principal_emocao_detectada": "Anger"
+    },
+    "segment_082": {
+      "principal_emocao_detectada": "Neutral"
+    },
+    "segment_083": {
+      "principal_emocao_detectada": "Neutral"
+    },
+    "segment_084": {
+      "principal_emocao_detectada": "Neutral"
+    },
+    "segment_085": {
+      "principal_emocao_detectada": "Neutral"
+    },
+    "segment_086": {
+      "principal_emocao_detectada": "Neutral"
+    },
+    "segment_087": {
+      "principal_emocao_detectada": "Neutral"
+    },
+    "segment_088": {
+      "principal_emocao_detectada": "Neutral"
+    },
+    "segment_089": {
+      "principal_emocao_detectada": "Neutral"
+    },
+    "segment_090": {
+      "principal_emocao_detectada": "Happiness"
+    },
+    "segment_091": {
+      "principal_emocao_detectada": "Happiness"
+    },
+    "segment_092": {
+      "principal_emocao_detectada": "Neutral"
+    },
+    "segment_093": {
+      "principal_emocao_detectada": "Neutral"
+    },
+    "segment_094": {
+      "principal_emocao_detectada": "Happiness"
+    },
+    "segment_095": {
+      "principal_emocao_detectada": "Neutral"
+    },
+    "segment_096": {
+      "principal_emocao_detectada": "Anger"
+    },
+    "segment_097": {
+      "principal_emocao_detectada": "Anger"
+    },
+    "segment_098": {
+      "principal_emocao_detectada": "Anger"
+    },
+    "segment_099": {
+      "principal_emocao_detectada": "Neutral"
+    },
+    "segment_100": {
+      "principal_emocao_detectada": "Anger"
+    },
+    "segment_101": {
+      "principal_emocao_detectada": "Anger"
+    },
+    "segment_102": {
+      "principal_emocao_detectada": "Disgust"
+    },
+    "segment_103": {
+      "principal_emocao_detectada": "Anger"
+    },
+    "segment_104": {
+      "principal_emocao_detectada": "Happiness"
+    },
+    "segment_105": {
+      "principal_emocao_detectada": "Neutral"
+    },
+    "segment_106": {
+      "principal_emocao_detectada": "Neutral"
+    },
+    "segment_107": {
+      "principal_emocao_detectada": "Anger"
+    },
+    "segment_108": {
+      "principal_emocao_detectada": "Neutral"
+    },
+    "segment_109": {
+      "principal_emocao_detectada": "Neutral"
+    },
+    "segment_110": {
+      "principal_emocao_detectada": "Neutral"
+    },
+    "segment_111": {
+      "principal_emocao_detectada": "Neutral"
+    },
+    "segment_112": {
+      "principal_emocao_detectada": "Neutral"
+    },
+    "segment_113": {
+      "principal_emocao_detectada": "Surprise"
+    },
+    "segment_114": {
+      "principal_emocao_detectada": "Happiness"
+    },
+    "segment_115": {
+      "principal_emocao_detectada": "Happiness"
+    },
+    "segment_116": {
+      "principal_emocao_detectada": "Neutral"
+    },
+    "segment_117": {
+      "principal_emocao_detectada": "Neutral"
+    },
+    "segment_118": {
+      "principal_emocao_detectada": "Happiness"
+    },
+    "segment_119": {
+      "principal_emocao_detectada": "Neutral"
+    },
+    "segment_120": {
+      "principal_emocao_detectada": "Neutral"
+    },
+    "segment_121": {
+      "principal_emocao_detectada": "Happiness"
+    },
+    "segment_122": {
+      "principal_emocao_detectada": "Anger"
+    },
+    "segment_123": {
+      "principal_emocao_detectada": "Happiness"
+    },
+    "segment_124": {
+      "principal_emocao_detectada": "Neutral"
+    },
+    "segment_125": {
+      "principal_emocao_detectada": "Happiness"
+    },
+    "segment_126": {
+      "principal_emocao_detectada": "Neutral"
+    },
+    "segment_127": {
+      "principal_emocao_detectada": "Sadness"
+    },
+    "segment_128": {
+      "principal_emocao_detectada": "Neutral"
+    },
+    "segment_129": {
+      "principal_emocao_detectada": "Neutral"
+    },
+    "segment_130": {
+      "principal_emocao_detectada": "Neutral"
+    },
+    "segment_131": {
+      "principal_emocao_detectada": "Happiness"
+    },
+    "segment_132": {
+      "principal_emocao_detectada": "Neutral"
+    },
+    "segment_133": {
+      "principal_emocao_detectada": "Happiness"
+    },
+    "segment_134": {
+      "principal_emocao_detectada": "Neutral"
+    },
+    "segment_135": {
+      "principal_emocao_detectada": "Happiness"
+    },
+    "segment_136": {
+      "principal_emocao_detectada": "Neutral"
+    },
+    "segment_137": {
+      "principal_emocao_detectada": "Anger"
+    },
+    "segment_138": {
+      "principal_emocao_detectada": "Happiness"
+    },
+    "segment_139": {
+      "principal_emocao_detectada": "Neutral"
+    },
+    "segment_140": {
+      "principal_emocao_detectada": "Neutral"
+    },
+    "segment_141": {
+      "principal_emocao_detectada": "Neutral"
+    },
+    "segment_142": {
+      "principal_emocao_detectada": "Happiness"
+    },
+    "segment_143": {
+      "principal_emocao_detectada": "Neutral"
+    },
+    "segment_144": {
+      "principal_emocao_detectada": "Neutral"
+    },
+    "segment_145": {
+      "principal_emocao_detectada": "Neutral"
+    },
+    "segment_146": {
+      "principal_emocao_detectada": "Neutral"
+    },
+    "segment_147": {
+      "principal_emocao_detectada": "Neutral"
+    },
+    "segment_148": {
+      "principal_emocao_detectada": "Neutral"
+    },
+    "segment_149": {
+      "principal_emocao_detectada": "Neutral"
+    },
+    "segment_150": {
+      "principal_emocao_detectada": "Neutral"
+    },
+    "segment_151": {
+      "principal_emocao_detectada": "Neutral"
+    },
+    "segment_152": {
+      "principal_emocao_detectada": "Neutral"
+    },
+    "segment_153": {
+      "principal_emocao_detectada": "Happiness"
+    },
+    "segment_154": {
+      "principal_emocao_detectada": "Happiness"
+    },
+    "segment_155": {
+      "principal_emocao_detectada": "Neutral"
+    },
+    "segment_156": {
+      "principal_emocao_detectada": "Neutral"
+    },
+    "segment_157": {
+      "principal_emocao_detectada": "Neutral"
+    },
+    "segment_158": {
+      "principal_emocao_detectada": "Neutral"
+    },
+    "segment_159": {
+      "principal_emocao_detectada": "Neutral"
+    },
+    "segment_160": {
+      "principal_emocao_detectada": "Neutral"
+    },
+    "segment_161": {
+      "principal_emocao_detectada": "Neutral"
+    },
+    "segment_162": {
+      "principal_emocao_detectada": "Neutral"
+    },
+    "segment_163": {
+      "principal_emocao_detectada": "Neutral"
+    },
+    "segment_164": {
+      "principal_emocao_detectada": "Neutral"
+    },
+    "segment_165": {
+      "principal_emocao_detectada": "Happiness"
+    },
+    "segment_166": {
+      "principal_emocao_detectada": "Neutral"
+    },
+    "segment_167": {
+      "principal_emocao_detectada": "Neutral"
+    },
+    "segment_168": {
+      "principal_emocao_detectada": "Neutral"
+    },
+    "segment_169": {
+      "principal_emocao_detectada": "Surprise"
+    },
+    "segment_170": {
+      "principal_emocao_detectada": "Neutral"
+    },
+    "segment_171": {
+      "principal_emocao_detectada": "Neutral"
+    },
+    "segment_172": {
+      "principal_emocao_detectada": "Neutral"
+    },
+    "segment_173": {
+      "principal_emocao_detectada": "Neutral"
+    },
+    "segment_174": {
+      "principal_emocao_detectada": "Surprise"
+    },
+    "segment_175": {
+      "principal_emocao_detectada": "Surprise"
+    },
+    "segment_176": {
+      "principal_emocao_detectada": "Surprise"
+    },
+    "segment_177": {
+      "principal_emocao_detectada": "Anger"
+    },
+    "segment_178": {
+      "principal_emocao_detectada": "Happiness"
+    },
+    "segment_179": {
+      "principal_emocao_detectada": "Happiness"
+    },
+    "segment_180": {
+      "principal_emocao_detectada": "Neutral"
+    },
+    "segment_181": {
+      "principal_emocao_detectada": "Neutral"
+    }
+  },
+  "output_v2": {
+    "segment_000": {
+      "principal_emocao_detectada": "Neutral"
+    },
+    "segment_001": {
+      "principal_emocao_detectada": "Neutral"
+    },
+    "segment_002": {
+      "principal_emocao_detectada": "Neutral"
+    },
+    "segment_003": {
+      "principal_emocao_detectada": "Neutral"
+    },
+    "segment_004": {
+      "principal_emocao_detectada": "Neutral"
+    },
+    "segment_005": {
+      "principal_emocao_detectada": "Neutral"
+    },
+    "segment_006": {
+      "principal_emocao_detectada": "Neutral"
+    },
+    "segment_007": {
+      "principal_emocao_detectada": "Neutral"
+    },
+    "segment_008": {
+      "principal_emocao_detectada": "Neutral"
+    },
+    "segment_173": {
+      "principal_emocao_detectada": "Happiness"
+    },
+    "segment_174": {
+      "principal_emocao_detectada": "Neutral"
+    },
+    "segment_175": {
+      "principal_emocao_detectada": "Happiness"
+    },
+    "segment_176": {
+      "principal_emocao_detectada": "Neutral"
+    }
+  },
+  "output_v3": {
+    "segment_000": {
+      "principal_emocao_detectada": "Neutral"
+    },
+    "segment_001": {
+      "principal_emocao_detectada": "Neutral"
+    },
+    "segment_002": {
+      "principal_emocao_detectada": "Neutral"
+    },
+    "segment_003": {
+      "principal_emocao_detectada": "Neutral"
+    },
+    "segment_004": {
+      "principal_emocao_detectada": "Neutral"
+    },
+    "segment_005": {
+      "principal_emocao_detectada": "Neutral"
+    },
+    "segment_006": {
+      "principal_emocao_detectada": "Neutral"
+    },
+    "segment_007": {
+      "principal_emocao_detectada": "Neutral"
+    },
+    "segment_008": {
+      "principal_emocao_detectada": "Neutral"
+    },
+    "segment_009": {
+      "principal_emocao_detectada": "Surprise"
+    },
+    "segment_010": {
+      "principal_emocao_detectada": "Happiness"
+    },
+    "segment_011": {
+      "principal_emocao_detectada": "Neutral"
+    },
+    "segment_012": {
+      "principal_emocao_detectada": "Neutral"
+    },
+    "segment_013": {
+      "principal_emocao_detectada": "Neutral"
+    },
+    "segment_014": {
+      "principal_emocao_detectada": "Neutral"
+    },
+    "segment_015": {
+      "principal_emocao_detectada": "Neutral"
+    },
+    "segment_016": {
+      "principal_emocao_detectada": "Neutral"
+    },
+    "segment_017": {
+      "principal_emocao_detectada": "Anger"
+    },
+    "segment_018": {
+      "principal_emocao_detectada": "Surprise"
+    },
+    "segment_019": {
+      "principal_emocao_detectada": "Happiness"
+    },
+    "segment_020": {
+      "principal_emocao_detectada": "Neutral"
+    },
+    "segment_021": {
+      "principal_emocao_detectada": "Happiness"
+    },
+    "segment_022": {
+      "principal_emocao_detectada": "Neutral"
+    },
+    "segment_023": {
+      "principal_emocao_detectada": "Neutral"
+    },
+    "segment_024": {
+      "principal_emocao_detectada": "Neutral"
+    },
+    "segment_025": {
+      "principal_emocao_detectada": "Neutral"
+    },
+    "segment_026": {
+      "principal_emocao_detectada": "Anger"
+    },
+    "segment_027": {
+      "principal_emocao_detectada": "Neutral"
+    },
+    "segment_028": {
+      "principal_emocao_detectada": "Happiness"
+    },
+    "segment_029": {
+      "principal_emocao_detectada": "Happiness"
+    },
+    "segment_030": {
+      "principal_emocao_detectada": "Neutral"
+    },
+    "segment_031": {
+      "principal_emocao_detectada": "Neutral"
+    },
+    "segment_032": {
+      "principal_emocao_detectada": "Neutral"
+    },
+    "segment_033": {
+      "principal_emocao_detectada": "Happiness"
+    },
+    "segment_034": {
+      "principal_emocao_detectada": "Neutral"
+    },
+    "segment_035": {
+      "principal_emocao_detectada": "Neutral"
+    },
+    "segment_036": {
+      "principal_emocao_detectada": "Neutral"
+    },
+    "segment_037": {
+      "principal_emocao_detectada": "Neutral"
+    },
+    "segment_038": {
+      "principal_emocao_detectada": "Neutral"
+    },
+    "segment_039": {
+      "principal_emocao_detectada": "Neutral"
+    },
+    "segment_040": {
+      "principal_emocao_detectada": "Neutral"
+    },
+    "segment_041": {
+      "principal_emocao_detectada": "Neutral"
+    },
+    "segment_042": {
+      "principal_emocao_detectada": "Anger"
+    },
+    "segment_043": {
+      "principal_emocao_detectada": "Neutral"
+    },
+    "segment_044": {
+      "principal_emocao_detectada": "Neutral"
+    },
+    "segment_045": {
+      "principal_emocao_detectada": "Neutral"
+    },
+    "segment_046": {
+      "principal_emocao_detectada": "Neutral"
+    },
+    "segment_047": {
+      "principal_emocao_detectada": "Neutral"
+    },
+    "segment_048": {
+      "principal_emocao_detectada": "Neutral"
+    },
+    "segment_049": {
+      "principal_emocao_detectada": "Happiness"
+    },
+    "segment_050": {
+      "principal_emocao_detectada": "Neutral"
+    },
+    "segment_051": {
+      "principal_emocao_detectada": "Happiness"
+    },
+    "segment_052": {
+      "principal_emocao_detectada": "Anger"
+    },
+    "segment_053": {
+      "principal_emocao_detectada": "Anger"
+    },
+    "segment_054": {
+      "principal_emocao_detectada": "Neutral"
+    },
+    "segment_055": {
+      "principal_emocao_detectada": "Neutral"
+    },
+    "segment_056": {
+      "principal_emocao_detectada": "Neutral"
+    },
+    "segment_057": {
+      "principal_emocao_detectada": "Neutral"
+    },
+    "segment_058": {
+      "principal_emocao_detectada": "Neutral"
+    },
+    "segment_059": {
+      "principal_emocao_detectada": "Neutral"
+    },
+    "segment_060": {
+      "principal_emocao_detectada": "Surprise"
+    },
+    "segment_061": {
+      "principal_emocao_detectada": "Anger"
+    },
+    "segment_062": {
+      "principal_emocao_detectada": "Neutral"
+    },
+    "segment_063": {
+      "principal_emocao_detectada": "Neutral"
+    },
+    "segment_064": {
+      "principal_emocao_detectada": "Fear"
+    },
+    "segment_065": {
+      "principal_emocao_detectada": "Anger"
+    },
+    "segment_066": {
+      "principal_emocao_detectada": "Neutral"
+    },
+    "segment_067": {
+      "principal_emocao_detectada": "Neutral"
+    },
+    "segment_068": {
+      "principal_emocao_detectada": "Neutral"
+    },
+    "segment_069": {
+      "principal_emocao_detectada": "Neutral"
+    },
+    "segment_070": {
+      "principal_emocao_detectada": "Neutral"
+    },
+    "segment_071": {
+      "principal_emocao_detectada": "Neutral"
+    },
+    "segment_072": {
+      "principal_emocao_detectada": "Neutral"
+    },
+    "segment_073": {
+      "principal_emocao_detectada": "Neutral"
+    },
+    "segment_074": {
+      "principal_emocao_detectada": "Neutral"
+    },
+    "segment_075": {
+      "principal_emocao_detectada": "Neutral"
+    },
+    "segment_076": {
+      "principal_emocao_detectada": "Neutral"
+    },
+    "segment_077": {
+      "principal_emocao_detectada": "Neutral"
+    },
+    "segment_078": {
+      "principal_emocao_detectada": "Neutral"
+    },
+    "segment_079": {
+      "principal_emocao_detectada": "Neutral"
+    },
+    "segment_080": {
+      "principal_emocao_detectada": "Neutral"
+    },
+    "segment_081": {
+      "principal_emocao_detectada": "Neutral"
+    },
+    "segment_082": {
+      "principal_emocao_detectada": "Neutral"
+    },
+    "segment_083": {
+      "principal_emocao_detectada": "Neutral"
+    },
+    "segment_084": {
+      "principal_emocao_detectada": "Neutral"
+    },
+    "segment_085": {
+      "principal_emocao_detectada": "Neutral"
+    },
+    "segment_086": {
+      "principal_emocao_detectada": "Surprise"
+    },
+    "segment_087": {
+      "principal_emocao_detectada": "Neutral"
+    },
+    "segment_088": {
+      "principal_emocao_detectada": "Neutral"
+    },
+    "segment_089": {
+      "principal_emocao_detectada": "Neutral"
+    },
+    "segment_090": {
+      "principal_emocao_detectada": "Neutral"
+    },
+    "segment_091": {
+      "principal_emocao_detectada": "Neutral"
+    },
+    "segment_092": {
+      "principal_emocao_detectada": "Neutral"
+    },
+    "segment_093": {
+      "principal_emocao_detectada": "Neutral"
+    },
+    "segment_094": {
+      "principal_emocao_detectada": "Neutral"
+    },
+    "segment_095": {
+      "principal_emocao_detectada": "Neutral"
+    },
+    "segment_096": {
+      "principal_emocao_detectada": "Neutral"
+    },
+    "segment_097": {
+      "principal_emocao_detectada": "Neutral"
+    },
+    "segment_098": {
+      "principal_emocao_detectada": "Neutral"
+    },
+    "segment_099": {
+      "principal_emocao_detectada": "Neutral"
+    },
+    "segment_100": {
+      "principal_emocao_detectada": "Happiness"
+    },
+    "segment_101": {
+      "principal_emocao_detectada": "Neutral"
+    },
+    "segment_102": {
+      "principal_emocao_detectada": "Neutral"
+    },
+    "segment_103": {
+      "principal_emocao_detectada": "Neutral"
+    },
+    "segment_104": {
+      "principal_emocao_detectada": "Neutral"
+    },
+    "segment_105": {
+      "principal_emocao_detectada": "Neutral"
+    },
+    "segment_106": {
+      "principal_emocao_detectada": "Neutral"
+    },
+    "segment_107": {
+      "principal_emocao_detectada": "Neutral"
+    },
+    "segment_108": {
+      "principal_emocao_detectada": "Neutral"
+    },
+    "segment_109": {
+      "principal_emocao_detectada": "Neutral"
+    },
+    "segment_110": {
+      "principal_emocao_detectada": "Neutral"
+    },
+    "segment_111": {
+      "principal_emocao_detectada": "Neutral"
+    },
+    "segment_112": {
+      "principal_emocao_detectada": "Neutral"
+    },
+    "segment_113": {
+      "principal_emocao_detectada": "Neutral"
+    },
+    "segment_114": {
+      "principal_emocao_detectada": "Neutral"
+    },
+    "segment_115": {
+      "principal_emocao_detectada": "Neutral"
+    },
+    "segment_116": {
+      "principal_emocao_detectada": "Neutral"
+    },
+    "segment_117": {
+      "principal_emocao_detectada": "Happiness"
+    }
+  },
+  "output_v4": {
+    "segment_000": {
+      "principal_emocao_detectada": "Neutral"
+    },
+    "segment_001": {
+      "principal_emocao_detectada": "Neutral"
+    },
+    "segment_002": {
+      "principal_emocao_detectada": "Neutral"
+    },
+    "segment_003": {
+      "principal_emocao_detectada": "Neutral"
+    },
+    "segment_004": {
+      "principal_emocao_detectada": "Neutral"
+    },
+    "segment_005": {
+      "principal_emocao_detectada": "Neutral"
+    },
+    "segment_006": {
+      "principal_emocao_detectada": "Happiness"
+    },
+    "segment_007": {
+      "principal_emocao_detectada": "Neutral"
+    },
+    "segment_008": {
+      "principal_emocao_detectada": "Anger"
+    },
+    "segment_009": {
+      "principal_emocao_detectada": "Neutral"
+    },
+    "segment_010": {
+      "principal_emocao_detectada": "Neutral"
+    },
+    "segment_011": {
+      "principal_emocao_detectada": "Neutral"
+    },
+    "segment_012": {
+      "principal_emocao_detectada": "Surprise"
+    },
+    "segment_013": {
+      "principal_emocao_detectada": "Neutral"
+    },
+    "segment_014": {
+      "principal_emocao_detectada": "Anger"
+    },
+    "segment_015": {
+      "principal_emocao_detectada": "Neutral"
+    },
+    "segment_016": {
+      "principal_emocao_detectada": "Neutral"
+    },
+    "segment_017": {
+      "principal_emocao_detectada": "Anger"
+    },
+    "segment_018": {
+      "principal_emocao_detectada": "Anger"
+    },
+    "segment_019": {
+      "principal_emocao_detectada": "Surprise"
+    },
+    "segment_020": {
+      "principal_emocao_detectada": "Neutral"
+    },
+    "segment_021": {
+      "principal_emocao_detectada": "Neutral"
+    },
+    "segment_022": {
+      "principal_emocao_detectada": "Neutral"
+    },
+    "segment_023": {
+      "principal_emocao_detectada": "Neutral"
+    },
+    "segment_024": {
+      "principal_emocao_detectada": "Neutral"
+    },
+    "segment_025": {
+      "principal_emocao_detectada": "Neutral"
+    },
+    "segment_026": {
+      "principal_emocao_detectada": "Neutral"
+    },
+    "segment_027": {
+      "principal_emocao_detectada": "Neutral"
+    },
+    "segment_028": {
+      "principal_emocao_detectada": "Neutral"
+    },
+    "segment_029": {
+      "principal_emocao_detectada": "Neutral"
+    },
+    "segment_030": {
+      "principal_emocao_detectada": "Neutral"
+    },
+    "segment_031": {
+      "principal_emocao_detectada": "Neutral"
+    },
+    "segment_032": {
+      "principal_emocao_detectada": "Neutral"
+    },
+    "segment_033": {
+      "principal_emocao_detectada": "Neutral"
+    },
+    "segment_034": {
+      "principal_emocao_detectada": "Neutral"
+    },
+    "segment_035": {
+      "principal_emocao_detectada": "Neutral"
+    },
+    "segment_036": {
+      "principal_emocao_detectada": "Neutral"
+    },
+    "segment_037": {
+      "principal_emocao_detectada": "Neutral"
+    },
+    "segment_038": {
+      "principal_emocao_detectada": "Neutral"
+    },
+    "segment_039": {
+      "principal_emocao_detectada": "Neutral"
+    },
+    "segment_040": {
+      "principal_emocao_detectada": "Neutral"
+    },
+    "segment_041": {
+      "principal_emocao_detectada": "Neutral"
+    },
+    "segment_042": {
+      "principal_emocao_detectada": "Neutral"
+    },
+    "segment_043": {
+      "principal_emocao_detectada": "Neutral"
+    },
+    "segment_044": {
+      "principal_emocao_detectada": "Neutral"
+    },
+    "segment_045": {
+      "principal_emocao_detectada": "Neutral"
+    },
+    "segment_046": {
+      "principal_emocao_detectada": "Neutral"
+    },
+    "segment_047": {
+      "principal_emocao_detectada": "Neutral"
+    },
+    "segment_048": {
+      "principal_emocao_detectada": "Neutral"
+    },
+    "segment_049": {
+      "principal_emocao_detectada": "Neutral"
+    },
+    "segment_050": {
+      "principal_emocao_detectada": "Neutral"
+    },
+    "segment_051": {
+      "principal_emocao_detectada": "Neutral"
+    },
+    "segment_052": {
+      "principal_emocao_detectada": "Happiness"
+    },
+    "segment_053": {
+      "principal_emocao_detectada": "Happiness"
+    },
+    "segment_054": {
+      "principal_emocao_detectada": "Neutral"
+    },
+    "segment_055": {
+      "principal_emocao_detectada": "Neutral"
+    },
+    "segment_056": {
+      "principal_emocao_detectada": "Neutral"
+    },
+    "segment_057": {
+      "principal_emocao_detectada": "Neutral"
+    },
+    "segment_058": {
+      "principal_emocao_detectada": "Neutral"
+    },
+    "segment_059": {
+      "principal_emocao_detectada": "Neutral"
+    },
+    "segment_060": {
+      "principal_emocao_detectada": "Neutral"
+    },
+    "segment_061": {
+      "principal_emocao_detectada": "Neutral"
+    },
+    "segment_062": {
+      "principal_emocao_detectada": "Neutral"
+    },
+    "segment_063": {
+      "principal_emocao_detectada": "Neutral"
+    },
+    "segment_064": {
+      "principal_emocao_detectada": "Neutral"
+    },
+    "segment_065": {
+      "principal_emocao_detectada": "Neutral"
+    },
+    "segment_066": {
+      "principal_emocao_detectada": "Neutral"
+    },
+    "segment_067": {
+      "principal_emocao_detectada": "Neutral"
+    },
+    "segment_068": {
+      "principal_emocao_detectada": "Happiness"
+    },
+    "segment_069": {
+      "principal_emocao_detectada": "Neutral"
+    },
+    "segment_070": {
+      "principal_emocao_detectada": "Neutral"
+    },
+    "segment_071": {
+      "principal_emocao_detectada": "Neutral"
+    },
+    "segment_072": {
+      "principal_emocao_detectada": "Neutral"
+    },
+    "segment_073": {
+      "principal_emocao_detectada": "Neutral"
+    },
+    "segment_074": {
+      "principal_emocao_detectada": "Neutral"
+    },
+    "segment_075": {
+      "principal_emocao_detectada": "Neutral"
+    },
+    "segment_076": {
+      "principal_emocao_detectada": "Neutral"
+    },
+    "segment_077": {
+      "principal_emocao_detectada": "Neutral"
+    },
+    "segment_078": {
+      "principal_emocao_detectada": "Neutral"
+    },
+    "segment_079": {
+      "principal_emocao_detectada": "Neutral"
+    },
+    "segment_080": {
+      "principal_emocao_detectada": "Neutral"
+    },
+    "segment_081": {
+      "principal_emocao_detectada": "Neutral"
+    },
+    "segment_082": {
+      "principal_emocao_detectada": "Neutral"
+    },
+    "segment_083": {
+      "principal_emocao_detectada": "Neutral"
+    },
+    "segment_084": {
+      "principal_emocao_detectada": "Neutral"
+    },
+    "segment_085": {
+      "principal_emocao_detectada": "Neutral"
+    },
+    "segment_086": {
+      "principal_emocao_detectada": "Neutral"
+    },
+    "segment_087": {
+      "principal_emocao_detectada": "Surprise"
+    },
+    "segment_088": {
+      "principal_emocao_detectada": "Happiness"
+    },
+    "segment_089": {
+      "principal_emocao_detectada": "Neutral"
+    },
+    "segment_090": {
+      "principal_emocao_detectada": "Neutral"
+    },
+    "segment_091": {
+      "principal_emocao_detectada": "Neutral"
+    },
+    "segment_092": {
+      "principal_emocao_detectada": "Neutral"
+    },
+    "segment_093": {
+      "principal_emocao_detectada": "Neutral"
+    },
+    "segment_094": {
+      "principal_emocao_detectada": "Neutral"
+    },
+    "segment_095": {
+      "principal_emocao_detectada": "Neutral"
+    },
+    "segment_096": {
+      "principal_emocao_detectada": "Fear"
+    },
+    "segment_097": {
+      "principal_emocao_detectada": "Disgust"
+    },
+    "segment_098": {
+      "principal_emocao_detectada": "Neutral"
+    },
+    "segment_099": {
+      "principal_emocao_detectada": "Neutral"
+    },
+    "segment_100": {
+      "principal_emocao_detectada": "Neutral"
+    },
+    "segment_101": {
+      "principal_emocao_detectada": "Neutral"
+    },
+    "segment_102": {
+      "principal_emocao_detectada": "Neutral"
+    },
+    "segment_103": {
+      "principal_emocao_detectada": "Neutral"
+    },
+    "segment_104": {
+      "principal_emocao_detectada": "Neutral"
+    },
+    "segment_105": {
+      "principal_emocao_detectada": "Neutral"
+    },
+    "segment_106": {
+      "principal_emocao_detectada": "Neutral"
+    },
+    "segment_107": {
+      "principal_emocao_detectada": "Neutral"
+    },
+    "segment_108": {
+      "principal_emocao_detectada": "Neutral"
+    },
+    "segment_109": {
+      "principal_emocao_detectada": "Neutral"
+    },
+    "segment_110": {
+      "principal_emocao_detectada": "Neutral"
+    },
+    "segment_111": {
+      "principal_emocao_detectada": "Neutral"
+    },
+    "segment_112": {
+      "principal_emocao_detectada": "Neutral"
+    },
+    "segment_113": {
+      "principal_emocao_detectada": "Neutral"
+    },
+    "segment_114": {
+      "principal_emocao_detectada": "Neutral"
+    },
+    "segment_115": {
+      "principal_emocao_detectada": "Neutral"
+    },
+    "segment_116": {
+      "principal_emocao_detectada": "Neutral"
+    },
+    "segment_117": {
+      "principal_emocao_detectada": "Neutral"
+    },
+    "segment_118": {
+      "principal_emocao_detectada": "Neutral"
+    },
+    "segment_119": {
+      "principal_emocao_detectada": "Neutral"
+    },
+    "segment_120": {
+      "principal_emocao_detectada": "Neutral"
+    },
+    "segment_121": {
+      "principal_emocao_detectada": "Neutral"
+    },
+    "segment_122": {
+      "principal_emocao_detectada": "Neutral"
+    },
+    "segment_123": {
+      "principal_emocao_detectada": "Neutral"
+    },
+    "segment_124": {
+      "principal_emocao_detectada": "Neutral"
+    },
+    "segment_125": {
+      "principal_emocao_detectada": "Neutral"
+    },
+    "segment_126": {
+      "principal_emocao_detectada": "Neutral"
+    },
+    "segment_127": {
+      "principal_emocao_detectada": "Neutral"
+    },
+    "segment_128": {
+      "principal_emocao_detectada": "Neutral"
+    },
+    "segment_129": {
+      "principal_emocao_detectada": "Neutral"
+    },
+    "segment_130": {
+      "principal_emocao_detectada": "Fear"
+    },
+    "segment_131": {
+      "principal_emocao_detectada": "Neutral"
+    },
+    "segment_132": {
+      "principal_emocao_detectada": "Neutral"
+    },
+    "segment_133": {
+      "principal_emocao_detectada": "Neutral"
+    },
+    "segment_134": {
+      "principal_emocao_detectada": "Neutral"
+    },
+    "segment_135": {
+      "principal_emocao_detectada": "Neutral"
+    },
+    "segment_136": {
+      "principal_emocao_detectada": "Neutral"
+    },
+    "segment_137": {
+      "principal_emocao_detectada": "Neutral"
+    },
+    "segment_138": {
+      "principal_emocao_detectada": "Neutral"
+    },
+    "segment_139": {
+      "principal_emocao_detectada": "Neutral"
+    },
+    "segment_140": {
+      "principal_emocao_detectada": "Neutral"
+    },
+    "segment_141": {
+      "principal_emocao_detectada": "Neutral"
+    },
+    "segment_142": {
+      "principal_emocao_detectada": "Neutral"
+    },
+    "segment_143": {
+      "principal_emocao_detectada": "Neutral"
+    },
+    "segment_144": {
+      "principal_emocao_detectada": "Neutral"
+    },
+    "segment_145": {
+      "principal_emocao_detectada": "Neutral"
+    },
+    "segment_146": {
+      "principal_emocao_detectada": "Neutral"
+    },
+    "segment_147": {
+      "principal_emocao_detectada": "Neutral"
+    },
+    "segment_148": {
+      "principal_emocao_detectada": "Neutral"
+    },
+    "segment_149": {
+      "principal_emocao_detectada": "Neutral"
+    },
+    "segment_150": {
+      "principal_emocao_detectada": "Neutral"
+    },
+    "segment_151": {
+      "principal_emocao_detectada": "Neutral"
+    },
+    "segment_152": {
+      "principal_emocao_detectada": "Neutral"
+    },
+    "segment_153": {
+      "principal_emocao_detectada": "Neutral"
+    },
+    "segment_154": {
+      "principal_emocao_detectada": "Neutral"
+    },
+    "segment_155": {
+      "principal_emocao_detectada": "Neutral"
+    },
+    "segment_156": {
+      "principal_emocao_detectada": "Neutral"
+    },
+    "segment_157": {
+      "principal_emocao_detectada": "Neutral"
+    },
+    "segment_158": {
+      "principal_emocao_detectada": "Neutral"
+    },
+    "segment_159": {
+      "principal_emocao_detectada": "Neutral"
+    },
+    "segment_160": {
+      "principal_emocao_detectada": "Neutral"
+    },
+    "segment_161": {
+      "principal_emocao_detectada": "Neutral"
+    },
+    "segment_162": {
+      "principal_emocao_detectada": "Neutral"
+    },
+    "segment_163": {
+      "principal_emocao_detectada": "Neutral"
+    },
+    "segment_164": {
+      "principal_emocao_detectada": "Neutral"
+    },
+    "segment_165": {
+      "principal_emocao_detectada": "Neutral"
+    },
+    "segment_166": {
+      "principal_emocao_detectada": "Neutral"
+    },
+    "segment_167": {
+      "principal_emocao_detectada": "Neutral"
+    },
+    "segment_168": {
+      "principal_emocao_detectada": "Neutral"
+    },
+    "segment_169": {
+      "principal_emocao_detectada": "Neutral"
+    },
+    "segment_170": {
+      "principal_emocao_detectada": "Neutral"
+    },
+    "segment_171": {
+      "principal_emocao_detectada": "Happiness"
+    },
+    "segment_172": {
+      "principal_emocao_detectada": "Neutral"
+    },
+    "segment_173": {
+      "principal_emocao_detectada": "Neutral"
+    },
+    "segment_174": {
+      "principal_emocao_detectada": "Neutral"
+    },
+    "segment_175": {
+      "principal_emocao_detectada": "Neutral"
+    },
+    "segment_176": {
+      "principal_emocao_detectada": "Neutral"
+    },
+    "segment_177": {
+      "principal_emocao_detectada": "Neutral"
+    },
+    "segment_178": {
+      "principal_emocao_detectada": "Neutral"
+    },
+    "segment_179": {
+      "principal_emocao_detectada": "Neutral"
+    },
+    "segment_180": {
+      "principal_emocao_detectada": "Neutral"
+    },
+    "segment_181": {
+      "principal_emocao_detectada": "Neutral"
+    },
+    "segment_182": {
+      "principal_emocao_detectada": "Neutral"
+    },
+    "segment_183": {
+      "principal_emocao_detectada": "Neutral"
+    },
+    "segment_184": {
+      "principal_emocao_detectada": "Neutral"
+    },
+    "segment_185": {
+      "principal_emocao_detectada": "Neutral"
+    },
+    "segment_186": {
+      "principal_emocao_detectada": "Neutral"
+    },
+    "segment_187": {
+      "principal_emocao_detectada": "Happiness"
+    },
+    "segment_188": {
+      "principal_emocao_detectada": "Neutral"
+    },
+    "segment_189": {
+      "principal_emocao_detectada": "Neutral"
+    },
+    "segment_190": {
+      "principal_emocao_detectada": "Surprise"
+    },
+    "segment_191": {
+      "principal_emocao_detectada": "Neutral"
+    },
+    "segment_192": {
+      "principal_emocao_detectada": "Neutral"
+    },
+    "segment_193": {
+      "principal_emocao_detectada": "Neutral"
+    },
+    "segment_194": {
+      "principal_emocao_detectada": "Neutral"
+    },
+    "segment_195": {
+      "principal_emocao_detectada": "Neutral"
+    },
+    "segment_196": {
+      "principal_emocao_detectada": "Neutral"
+    },
+    "segment_197": {
+      "principal_emocao_detectada": "Neutral"
+    },
+    "segment_198": {
+      "principal_emocao_detectada": "Neutral"
+    },
+    "segment_199": {
+      "principal_emocao_detectada": "Neutral"
+    },
+    "segment_200": {
+      "principal_emocao_detectada": "Neutral"
+    },
+    "segment_201": {
+      "principal_emocao_detectada": "Neutral"
+    },
+    "segment_202": {
+      "principal_emocao_detectada": "Neutral"
+    },
+    "segment_203": {
+      "principal_emocao_detectada": "Neutral"
+    },
+    "segment_204": {
+      "principal_emocao_detectada": "Neutral"
+    },
+    "segment_205": {
+      "principal_emocao_detectada": "Neutral"
+    },
+    "segment_206": {
+      "principal_emocao_detectada": "Neutral"
+    },
+    "segment_207": {
+      "principal_emocao_detectada": "Neutral"
+    },
+    "segment_208": {
+      "principal_emocao_detectada": "Neutral"
+    },
+    "segment_209": {
+      "principal_emocao_detectada": "Neutral"
+    },
+    "segment_210": {
+      "principal_emocao_detectada": "Neutral"
+    },
+    "segment_211": {
+      "principal_emocao_detectada": "Neutral"
+    },
+    "segment_212": {
+      "principal_emocao_detectada": "Neutral"
+    },
+    "segment_213": {
+      "principal_emocao_detectada": "Neutral"
+    },
+    "segment_214": {
+      "principal_emocao_detectada": "Neutral"
+    },
+    "segment_215": {
+      "principal_emocao_detectada": "Neutral"
+    },
+    "segment_216": {
+      "principal_emocao_detectada": "Neutral"
+    },
+    "segment_217": {
+      "principal_emocao_detectada": "Neutral"
+    },
+    "segment_218": {
+      "principal_emocao_detectada": "Neutral"
+    },
+    "segment_219": {
+      "principal_emocao_detectada": "Neutral"
+    },
+    "segment_220": {
+      "principal_emocao_detectada": "Neutral"
+    },
+    "segment_221": {
+      "principal_emocao_detectada": "Neutral"
+    },
+    "segment_222": {
+      "principal_emocao_detectada": "Neutral"
+    },
+    "segment_223": {
+      "principal_emocao_detectada": "Neutral"
+    },
+    "segment_224": {
+      "principal_emocao_detectada": "Neutral"
+    },
+    "segment_225": {
+      "principal_emocao_detectada": "Neutral"
+    },
+    "segment_226": {
+      "principal_emocao_detectada": "Neutral"
+    },
+    "segment_227": {
+      "principal_emocao_detectada": "Neutral"
+    },
+    "segment_228": {
+      "principal_emocao_detectada": "Neutral"
+    },
+    "segment_229": {
+      "principal_emocao_detectada": "Neutral"
+    },
+    "segment_230": {
+      "principal_emocao_detectada": "Neutral"
+    },
+    "segment_231": {
+      "principal_emocao_detectada": "Neutral"
+    },
+    "segment_232": {
+      "principal_emocao_detectada": "Neutral"
+    },
+    "segment_233": {
+      "principal_emocao_detectada": "Neutral"
+    },
+    "segment_234": {
+      "principal_emocao_detectada": "Neutral"
+    },
+    "segment_235": {
+      "principal_emocao_detectada": "Neutral"
+    },
+    "segment_236": {
+      "principal_emocao_detectada": "Neutral"
+    },
+    "segment_237": {
+      "principal_emocao_detectada": "Neutral"
+    },
+    "segment_238": {
+      "principal_emocao_detectada": "Neutral"
+    },
+    "segment_239": {
+      "principal_emocao_detectada": "Neutral"
+    },
+    "segment_240": {
+      "principal_emocao_detectada": "Neutral"
+    },
+    "segment_241": {
+      "principal_emocao_detectada": "Neutral"
+    },
+    "segment_242": {
+      "principal_emocao_detectada": "Neutral"
+    },
+    "segment_243": {
+      "principal_emocao_detectada": "Neutral"
+    },
+    "segment_244": {
+      "principal_emocao_detectada": "Neutral"
+    },
+    "segment_245": {
+      "principal_emocao_detectada": "Neutral"
+    },
+    "segment_246": {
+      "principal_emocao_detectada": "Neutral"
+    },
+    "segment_247": {
+      "principal_emocao_detectada": "Neutral"
+    },
+    "segment_248": {
+      "principal_emocao_detectada": "Neutral"
+    },
+    "segment_249": {
+      "principal_emocao_detectada": "Neutral"
+    },
+    "segment_250": {
+      "principal_emocao_detectada": "Neutral"
+    },
+    "segment_251": {
+      "principal_emocao_detectada": "Neutral"
+    },
+    "segment_252": {
+      "principal_emocao_detectada": "Neutral"
+    },
+    "segment_253": {
+      "principal_emocao_detectada": "Neutral"
+    },
+    "segment_254": {
+      "principal_emocao_detectada": "Neutral"
+    },
+    "segment_255": {
+      "principal_emocao_detectada": "Neutral"
+    },
+    "segment_256": {
+      "principal_emocao_detectada": "Neutral"
+    },
+    "segment_257": {
+      "principal_emocao_detectada": "Neutral"
+    },
+    "segment_258": {
+      "principal_emocao_detectada": "Neutral"
+    },
+    "segment_259": {
+      "principal_emocao_detectada": "Neutral"
+    },
+    "segment_260": {
+      "principal_emocao_detectada": "Neutral"
+    },
+    "segment_261": {
+      "principal_emocao_detectada": "Neutral"
+    },
+    "segment_262": {
+      "principal_emocao_detectada": "Anger"
+    },
+    "segment_263": {
+      "principal_emocao_detectada": "Neutral"
+    },
+    "segment_264": {
+      "principal_emocao_detectada": "Neutral"
+    },
+    "segment_265": {
+      "principal_emocao_detectada": "Neutral"
+    },
+    "segment_266": {
+      "principal_emocao_detectada": "Neutral"
+    },
+    "segment_267": {
+      "principal_emocao_detectada": "Neutral"
+    },
+    "segment_268": {
+      "principal_emocao_detectada": "Sadness"
+    },
+    "segment_269": {
+      "principal_emocao_detectada": "Neutral"
+    },
+    "segment_270": {
+      "principal_emocao_detectada": "Neutral"
+    },
+    "segment_271": {
+      "principal_emocao_detectada": "Neutral"
+    },
+    "segment_272": {
+      "principal_emocao_detectada": "Neutral"
+    },
+    "segment_273": {
+      "principal_emocao_detectada": "Neutral"
+    },
+    "segment_274": {
+      "principal_emocao_detectada": "Surprise"
+    },
+    "segment_275": {
+      "principal_emocao_detectada": "Anger"
+    },
+    "segment_276": {
+      "principal_emocao_detectada": "Anger"
+    },
+    "segment_277": {
+      "principal_emocao_detectada": "Neutral"
+    },
+    "segment_278": {
+      "principal_emocao_detectada": "Sadness"
+    },
+    "segment_279": {
+      "principal_emocao_detectada": "Neutral"
+    },
+    "segment_280": {
+      "principal_emocao_detectada": "Neutral"
+    },
+    "segment_281": {
+      "principal_emocao_detectada": "Neutral"
+    },
+    "segment_282": {
+      "principal_emocao_detectada": "Neutral"
+    },
+    "segment_283": {
+      "principal_emocao_detectada": "Neutral"
+    },
+    "segment_284": {
+      "principal_emocao_detectada": "Neutral"
+    },
+    "segment_285": {
+      "principal_emocao_detectada": "Neutral"
+    }
+  },
+  "output_v5": {
+    "segment_000": {
+      "principal_emocao_detectada": "Neutral"
+    },
+    "segment_001": {
+      "principal_emocao_detectada": "Neutral"
+    },
+    "segment_002": {
+      "principal_emocao_detectada": "Neutral"
+    },
+    "segment_003": {
+      "principal_emocao_detectada": "Neutral"
+    },
+    "segment_004": {
+      "principal_emocao_detectada": "Neutral"
+    },
+    "segment_005": {
+      "principal_emocao_detectada": "Neutral"
+    },
+    "segment_006": {
+      "principal_emocao_detectada": "Neutral"
+    },
+    "segment_007": {
+      "principal_emocao_detectada": "Neutral"
+    },
+    "segment_008": {
+      "principal_emocao_detectada": "Neutral"
+    },
+    "segment_009": {
+      "principal_emocao_detectada": "Neutral"
+    },
+    "segment_010": {
+      "principal_emocao_detectada": "Neutral"
+    },
+    "segment_011": {
+      "principal_emocao_detectada": "Neutral"
+    },
+    "segment_012": {
+      "principal_emocao_detectada": "Neutral"
+    },
+    "segment_013": {
+      "principal_emocao_detectada": "Neutral"
+    },
+    "segment_014": {
+      "principal_emocao_detectada": "Neutral"
+    },
+    "segment_015": {
+      "principal_emocao_detectada": "Neutral"
+    },
+    "segment_016": {
+      "principal_emocao_detectada": "Neutral"
+    },
+    "segment_017": {
+      "principal_emocao_detectada": "Neutral"
+    },
+    "segment_018": {
+      "principal_emocao_detectada": "Neutral"
+    },
+    "segment_019": {
+      "principal_emocao_detectada": "Neutral"
+    },
+    "segment_020": {
+      "principal_emocao_detectada": "Neutral"
+    },
+    "segment_021": {
+      "principal_emocao_detectada": "Neutral"
+    },
+    "segment_022": {
+      "principal_emocao_detectada": "Neutral"
+    },
+    "segment_023": {
+      "principal_emocao_detectada": "Neutral"
+    },
+    "segment_024": {
+      "principal_emocao_detectada": "Neutral"
+    },
+    "segment_025": {
+      "principal_emocao_detectada": "Neutral"
+    },
+    "segment_026": {
+      "principal_emocao_detectada": "Neutral"
+    },
+    "segment_027": {
+      "principal_emocao_detectada": "Neutral"
+    },
+    "segment_028": {
+      "principal_emocao_detectada": "Neutral"
+    },
+    "segment_029": {
+      "principal_emocao_detectada": "Neutral"
+    },
+    "segment_030": {
+      "principal_emocao_detectada": "Sadness"
+    },
+    "segment_031": {
+      "principal_emocao_detectada": "Sadness"
+    },
+    "segment_032": {
+      "principal_emocao_detectada": "Neutral"
+    },
+    "segment_033": {
+      "principal_emocao_detectada": "Neutral"
+    },
+    "segment_034": {
+      "principal_emocao_detectada": "Neutral"
+    },
+    "segment_035": {
+      "principal_emocao_detectada": "Neutral"
+    },
+    "segment_036": {
+      "principal_emocao_detectada": "Neutral"
+    },
+    "segment_037": {
+      "principal_emocao_detectada": "Neutral"
+    },
+    "segment_038": {
+      "principal_emocao_detectada": "Neutral"
+    },
+    "segment_039": {
+      "principal_emocao_detectada": "Neutral"
+    },
+    "segment_040": {
+      "principal_emocao_detectada": "Neutral"
+    },
+    "segment_041": {
+      "principal_emocao_detectada": "Neutral"
+    },
+    "segment_042": {
+      "principal_emocao_detectada": "Neutral"
+    },
+    "segment_043": {
+      "principal_emocao_detectada": "Neutral"
+    },
+    "segment_044": {
+      "principal_emocao_detectada": "Neutral"
+    },
+    "segment_045": {
+      "principal_emocao_detectada": "Neutral"
+    },
+    "segment_046": {
+      "principal_emocao_detectada": "Neutral"
+    },
+    "segment_047": {
+      "principal_emocao_detectada": "Neutral"
+    },
+    "segment_048": {
+      "principal_emocao_detectada": "Neutral"
+    },
+    "segment_049": {
+      "principal_emocao_detectada": "Neutral"
+    },
+    "segment_050": {
+      "principal_emocao_detectada": "Neutral"
+    },
+    "segment_051": {
+      "principal_emocao_detectada": "Neutral"
+    },
+    "segment_052": {
+      "principal_emocao_detectada": "Neutral"
+    },
+    "segment_053": {
+      "principal_emocao_detectada": "Neutral"
+    },
+    "segment_054": {
+      "principal_emocao_detectada": "Neutral"
+    },
+    "segment_055": {
+      "principal_emocao_detectada": "Neutral"
+    },
+    "segment_063": {
+      "principal_emocao_detectada": "Happiness"
+    },
+    "segment_064": {
+      "principal_emocao_detectada": "Happiness"
+    },
+    "segment_065": {
+      "principal_emocao_detectada": "Neutral"
+    },
+    "segment_066": {
+      "principal_emocao_detectada": "Neutral"
+    },
+    "segment_067": {
+      "principal_emocao_detectada": "Neutral"
+    },
+    "segment_068": {
+      "principal_emocao_detectada": "Neutral"
+    },
+    "segment_069": {
+      "principal_emocao_detectada": "Neutral"
+    },
+    "segment_070": {
+      "principal_emocao_detectada": "Neutral"
+    },
+    "segment_071": {
+      "principal_emocao_detectada": "Neutral"
+    },
+    "segment_072": {
+      "principal_emocao_detectada": "Neutral"
+    },
+    "segment_073": {
+      "principal_emocao_detectada": "Neutral"
+    },
+    "segment_074": {
+      "principal_emocao_detectada": "Neutral"
+    },
+    "segment_075": {
+      "principal_emocao_detectada": "Neutral"
+    },
+    "segment_076": {
+      "principal_emocao_detectada": "Neutral"
+    },
+    "segment_077": {
+      "principal_emocao_detectada": "Neutral"
+    },
+    "segment_078": {
+      "principal_emocao_detectada": "Neutral"
+    },
+    "segment_079": {
+      "principal_emocao_detectada": "Neutral"
+    },
+    "segment_080": {
+      "principal_emocao_detectada": "Neutral"
+    },
+    "segment_081": {
+      "principal_emocao_detectada": "Neutral"
+    },
+    "segment_082": {
+      "principal_emocao_detectada": "Neutral"
+    },
+    "segment_083": {
+      "principal_emocao_detectada": "Neutral"
+    },
+    "segment_084": {
+      "principal_emocao_detectada": "Neutral"
+    },
+    "segment_085": {
+      "principal_emocao_detectada": "Neutral"
+    },
+    "segment_086": {
+      "principal_emocao_detectada": "Neutral"
+    },
+    "segment_087": {
+      "principal_emocao_detectada": "Neutral"
+    },
+    "segment_088": {
+      "principal_emocao_detectada": "Neutral"
+    },
+    "segment_089": {
+      "principal_emocao_detectada": "Neutral"
+    },
+    "segment_090": {
+      "principal_emocao_detectada": "Neutral"
+    },
+    "segment_091": {
+      "principal_emocao_detectada": "Neutral"
+    },
+    "segment_092": {
+      "principal_emocao_detectada": "Neutral"
+    },
+    "segment_093": {
+      "principal_emocao_detectada": "Neutral"
+    },
+    "segment_094": {
+      "principal_emocao_detectada": "Neutral"
+    },
+    "segment_095": {
+      "principal_emocao_detectada": "Neutral"
+    },
+    "segment_096": {
+      "principal_emocao_detectada": "Neutral"
+    },
+    "segment_097": {
+      "principal_emocao_detectada": "Neutral"
+    },
+    "segment_098": {
+      "principal_emocao_detectada": "Neutral"
+    },
+    "segment_099": {
+      "principal_emocao_detectada": "Neutral"
+    },
+    "segment_100": {
+      "principal_emocao_detectada": "Neutral"
+    },
+    "segment_101": {
+      "principal_emocao_detectada": "Neutral"
+    },
+    "segment_102": {
+      "principal_emocao_detectada": "Neutral"
+    },
+    "segment_103": {
+      "principal_emocao_detectada": "Neutral"
+    },
+    "segment_104": {
+      "principal_emocao_detectada": "Neutral"
+    },
+    "segment_105": {
+      "principal_emocao_detectada": "Neutral"
+    },
+    "segment_106": {
+      "principal_emocao_detectada": "Neutral"
+    },
+    "segment_107": {
+      "principal_emocao_detectada": "Neutral"
+    },
+    "segment_108": {
+      "principal_emocao_detectada": "Neutral"
+    },
+    "segment_109": {
+      "principal_emocao_detectada": "Neutral"
+    },
+    "segment_110": {
+      "principal_emocao_detectada": "Neutral"
+    },
+    "segment_111": {
+      "principal_emocao_detectada": "Neutral"
+    },
+    "segment_112": {
+      "principal_emocao_detectada": "Neutral"
+    },
+    "segment_113": {
+      "principal_emocao_detectada": "Neutral"
+    },
+    "segment_114": {
+      "principal_emocao_detectada": "Neutral"
+    },
+    "segment_117": {
+      "principal_emocao_detectada": "Neutral"
+    },
+    "segment_118": {
+      "principal_emocao_detectada": "Neutral"
+    },
+    "segment_119": {
+      "principal_emocao_detectada": "Neutral"
+    },
+    "segment_120": {
+      "principal_emocao_detectada": "Neutral"
+    },
+    "segment_121": {
+      "principal_emocao_detectada": "Neutral"
+    },
+    "segment_122": {
+      "principal_emocao_detectada": "Neutral"
+    },
+    "segment_123": {
+      "principal_emocao_detectada": "Neutral"
+    },
+    "segment_124": {
+      "principal_emocao_detectada": "Neutral"
+    },
+    "segment_125": {
+      "principal_emocao_detectada": "Neutral"
+    },
+    "segment_126": {
+      "principal_emocao_detectada": "Neutral"
+    },
+    "segment_127": {
+      "principal_emocao_detectada": "Anger"
+    },
+    "segment_128": {
+      "principal_emocao_detectada": "Anger"
+    },
+    "segment_129": {
+      "principal_emocao_detectada": "Disgust"
+    },
+    "segment_130": {
+      "principal_emocao_detectada": "Neutral"
+    },
+    "segment_131": {
+      "principal_emocao_detectada": "Happiness"
+    },
+    "segment_132": {
+      "principal_emocao_detectada": "Happiness"
+    },
+    "segment_133": {
+      "principal_emocao_detectada": "Happiness"
+    },
+    "segment_134": {
+      "principal_emocao_detectada": "Neutral"
+    },
+    "segment_135": {
+      "principal_emocao_detectada": "Neutral"
+    },
+    "segment_136": {
+      "principal_emocao_detectada": "Neutral"
+    },
+    "segment_137": {
+      "principal_emocao_detectada": "Neutral"
+    },
+    "segment_138": {
+      "principal_emocao_detectada": "Happiness"
+    },
+    "segment_139": {
+      "principal_emocao_detectada": "Disgust"
+    },
+    "segment_140": {
+      "principal_emocao_detectada": "Anger"
+    },
+    "segment_141": {
+      "principal_emocao_detectada": "Neutral"
+    },
+    "segment_142": {
+      "principal_emocao_detectada": "Neutral"
+    },
+    "segment_143": {
+      "principal_emocao_detectada": "Neutral"
+    },
+    "segment_144": {
+      "principal_emocao_detectada": "Neutral"
+    },
+    "segment_145": {
+      "principal_emocao_detectada": "Neutral"
+    },
+    "segment_146": {
+      "principal_emocao_detectada": "Neutral"
+    },
+    "segment_147": {
+      "principal_emocao_detectada": "Neutral"
+    },
+    "segment_148": {
+      "principal_emocao_detectada": "Neutral"
+    },
+    "segment_149": {
+      "principal_emocao_detectada": "Happiness"
+    },
+    "segment_150": {
+      "principal_emocao_detectada": "Happiness"
+    },
+    "segment_151": {
+      "principal_emocao_detectada": "Happiness"
+    },
+    "segment_152": {
+      "principal_emocao_detectada": "Neutral"
+    },
+    "segment_153": {
+      "principal_emocao_detectada": "Neutral"
+    },
+    "segment_154": {
+      "principal_emocao_detectada": "Neutral"
+    },
+    "segment_155": {
+      "principal_emocao_detectada": "Neutral"
+    },
+    "segment_156": {
+      "principal_emocao_detectada": "Neutral"
+    },
+    "segment_157": {
+      "principal_emocao_detectada": "Neutral"
+    },
+    "segment_158": {
+      "principal_emocao_detectada": "Neutral"
+    },
+    "segment_159": {
+      "principal_emocao_detectada": "Neutral"
+    },
+    "segment_160": {
+      "principal_emocao_detectada": "Neutral"
+    },
+    "segment_161": {
+      "principal_emocao_detectada": "Neutral"
+    },
+    "segment_162": {
+      "principal_emocao_detectada": "Neutral"
+    },
+    "segment_164": {
+      "principal_emocao_detectada": "Neutral"
+    },
+    "segment_165": {
+      "principal_emocao_detectada": "Neutral"
+    },
+    "segment_166": {
+      "principal_emocao_detectada": "Neutral"
+    },
+    "segment_167": {
+      "principal_emocao_detectada": "Neutral"
+    },
+    "segment_168": {
+      "principal_emocao_detectada": "Neutral"
+    },
+    "segment_169": {
+      "principal_emocao_detectada": "Neutral"
+    },
+    "segment_171": {
+      "principal_emocao_detectada": "Neutral"
+    },
+    "segment_172": {
+      "principal_emocao_detectada": "Happiness"
+    },
+    "segment_173": {
+      "principal_emocao_detectada": "Surprise"
+    },
+    "segment_174": {
+      "principal_emocao_detectada": "Surprise"
+    },
+    "segment_175": {
+      "principal_emocao_detectada": "Neutral"
+    },
+    "segment_176": {
+      "principal_emocao_detectada": "Neutral"
+    },
+    "segment_177": {
+      "principal_emocao_detectada": "Neutral"
+    },
+    "segment_178": {
+      "principal_emocao_detectada": "Neutral"
+    },
+    "segment_179": {
+      "principal_emocao_detectada": "Neutral"
+    },
+    "segment_180": {
+      "principal_emocao_detectada": "Neutral"
+    },
+    "segment_181": {
+      "principal_emocao_detectada": "Neutral"
+    },
+    "segment_182": {
+      "principal_emocao_detectada": "Neutral"
+    },
+    "segment_183": {
+      "principal_emocao_detectada": "Neutral"
+    },
+    "segment_184": {
+      "principal_emocao_detectada": "Happiness"
+    },
+    "segment_185": {
+      "principal_emocao_detectada": "Neutral"
+    },
+    "segment_186": {
+      "principal_emocao_detectada": "Neutral"
+    },
+    "segment_187": {
+      "principal_emocao_detectada": "Neutral"
+    },
+    "segment_188": {
+      "principal_emocao_detectada": "Neutral"
+    },
+    "segment_189": {
+      "principal_emocao_detectada": "Happiness"
+    },
+    "segment_190": {
+      "principal_emocao_detectada": "Neutral"
+    },
+    "segment_191": {
+      "principal_emocao_detectada": "Neutral"
+    },
+    "segment_192": {
+      "principal_emocao_detectada": "Neutral"
+    },
+    "segment_193": {
+      "principal_emocao_detectada": "Neutral"
+    },
+    "segment_194": {
+      "principal_emocao_detectada": "Neutral"
+    },
+    "segment_195": {
+      "principal_emocao_detectada": "Neutral"
+    }
+  }
+}
