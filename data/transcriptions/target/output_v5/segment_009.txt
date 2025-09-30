@@ -1,0 +1,1 @@
+deslogar um refresh token. Então, por exemplo, se eu quiser deslogar de todos os meus dispositivos, eu posso só desligar o refresh token. Porque o access token tem um, um tempo de vida muito curto. Eh, então, basicamente isso, processo de autenticação. Aí depois eu falo um pouco mais no código.

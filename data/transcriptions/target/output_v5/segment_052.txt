@@ -1,0 +1,1 @@
+com o que tem de back-end. Eh, então adicionar todo esse comportamento no front-end e aí, isso é um tempinho de próximos passos e aí depois construir em cima disso, conforme eles forem desenvolvendo com a Ana também, ah, as telas para, para as métricas.

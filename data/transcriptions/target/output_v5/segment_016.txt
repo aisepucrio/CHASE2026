@@ -1,0 +1,1 @@
+E aí, alguns deles têm, têm atributos que especificam validações que ser feitas, como, enfim, tem que existir, tem que ser um e-mail válido, validações simples. As validações p

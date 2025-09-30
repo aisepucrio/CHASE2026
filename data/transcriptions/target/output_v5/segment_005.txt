@@ -1,0 +1,1 @@
+logando com esse usuário e com a senha que você definiu, você ganha dois tokens. Um access token, que dura pouco tempo, dura tipo 5 minutos, eh, e um refresh token que dura muito tempo, tipo um mês.

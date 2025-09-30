@@ -1,0 +1,1 @@
+Se você conseguir adaptar ao encaixe. Eu vou tentar entender como é que funciona. Ele está para resolver. A gente vai curtir o safe area. Que aí você pode botar para para a viewzinha do app e a parte desenhada do app seria abaixo sempre do da área da câmera.

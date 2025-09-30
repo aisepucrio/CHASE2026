@@ -1,0 +1,1 @@
+refresh token que dura muito tempo, tipo um mês. E aí a ideia é, sempre que você vai se autenticar pro pro sistema, ele vai testar o seu access token. Ou seja, esse é o cara que realmente se autentica. E aí se algum momento o access token que você deu não tiver válido,

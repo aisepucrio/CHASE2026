@@ -1,0 +1,1 @@
+E aí, se em algum momento o access token que você deu não tiver válido, ele vai te devolver isso, você vai pegar seu refresh token e pedir para fazer refresh. Eh, e aí você vai vir no no endpoint de refresh, vai pedir um refresh e ele vai te devolver um novo access token e um novo refresh token.

@@ -1,0 +1,1 @@
+amostra representativa, você pede, você chama uma outra função randômica para pegar, por exemplo, vamos supor que seja 10, uma amostra representativa, pegar 10 e jogar no outro CSV, entendeu? Ah, então beleza, eu vou pegar o CSV, eu vou agrupar. Tá esperando entrar todo mundo. Quem tá silencioso?

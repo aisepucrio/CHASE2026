@@ -1,0 +1,1 @@
+Eu já fiz um React. Eu sei que tem algo que você faz que pode colar, pode ter CSS dentro do React? Pra colar? É, é isso que você tá falando. Não, do um, do um aí que faz isso pra você. Ah, tá. É porque eu coloco o CSS normal dentro de algo e transformo ele em React.

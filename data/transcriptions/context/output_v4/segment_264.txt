@@ -1,0 +1,3 @@
+São dados do Twitter e do YouTube, esse dataset que ela tá falando.
+
+Entendi. Aí a ideia é usar o augment também, então, tipo, a gente usou lá pra fazer, pô, dá pra pegar essa biblioteca que ela colocou...

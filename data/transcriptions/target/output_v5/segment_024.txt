@@ -1,0 +1,1 @@
+no banco de dados para o modelo voltar a parear com o banco de dados. E aí, ele salva o estado atual do banco nesse snapshot. Que é basicamente o que que acontece depois, como é que vai tá o banco depois que você rodar todas as migrações. Eh, OK.

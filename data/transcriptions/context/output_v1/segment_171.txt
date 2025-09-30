@@ -1,0 +1,3 @@
+que vocês seriam?
+
+Ah, tem uma ferramenta que eu, tem um framework para React, que chama Next, né? Empresa que desenvolve, tem um LLM que você pode fazer um screenshot e gerar React, e você PIPPIPIPI

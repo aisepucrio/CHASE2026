@@ -1,0 +1,1 @@
+E aí valida essas amostras menores com o teorema do limite central. falei certo, pra poder ver qual desses conjuntos de amostras resolveria o problema. Então sim, no seu caso, eh, o que você me perguntou, esse teorema responde. Nossa, eu fui fundo agora, hein? Ah, tá, ele.

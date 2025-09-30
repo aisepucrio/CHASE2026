@@ -1,0 +1,4 @@
+Um exemplo só de de, de você fazer para aí para você poder rodar e testar, criei uma migration, eh, configurei o basicamente o banco de dados.
+
+Tá com áudio tá? Não. Ah, tá. Sim, sim, sim. Deu certo. Eh,
+<noise>

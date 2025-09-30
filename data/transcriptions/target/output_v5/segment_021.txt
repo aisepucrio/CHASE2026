@@ -1,0 +1,1 @@
+Como o banco de dados é PostgreSQL, eu especifico como que eu quero que ele saia e salve um, um UUID, que é um tipo que o SQL Server entenderia, entenderia por conta própria. O PostgreSQL não.  UUID.

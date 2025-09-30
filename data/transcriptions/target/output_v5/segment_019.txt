@@ -1,0 +1,1 @@
+com objetos do em memória. Então, toda vez que você quando a entidade primeiro. Então você cria entidades que são, enfim, objetos que ele entende, eh, que tem qualquer atributo que você quiser que sejam persistidos. E aí

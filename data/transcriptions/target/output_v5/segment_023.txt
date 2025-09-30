@@ -1,0 +1,1 @@
+eh, e aí aqui na, nas migrations, a cada momento que eu digo, tá bom, tem um estado válido no meu banco de dados, fiz alterações, aí eu crio uma migration e basicamente ele vai dinamicamente gerar as mudanças que ele espera que sejam feitas no banco de dados, para o modelo voltar a pari ar.

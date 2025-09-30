@@ -1,0 +1,1 @@
+e o iOS eu pego o simulador. Eh, que são basicamente checar o funcionamento da notificação por push, que vai funcionar diferente pro iOS. E login, porque se a gente for suportar Google, Outlook, como a gente já falou, p-

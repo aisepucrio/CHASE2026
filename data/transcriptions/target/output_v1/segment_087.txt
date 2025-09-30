@@ -1,0 +1,1 @@
+a gente conversa um pouco sobre as outras métricas que coletadas pra assim, dar e explicar, ela entender o contexto e tudo pra a gente começar a vasculhar e prototipar. Então, as métricas vão ter, por exemplo,

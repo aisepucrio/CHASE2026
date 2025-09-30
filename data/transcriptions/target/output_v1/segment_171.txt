@@ -1,0 +1,1 @@
+Tem um framework para o React lá que chama Anexo, né? Que o pessoal desenvolve, tem um LLM que você pode fazer um screenshot e gera React, você pode importar do Figma, entendeu? Aham. Chat VZero. O que eu já fiz no React, eu sei que tem algo que você faz, que pode colar código.

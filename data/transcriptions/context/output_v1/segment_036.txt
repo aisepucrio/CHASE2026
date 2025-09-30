@@ -1,0 +1,3 @@
+Teria uma barra, barra de scroll, né? Pra poder achar isso aqui.
+
+É, você tem que pensar, por exemplo, se tiver muitas pessoas, você vai criar um scroll só nas caixinhas dos membros, ou você vai criar um scro-

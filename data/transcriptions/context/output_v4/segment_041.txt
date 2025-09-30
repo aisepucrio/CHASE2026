@@ -1,0 +1,1 @@
+Como o que que é o teorema do, esqueci o nome de novo. Mas eu pesquisei, é sério. É o nome certinho e como que calcula. Ah, tá, obrigada. Se bobear deve ter alguma biblioteca, alguma coisa que faz isso dentro do próprio pandas.

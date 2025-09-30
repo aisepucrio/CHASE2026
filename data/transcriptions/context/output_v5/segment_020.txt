@@ -1,0 +1,1 @@
+quaisquer atributos que você quiser que sejam persistidos. E aí você define, eh, as coisas referentes ao banco de dados com atributos. Por exemplo, aqui eu posso dizer que esse cara é um foreign key, eu posso dizer que esse cara é uma primary key, e aí eu digo o tipo. E aí, por exemplo, como o PP

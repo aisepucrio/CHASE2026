@@ -1,0 +1,1 @@
+Beleza. Não, beleza, eu vou pegar o input do CSV que eu já tenho, aí eu vou agrupar esses subreddits. Depois que os subreddits, eu vou ver a quantidade de posts que cada subreddit retorna, e a partir disso, eu vou fazer esse tal da

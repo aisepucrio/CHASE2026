@@ -1,0 +1,1 @@
+da amostra. Eh, tem um cálculo que faz que a gente consegue saber a quantidade de registros que representam, eh, essa amostra total. Então a gente pega essa amostragem pequena e faz a rotulação e a verificação em cima dela.

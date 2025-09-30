@@ -1,0 +1,1 @@
+Mas é isso. Aí eu, eu perdi um tempo me entendendo com as migrations do entity framework, mas saiu. Então, aí vou, vou também enquanto, em paralelo a fazer essa primeira versão de alguma coisa do front.

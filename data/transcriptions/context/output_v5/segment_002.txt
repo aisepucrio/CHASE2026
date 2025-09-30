@@ -1,0 +1,2 @@
+É, se você dá uma senha que ele não considera boa suficiente, baseada nas políticas que eu defini lá no backend.
+[som de digitação]

@@ -1,0 +1,1 @@
+paralelo a fazer essa primeira versão de alguma coisa do front, para construir em cima disso. E avançando, terminando de migrar as coisas que já existiam, já funcionavam no Node, para existirem, funcionarem no C#. E aí começar a partir daí a.

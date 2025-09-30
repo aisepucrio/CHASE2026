@@ -1,0 +1,1 @@
+Aí, dando a amostra representativa, você pede, você faz uma outra função randômica para pegar, por exemplo, vamos supor que seja 10, uma amostra representativa, pegar 10 e jogar num outro CSV, entendeu?

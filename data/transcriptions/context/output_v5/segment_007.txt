@@ -1,0 +1,1 @@
+esse token que você deu, não tiver válido, ele vai te devolver isso, você vai pegar seu refresh token e pedir pra fazer refresh. Eh, e aí você vai vir no, no endpoint de refresh, vai pedir um refresh e ele vai te devolver pp

@@ -1,0 +1,1 @@
+todas as minhas regras. Eh, OK. Aí, os endpoints ficam nesses controles. Aí tem um de autenticação, um de debug que não faz muito nada, foi o primeiro que eu fiz, que era para saber se o servidor tava ligado. Ppp.

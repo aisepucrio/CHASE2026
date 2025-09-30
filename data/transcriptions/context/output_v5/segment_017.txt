@@ -1,0 +1,1 @@
+Validações simples. As validações mais complexas ou que tem a ver com com regras mais do que sintáticas, são feitas em outro lugar. Aqui são as migrations, como é que funciona? Eh, o framework que eu tô usando,  [som inaudível]

@@ -1,0 +1,1 @@
+aceitar um convite ou rejeitar um convite. Então essas são as coisas que estão funcionando, mas sem front end. Aí no código de como mais ou menos que eu estruturei as coisas, tá muito pequeno o o a tela do Zoom. Tá bom? Tá bom. Beleza.

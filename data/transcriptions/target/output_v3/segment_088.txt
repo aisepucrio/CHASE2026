@@ -1,0 +1,1 @@
+mento de time dentro do aplicativo, pudesse guardar registros, né, de alteração no time. Tipo, ah, uma pessoa entra em determinado time em tal data, aí você remove ela, coloca outra pessoa. Essa alteração a gente poderia capturar por ali os registros de movimentação ali.

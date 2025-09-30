@@ -1,0 +1,1 @@
+pegando como input esse, esse CSV, e aí para cada eh, você pode agrupar ali por curso, né? Para cada um, aí você vê o número de, ah, o número de retornos que tem, por exemplo, aí.

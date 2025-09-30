@@ -1,0 +1,1 @@
+Mas é isso, aí eu perdi um tempo me entendendo com as migrations do Entity Framework, mas saiu. Então, enfim.

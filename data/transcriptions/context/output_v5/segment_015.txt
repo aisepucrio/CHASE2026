@@ -1,0 +1,2 @@
+Bom. Beleza. Eh, bom, então tem os módulos que são tudo que não é persistido, mas que é só um agrupamento de dados.
+<noise>

@@ -1,0 +1,1 @@
+Ela é suficiente para tela de login, eh, tela de registro, eh, convite de usuário, menu inicial com notificações de, de convite para time. Então, menu para aceitar time, tem, tem uma quantidade razoável de coisas já para fazer na front-end.

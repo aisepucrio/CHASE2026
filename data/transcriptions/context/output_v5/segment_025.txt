@@ -1,0 +1,1 @@
+Eh, OK. Aí os endpoints ficam nesses controles. Aí tem um de autenticação, um de debug que não monta nada, foi o primeiro que eu fiz.  [som de teclado]

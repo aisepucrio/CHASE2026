@@ -1,0 +1,1 @@
+Eh, tem uma teoria que é assim: bem no, bem no começo da estatística, que fala sobre a diferença de população e amostra. E aí fala que mesmo se eu tiver os dados da população total, como é muitos dados, a gente tem que dividir em amostras menores. E aí valida essas amostras menores com o teorema do limite central,

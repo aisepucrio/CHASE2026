@@ -1,0 +1,1 @@
+própria, o o o construção de UUID. Eh, bom, aí eu eu tenho todas as entidades aqui, que são os objetos persistidos. Ah, aqui sim eles têm algumas validações maiores. Eh, e aí aqui na, na migrate.

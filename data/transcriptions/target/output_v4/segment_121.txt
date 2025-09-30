@@ -1,0 +1,1 @@
+pode colocar, indicar dentro do próprio, da paleta de cores é três cores. Tipo, vermelho, branco e azul. E na hora de montar ele monta. Tudo que tá abaixo de um valor ou tudo que é menor vai do vermelho, o branco é do zero e o azul é até o um. Ele monta.

@@ -1,0 +1,1 @@
+tá disponível e aí ele, quando ele instala o SDK, ele não tá instalando todos os componentes necessários. E aí na hora de rodar dá erro. Mas eu tô investigando direitinho. Mas se ela já tiver feito isso, ajuda sim. Tá.

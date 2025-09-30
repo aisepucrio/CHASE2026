@@ -1,0 +1,1 @@
+Então, basicamente isso, o processo de autenticação. Aí depois eu falo um pouco mais no código. Aí agora você tem as seguintes funcionalidades já funcionando. Você pode criar um time. Então você basicamente se identifica como usuário, diz o nome do time que você quer criar. Você pode perguntar todos os times, tipo

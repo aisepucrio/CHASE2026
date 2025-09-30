@@ -1,0 +1,1 @@
+iro, né, que tem aí. É quantos, eh, retornos que tem aí. Vamos supor que seja 100, sei lá. Aí você já aplica direto essa fórmula aí, e aí vê quanto que seria uma amostra representativa. Aí dando a amostra representativa, você pede, você chama outra função random.

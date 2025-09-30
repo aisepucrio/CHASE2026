@@ -1,0 +1,1 @@
+não, aquilo que você precisa estudar, você não precisa ver toda a amostra. Você pega um trecho da amostra e valida. Tá bom. Segundo esse teorema, se aquele trecho aleatório te explica o comportamento, significa que a maioria dos dados da amostra te explica e aí,

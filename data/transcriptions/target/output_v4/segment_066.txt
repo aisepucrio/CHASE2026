@@ -1,0 +1,1 @@
+Calma aí. O, o variatório é aquele, aquele comando do pandas que é o sample. Ah, o sample. Bom, beleza. É, ele pega aleatoriamente, primeiro você vai fazer um filtro, né? Tá fazendo o loc, pelo nome do, do, pelo campo sub Reddit igual,

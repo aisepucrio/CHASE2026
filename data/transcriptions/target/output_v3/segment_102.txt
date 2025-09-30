@@ -1,0 +1,1 @@
+dá para olhar e entender mais ou menos o que as coisas estão acontecendo, então criei uns módulos, criei um controller. Eh, criei um exemplos de de um exemplo só de de request para ali para você poder rodar e testar. Criei uma migration, eh, configu

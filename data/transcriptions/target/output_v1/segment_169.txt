@@ -1,0 +1,1 @@
+joga no no prompt da LLM, a LLM gera o CSV e o HTML, o HTML direto, assim, automático. E aí fez uma validação e eu curiosa fui ver, OK, assim. Eu fiquei curiosa. E, e aí tava com trabalhos futuros de usar o Figma, mas eu já tenho ali.

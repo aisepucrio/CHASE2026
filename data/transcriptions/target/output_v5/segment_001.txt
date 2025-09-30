@@ -1,0 +1,1 @@
+de maneira agradável. Então, de autenticação, os comportamentos que temos são: registrar usuários, fazer login de usuários, fazer refresh no token de um usuário. Então, o processo é: o usuário tá criado.

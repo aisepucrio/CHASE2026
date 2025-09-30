@@ -1,0 +1,1 @@
+Então, esse daqui é correlação também, porque a nossa, no caso, é as correlações entre questões de pesquisa. Aí, tipo, no eixo Y, eu tenho a ID das questões, por exemplo, a questão 10, a questão 12, e aí a gente vê qual a correlação, tanto que tá tudo um assim na diagonal, né? Que, que é a correlação dela com ela mesma.

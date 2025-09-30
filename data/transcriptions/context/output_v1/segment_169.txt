@@ -1,0 +1,1 @@
+Verdade, numa imagem, não foi nem do Figma. Ele pega uma imagem de uma tela e aí joga no prompt do LLM, e o LLM gera o CSV e o HTML, o HTML direto assim, automático. E aí fez uma validação e eu [som de interrupção prolongada]

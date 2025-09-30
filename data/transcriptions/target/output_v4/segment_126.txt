@@ -1,0 +1,1 @@
+tá, ainda rosa, né? Eu não sei se ele pegou mediano, o que que ele pegou aqui para poder fazer essa distribuição. Mas porque essa aí da, é, no caso, ela pegou as respostas e rodou no algoritmo de correlação, ó, tá até escrito qual o algoritmo de correlação que ela usou. E a saída é valores de .

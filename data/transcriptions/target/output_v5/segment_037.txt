@@ -1,0 +1,1 @@
+Mas tirando isso, o comportamento deveria ser, digo, o código deveria funcionar igual para os dois e ser buildável para os dois. Eh, uma dúvida que eu fiquei é com relação à estruturação do projeto e o Git.

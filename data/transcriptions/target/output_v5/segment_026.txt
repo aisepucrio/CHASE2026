@@ -1,0 +1,1 @@
+Primeiro que eu fiz, que era pra saber se o servidor tava ligado e funcionando. Eh, a identidade de autenticação que tem três endpoints, né? São aqueles de login, refresh e registro. Tem de convite, enfim. Aí aqui vai ter o código interno.

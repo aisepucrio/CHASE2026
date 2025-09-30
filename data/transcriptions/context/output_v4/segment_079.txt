@@ -1,0 +1,1 @@
+Pega vários dados de uma comunidade e analisa ela, faz aquilo que a gente já tem estudado, né? Que é, que é ver parte de análise de sentimentos, é a parte também da, dos tópicos,

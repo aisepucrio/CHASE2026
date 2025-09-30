@@ -1,0 +1,2 @@
+E aí, alguns deles têm, têm atributos que especificam validações que tem que ser feitas, como, enfim, tem que existir, tem que ser um e-mail válido.
+<noise>

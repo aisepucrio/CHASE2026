@@ -1,0 +1,1 @@
+Aí uma vez que você faz coisas que satisfaçam a ele, ele vai gerar um usuário. E aí, OK. Com esse usuário, você passa a poder fazer login. E aí, se você fizer login com esse usuário e com a senha que você definiu,

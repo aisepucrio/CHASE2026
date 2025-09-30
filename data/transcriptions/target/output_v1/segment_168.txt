@@ -1,0 +1,1 @@
+para fazer, que é, que a gente se encontrava. Eu, eu tenho interesse de ver o antes e depois. Hoje na aula, uma aluna apresentou, eh, abordagem usando LLLM para pegar de uma imagem, não foi nem do Figma. Ele pega uma imagem de uma tela e aí joga no no prompt de LLLM, o LLLM gera o CSV e o dali.

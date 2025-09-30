@@ -1,0 +1,1 @@
+só que uma tá transposta da outra, e aí forma uma matriz, né? Do 10 a 31, no eixo X, no eixo Y. O meu XY são diferentes, não são a mesma coisa, só que transposto. Então não tem a mesma ideia linear de corelação que essa matriz aí tem, entendeu?

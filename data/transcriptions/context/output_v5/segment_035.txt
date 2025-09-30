@@ -1,0 +1,1 @@
+pra pegar o simulador. Eh, que são basicamente checar o funcionamento da notificação por push, que vai funcionar diferente pro IAS, e login, porque  p-p-p-

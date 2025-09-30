@@ -1,0 +1,1 @@
+Tipo um mês. E aí a ideia é, sempre que você vai se autenticar para o, pro sistema, ele vai testar o seu access token. Ou seja, esse é o cara que realmente se autentica. E aí se algum momento o HTTP

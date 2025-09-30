@@ -1,0 +1,1 @@
+Então, por exemplo, se eu quiser deslogar de todos os meus dispositivos, eu posso só desligar o refresh token, porque o access token tem um tempo de vida muito curto. Eh, então, basicamente isso, o processo de p p p p p p

@@ -1,0 +1,2 @@
+Dúvida, era tipo, aí você tem a mesma coisa, só que uma tá transposta da outra e aí formou uma matriz, né? Tipo 10 a 31, no eixo X e no eixo Y. O meu X e Y são diferentes, não são a mesma coisa.
+<noise>

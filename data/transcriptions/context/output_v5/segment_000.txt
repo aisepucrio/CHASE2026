@@ -1,0 +1,1 @@
+Open API e essa UI aqui chamada Scala, que permite que a gente veja os endpoints e aí dá para navegar e testar eles, eh, de maneira agradável. Então, p

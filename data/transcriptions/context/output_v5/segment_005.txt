@@ -1,0 +1,1 @@
+e com a senha que você definiu, você ganha dois tokens. Um access token que dura pouco tempo, dura tipo cinco minutos, eh, e um refresh token que dura muito tempo.

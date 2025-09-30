@@ -1,0 +1,5 @@
+Tá, dessa vez, beleza?
+
+Então beleza, eu vou pegar o input do CSV que eu já tenho, aí eu vou agrupar esse subreddits.
+
+Depois por subreddit eu vou ver a quantidade de posts que cada subreddit...

@@ -1,0 +1,1 @@
+né? Um novo access token e um novo refresh token. Por que então existe esse refresh token e não só faz um access token que dura um monte? Porque do lado do backend a gente consegue a qualquer momento revogar um refresh token.
