@@ -418,7 +418,7 @@
       "principal_emocao_detectada": "Happiness"
     },
     "segment_139": {
-      "principal_emocao_detectada": "Neutral"
+      "principal_emocao_detectada": "Happiness"
     },
     "segment_140": {
       "principal_emocao_detectada": "Neutral"
@@ -547,47 +547,6 @@
       "principal_emocao_detectada": "Neutral"
     }
   },
-  "output_v2": {
-    "segment_000": {
-      "principal_emocao_detectada": "Neutral"
-    },
-    "segment_001": {
-      "principal_emocao_detectada": "Neutral"
-    },
-    "segment_002": {
-      "principal_emocao_detectada": "Neutral"
-    },
-    "segment_003": {
-      "principal_emocao_detectada": "Neutral"
-    },
-    "segment_004": {
-      "principal_emocao_detectada": "Neutral"
-    },
-    "segment_005": {
-      "principal_emocao_detectada": "Neutral"
-    },
-    "segment_006": {
-      "principal_emocao_detectada": "Neutral"
-    },
-    "segment_007": {
-      "principal_emocao_detectada": "Neutral"
-    },
-    "segment_008": {
-      "principal_emocao_detectada": "Neutral"
-    },
-    "segment_173": {
-      "principal_emocao_detectada": "Happiness"
-    },
-    "segment_174": {
-      "principal_emocao_detectada": "Neutral"
-    },
-    "segment_175": {
-      "principal_emocao_detectada": "Happiness"
-    },
-    "segment_176": {
-      "principal_emocao_detectada": "Neutral"
-    }
-  },
   "output_v3": {
     "segment_000": {
       "principal_emocao_detectada": "Neutral"
@@ -644,7 +603,7 @@
       "principal_emocao_detectada": "Anger"
     },
     "segment_018": {
-      "principal_emocao_detectada": "Surprise"
+      "principal_emocao_detectada": "Neutral"
     },
     "segment_019": {
       "principal_emocao_detectada": "Happiness"
@@ -890,7 +849,7 @@
       "principal_emocao_detectada": "Neutral"
     },
     "segment_100": {
-      "principal_emocao_detectada": "Happiness"
+      "principal_emocao_detectada": "Neutral"
     },
     "segment_101": {
       "principal_emocao_detectada": "Neutral"
@@ -982,13 +941,13 @@
       "principal_emocao_detectada": "Neutral"
     },
     "segment_012": {
-      "principal_emocao_detectada": "Surprise"
+      "principal_emocao_detectada": "Neutral"
     },
     "segment_013": {
       "principal_emocao_detectada": "Neutral"
     },
     "segment_014": {
-      "principal_emocao_detectada": "Anger"
+      "principal_emocao_detectada": "Surprise"
     },
     "segment_015": {
       "principal_emocao_detectada": "Neutral"
@@ -997,13 +956,13 @@
       "principal_emocao_detectada": "Neutral"
     },
     "segment_017": {
-      "principal_emocao_detectada": "Anger"
+      "principal_emocao_detectada": "Neutral"
     },
     "segment_018": {
-      "principal_emocao_detectada": "Anger"
+      "principal_emocao_detectada": "Neutral"
     },
     "segment_019": {
-      "principal_emocao_detectada": "Surprise"
+      "principal_emocao_detectada": "Neutral"
     },
     "segment_020": {
       "principal_emocao_detectada": "Neutral"
@@ -1336,7 +1295,7 @@
       "principal_emocao_detectada": "Neutral"
     },
     "segment_130": {
-      "principal_emocao_detectada": "Fear"
+      "principal_emocao_detectada": "Neutral"
     },
     "segment_131": {
       "principal_emocao_detectada": "Neutral"
@@ -1750,7 +1709,7 @@
       "principal_emocao_detectada": "Neutral"
     },
     "segment_268": {
-      "principal_emocao_detectada": "Sadness"
+      "principal_emocao_detectada": "Anger"
     },
     "segment_269": {
       "principal_emocao_detectada": "Neutral"
@@ -1761,9 +1720,6 @@
     "segment_271": {
       "principal_emocao_detectada": "Neutral"
     },
-    "segment_272": {
-      "principal_emocao_detectada": "Neutral"
-    },
     "segment_273": {
       "principal_emocao_detectada": "Neutral"
     },
@@ -1771,19 +1727,16 @@
       "principal_emocao_detectada": "Surprise"
     },
     "segment_275": {
-      "principal_emocao_detectada": "Anger"
+      "principal_emocao_detectada": "Sadness"
     },
     "segment_276": {
-      "principal_emocao_detectada": "Anger"
+      "principal_emocao_detectada": "Fear"
     },
     "segment_277": {
       "principal_emocao_detectada": "Neutral"
     },
     "segment_278": {
       "principal_emocao_detectada": "Sadness"
-    },
-    "segment_279": {
-      "principal_emocao_detectada": "Neutral"
     },
     "segment_280": {
       "principal_emocao_detectada": "Neutral"

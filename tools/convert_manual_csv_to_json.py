@@ -27,7 +27,7 @@ def convert(csv_path: Path) -> Dict[str, Any]:
         for row in reader:
             title = (row.get("TITLE") or "").strip()
             segment = (row.get("SEGMENT") or "").strip()
-            label = (row.get("LABLE") or "").strip()
+            label = (row.get("FINAL LABEL") or "").strip()
 
             if not title or not segment or not label:
                 # skip incomplete lines
