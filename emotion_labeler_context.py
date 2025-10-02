@@ -1,49 +1,70 @@
 import json
 import time
 import glob
+import os
 from pathlib import Path
 from tqdm import tqdm
 from bisect import bisect_left
 import ollama
 
-OLLAMA_MODEL = "qwen3:32b"
-TARGET_DATASET_FOLDER = "data/transcriptions/target"
-CONTEXT_DATASET_FOLDER = "data/transcriptions/context"
-RESULTS_FOLDER = f"emotion_results/{OLLAMA_MODEL}"
-AMOUNT_CONTEXT = 15 
 
+TARGET_DATASET_FOLDER = Path("./data/transcriptions/target")
+CONTEXT_DATASET_FOLDER = Path("./data/transcriptions/context")
+AMOUNT_CONTEXT = 15
 ollama_client = ollama.Client()
 
+MODEL_LIST = [
+    "phi4-mini:latest",
+    "mistral:7b",
+    "llama3.1:latest",
+    "deepseek-r1:8b",
+    "gemma3:12b",
+    "phi4:14b",
+    "qwen3:14b",
+    "mistral-nemo:latest",
+    "gemma3:27b",
+    "mistral-small3.2:latest",
+    "deepseek-r1:14b",
+    "gemma3:27b",
+    "qwen3:30b",
+    "deepseek-r1:32b",
+    "mixtral:8x7b",
+    "llama3.3:70b",
+    "llama4:latest",
+]
+
 def get_system_prompt() -> str:
-     
-    prompt = f"""Você é um robô que classifica trechos transcritos de reuniões.
-Para isso, você receberá um trecho alvo para classificação e um contexto anterior.
-Utilize o contexto anterior da reunião para compreender melhor as nuances do trecho alvo.
-Em seguida, Classifique o trecho da reunião em um dos seis emoções: felicidade, tristeza, medo, raiva, surpresa ou desgosto.
-No caso de dúvida ou ausência de emoções, classifique como neutro.
+    return \
+"""
+Você é um robô construído para identificar emoções em trechos transcritos de reuniões. 
 
-Responda com um objeto JSON no seguinte formato:
-    {
-        "principal_emocao_detectada": "felicidade|tristeza|medo|raiva|surpresa|desgosto|neutro",
-        "nivel_confianca": "0-100%",
-        "explicacao_breve": "breve explicação em português brasileiro"
-    }
+Esses trechos estão escritos em português brasileiro. Você também receberá um contexto anterior da reunião para ajudar na classificação.
 
-    Regras:
-    - Responda APENAS o JSON, sem texto adicional
-    - Use apenas as emoções listadas acima
-    - Nível de confiança deve ser um número de 0 a 100 seguido de %
-    - Explicação deve ser breve e em português brasileiro
-    - Não use aspas duplas dentro dos valores
-    
-    """
-     
-    return prompt
+Cada trecho pode ser classificado como apenas uma dessas opções:
+	- felicidade
+	- tristeza
+	- medo
+	- raiva
+	- surpresa
+	- desgosto
+	- neutro
+
+Classifique a mensagem como "neutro" quando houver ausência de emoção.
+
+Para cada trecho, dê também uma curta justificativa para sua classificação. Sua justificativa também deverá ser escrita em português brasileiro.
+
+A resposta deve ser feita no seguinte formato, e deve conter apenas o JSON da resposta:
+
+{
+    "emoção": "<principal emoção>",
+    "justificativa": "explicação curta em português brasileiro"
+}
+"""
 
 def load_text_files(folder: str) -> list:
     dataset = []
     
-    output_folders = sorted(glob.glob(f"{folder}/**/output_v*"))
+    output_folders = sorted(glob.glob(f"{str(folder)}/output_v*"))
     
     for output_folder in output_folders:
         output_name = Path(output_folder).name
@@ -67,19 +88,22 @@ def load_text_files(folder: str) -> list:
     return dataset
 
 def build_user_message(target_id: str, target_text: str, context_segments: list[dict]) -> str:
-
     parts = []
     if context_segments:
-        parts.append(f"Contexto anterior (últimos {len(context_segments)} segmentos):")
+        parts.append(f"Contexto anterior:")
         for seg in context_segments:
             parts.append(f"[{seg['file_id']}] {seg['content']}")
     else:
-        parts.append("(Sem contexto anterior disponível)")
+        parts.append(f"Contexto anterior:")
+        parts.append("    (Sem contexto anterior disponível)")
     parts.append("")
-    parts.append(f"Trecho alvo [{target_id}]:")
-    parts.append(target_text)
+    parts.append(f"""\
+```
+{target_text}
+```\
+                 """)
     parts.append("")
-    parts.append("Classifique SOMENTE o trecho alvo conforme as instruções.")
+    parts.append("JSON de resposta:")
     return "\n".join(parts)
 
 
@@ -99,6 +123,7 @@ def ask_ollama(target_id: str, target_text: str, context_segments: list[dict], m
                 messages=messages,
                 format="json",
                 stream=False,
+                think=False,
                 options={
                     "temperature": 0,
                     "num_predict": 200,
@@ -131,7 +156,7 @@ def main():
     
     print(f"found target={len(dataset_target)} | context={len(dataset_context)} text files")
     
-    Path(RESULTS_FOLDER).mkdir(exist_ok=True)
+    os.makedirs(os.path.dirname(RESULTS_FOLDER), exist_ok=True)
     
     grouped_target: dict[str, list[dict]] = {}
     for entry in dataset_target:
@@ -175,6 +200,8 @@ def main():
 
             print(f"Processing: {version}/{target_id} (context={len(context_segments)})")
             classification = ask_ollama(target_id, entry['content'], context_segments)
+
+            print(classification)
 
             if classification is None:
                 print(f"no response for {target_id}, skipping.")
@@ -221,4 +248,9 @@ def main():
         print("Nenhum resultado processado.")
 
 if __name__ == "__main__":
-    main()
+    for model in MODEL_LIST:
+        print(f"\n==============================\nRunning for model: {model}\n==============================")
+        global OLLAMA_MODEL, RESULTS_FOLDER
+        OLLAMA_MODEL = model
+        RESULTS_FOLDER = f"results_with_context/{OLLAMA_MODEL.replace(':', '_')}/"
+        main()
