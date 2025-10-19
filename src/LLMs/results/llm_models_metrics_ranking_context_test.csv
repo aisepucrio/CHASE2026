@@ -1,0 +1,17 @@
+model_id,model,context,subset,precision_weighted,recall_weighted,f1_weighted,precision_macro,recall_macro,f1_macro,accuracy,samples,hallucination_rate,coverage,hallucination_rate_inclusive,coverage_inclusive,total_expected,total_seen,missing_predictions
+qwen3_14b-context-test,qwen3_14b,context,test,0.816694,0.753247,0.780932,0.183056,0.302119,0.193445,0.753247,154,0.0,1.0,0.0,1.0,154,154,0
+gpt-oss_20b-context-test,gpt-oss_20b,context,test,0.79936,0.792208,0.795742,0.193074,0.189508,0.191227,0.792208,154,0.0,1.0,0.0,1.0,154,154,0
+gemma3_12b-context-test,gemma3_12b,context,test,0.756103,0.813333,0.782344,0.160072,0.275824,0.185661,0.813333,150,0.019608,0.980392,0.025974,0.974026,154,153,1
+llama4_latest-context-test,llama4_latest,context,test,0.761214,0.837662,0.795729,0.177477,0.175553,0.172672,0.837662,154,0.0,1.0,0.0,1.0,154,154,0
+phi4-mini_latest-context-test,phi4-mini_latest,context,test,0.77456,0.707792,0.739153,0.17257,0.177005,0.172035,0.707792,154,0.0,1.0,0.0,1.0,154,154,0
+phi4_14b-context-test,phi4_14b,context,test,0.838873,0.525974,0.638511,0.192897,0.192022,0.170514,0.525974,154,0.0,1.0,0.0,1.0,154,154,0
+mistral-small3.2_latest-context-test,mistral-small3.2_latest,context,test,0.81417,0.74026,0.774958,0.162755,0.158188,0.159639,0.74026,154,0.0,1.0,0.0,1.0,154,154,0
+qwen3_30b-context-test,qwen3_30b,context,test,0.769168,0.779221,0.774121,0.153439,0.152719,0.15301,0.779221,154,0.0,1.0,0.0,1.0,154,154,0
+llama3.1_latest-context-test,llama3.1_latest,context,test,0.816546,0.305195,0.40628,0.177362,0.321111,0.13476,0.305195,154,0.0,1.0,0.0,1.0,154,154,0
+mistral_7b-context-test,mistral_7b,context,test,0.746929,0.831169,0.7868,0.123552,0.137487,0.130147,0.831169,154,0.0,1.0,0.0,1.0,154,154,0
+deepseek-r1_14b-context-test,deepseek-r1_14b,context,test,0.751245,0.824675,0.78625,0.124266,0.136412,0.130056,0.824675,154,0.0,1.0,0.0,1.0,154,154,0
+deepseek-r1_32b-context-test,deepseek-r1_32b,context,test,0.746135,0.824675,0.783442,0.123421,0.136412,0.129592,0.824675,154,0.0,1.0,0.0,1.0,154,154,0
+gemma3_27b-context-test,gemma3_27b,context,test,0.751012,0.830065,0.788562,0.123421,0.136412,0.129592,0.830065,153,0.006494,0.993506,0.006494,0.993506,154,154,0
+mistral-nemo_latest-context-test,mistral-nemo_latest,context,test,0.755906,0.688312,0.717285,0.129926,0.255639,0.128101,0.688312,154,0.0,1.0,0.0,1.0,154,154,0
+mixtral_8x7b-context-test,mixtral_8x7b,context,test,0.739415,0.811688,0.773868,0.122309,0.134264,0.128008,0.811688,154,0.0,1.0,0.0,1.0,154,154,0
+deepseek-r1_8b-context-test,deepseek-r1_8b,context,test,0.0,0.0,0.0,0.0,0.0,0.0,0.0,14,0.72549,0.27451,0.909091,0.090909,154,51,103

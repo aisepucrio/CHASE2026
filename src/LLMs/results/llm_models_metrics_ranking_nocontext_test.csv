@@ -1,0 +1,17 @@
+model_id,model,context,subset,precision_weighted,recall_weighted,f1_weighted,precision_macro,recall_macro,f1_macro,accuracy,samples,hallucination_rate,coverage,hallucination_rate_inclusive,coverage_inclusive,total_expected,total_seen,missing_predictions
+qwen3_14b-nocontext-test,qwen3_14b,nocontext,test,0.797453,0.831169,0.810176,0.255218,0.303095,0.261296,0.831169,154,0.0,1.0,0.0,1.0,154,154,0
+phi4_14b-nocontext-test,phi4_14b,nocontext,test,0.789847,0.779221,0.784138,0.198052,0.18736,0.191935,0.779221,154,0.0,1.0,0.0,1.0,154,154,0
+mistral_7b-nocontext-test,mistral_7b,nocontext,test,0.843754,0.854305,0.823132,0.313793,0.177068,0.18378,0.854305,151,0.019481,0.980519,0.019481,0.980519,154,154,0
+gemma3_27b-nocontext-test,gemma3_27b,nocontext,test,0.788499,0.827815,0.805966,0.182014,0.172912,0.17392,0.827815,151,0.0,1.0,0.019481,0.980519,154,151,3
+phi4-mini_latest-nocontext-test,phi4-mini_latest,nocontext,test,0.800459,0.607843,0.68122,0.15479,0.310956,0.153826,0.607843,153,0.006494,0.993506,0.006494,0.993506,154,154,0
+deepseek-r1_32b-nocontext-test,deepseek-r1_32b,nocontext,test,0.786804,0.849673,0.811251,0.172983,0.151548,0.152041,0.849673,153,0.006494,0.993506,0.006494,0.993506,154,154,0
+qwen3_30b-nocontext-test,qwen3_30b,nocontext,test,0.79133,0.843137,0.81076,0.173727,0.150474,0.15196,0.843137,153,0.006494,0.993506,0.006494,0.993506,154,154,0
+gpt-oss_20b-nocontext-test,gpt-oss_20b,nocontext,test,0.816841,0.830882,0.822899,0.157604,0.148104,0.15102,0.830882,136,0.0,1.0,0.116883,0.883117,154,136,18
+mixtral_8x7b-nocontext-test,mixtral_8x7b,nocontext,test,0.776934,0.810458,0.787882,0.171362,0.145103,0.1482,0.810458,153,0.006494,0.993506,0.006494,0.993506,154,154,0
+deepseek-r1_14b-nocontext-test,deepseek-r1_14b,nocontext,test,0.786048,0.828947,0.806399,0.147055,0.147251,0.146217,0.828947,152,0.012987,0.987013,0.012987,0.987013,154,154,0
+mistral-small3.2_latest-nocontext-test,mistral-small3.2_latest,nocontext,test,0.78346,0.74026,0.761117,0.145975,0.134362,0.139693,0.74026,154,0.0,1.0,0.0,1.0,154,154,0
+mistral-nemo_latest-nocontext-test,mistral-nemo_latest,nocontext,test,0.760406,0.720779,0.737198,0.134643,0.26101,0.138623,0.720779,154,0.0,1.0,0.0,1.0,154,154,0
+llama3.1_latest-nocontext-test,llama3.1_latest,nocontext,test,0.829939,0.383117,0.515778,0.181784,0.144566,0.135387,0.383117,154,0.0,1.0,0.0,1.0,154,154,0
+gemma3_12b-nocontext-test,gemma3_12b,nocontext,test,0.76922,0.803922,0.786188,0.126413,0.132116,0.129202,0.803922,153,0.006494,0.993506,0.006494,0.993506,154,154,0
+llama4_latest-nocontext-test,llama4_latest,nocontext,test,0.742848,0.798701,0.769763,0.122877,0.132116,0.127329,0.798701,154,0.0,1.0,0.0,1.0,154,154,0
+deepseek-r1_8b-nocontext-test,deepseek-r1_8b,nocontext,test,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0,1.0,0.0,154,72,82
