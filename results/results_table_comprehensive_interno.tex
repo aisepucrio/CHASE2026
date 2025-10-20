@@ -1,0 +1,30 @@
+\begin{table*}[tbp]
+\centering
+\caption{Test set Precision, Recall, and F1 scores for Interno dataset}
+\label{tab:results_comprehensive_interno}
+\begin{tabular}{lcccccccccccccccccc}
+\toprule
+\textbf{Model} & \multicolumn{6}{c}{\textbf{HuBERT-base}} & \multicolumn{6}{c}{\textbf{Wav2Vec2-large}} & \multicolumn{6}{c}{\textbf{Wav2Vec2-XLSR-PT}} \\
+ & \multicolumn{3}{c}{\textbf{Weighted}} & \multicolumn{3}{c}{\textbf{Macro}} & \multicolumn{3}{c}{\textbf{Weighted}} & \multicolumn{3}{c}{\textbf{Macro}} & \multicolumn{3}{c}{\textbf{Weighted}} & \multicolumn{3}{c}{\textbf{Macro}} \\
+ & \textbf{F1} & \textbf{P} & \textbf{R} & \textbf{F1} & \textbf{P} & \textbf{R} & \textbf{F1} & \textbf{P} & \textbf{R} & \textbf{F1} & \textbf{P} & \textbf{R} & \textbf{F1} & \textbf{P} & \textbf{R} & \textbf{F1} & \textbf{P} & \textbf{R} \\
+\midrule
+\multicolumn{19}{c}{\textbf{Classical ML Models}} \\
+\midrule
+Extra Trees & 0.87 & 0.84 & 0.90 & 0.23 & 0.25 & 0.22 & 0.84 & 0.84 & 0.85 & 0.22 & 0.21 & 0.24 & 0.87 & 0.85 & 0.89 & 0.24 & 0.23 & 0.24 \\
+Gradient Boosting & 0.82 & 0.82 & 0.82 & 0.23 & 0.21 & 0.27 & 0.80 & 0.81 & 0.78 & 0.18 & 0.17 & 0.19 & 0.86 & 0.85 & 0.86 & 0.31 & 0.28 & 0.36 \\
+LightGBM & 0.83 & 0.79 & 0.89 & 0.16 & 0.15 & 0.17 & 0.83 & 0.79 & 0.89 & 0.16 & 0.15 & 0.17 & 0.83 & 0.82 & 0.85 & 0.22 & 0.22 & 0.22 \\
+Logistic Regression & 0.85 & 0.83 & 0.86 & 0.21 & 0.20 & 0.23 & 0.83 & 0.84 & 0.82 & 0.20 & 0.19 & 0.22 & 0.83 & 0.83 & 0.83 & 0.23 & 0.21 & 0.25 \\
+Random Forest & 0.85 & 0.83 & 0.88 & 0.21 & 0.21 & 0.22 & 0.84 & 0.83 & 0.85 & 0.20 & 0.19 & 0.21 & 0.83 & 0.83 & 0.83 & 0.21 & 0.20 & 0.25 \\
+SVM (Linear) & 0.87 & 0.85 & 0.90 & 0.24 & 0.25 & 0.23 & 0.84 & 0.83 & 0.85 & 0.26 & 0.25 & 0.27 & 0.83 & 0.85 & 0.81 & 0.23 & 0.22 & 0.27 \\
+SVM (RBF) & 0.83 & 0.84 & 0.83 & 0.20 & 0.19 & 0.22 & 0.83 & 0.79 & 0.89 & 0.16 & 0.15 & 0.17 & 0.86 & 0.84 & 0.89 & 0.21 & 0.22 & 0.21 \\
+XGBoost & 0.86 & 0.84 & 0.89 & 0.23 & 0.25 & 0.22 & 0.84 & 0.83 & 0.85 & 0.20 & 0.19 & 0.21 & 0.86 & 0.84 & 0.89 & 0.22 & 0.22 & 0.22 \\
+\midrule
+\multicolumn{19}{c}{\textbf{Sequential Models}} \\
+\midrule
+Bi-GRU & 0.83 & 0.79 & 0.89 & 0.16 & 0.15 & 0.17 & 0.83 & 0.79 & 0.89 & 0.16 & 0.15 & 0.17 & 0.83 & 0.79 & 0.89 & 0.16 & 0.15 & 0.17 \\
+Bi-LSTM & 0.83 & 0.79 & 0.89 & 0.16 & 0.15 & 0.17 & 0.83 & 0.79 & 0.89 & 0.16 & 0.15 & 0.17 & 0.83 & 0.79 & 0.89 & 0.16 & 0.15 & 0.17 \\
+GRU & 0.83 & 0.79 & 0.89 & 0.16 & 0.15 & 0.17 & 0.83 & 0.79 & 0.89 & 0.16 & 0.15 & 0.17 & 0.83 & 0.79 & 0.89 & 0.16 & 0.15 & 0.17 \\
+LSTM & 0.83 & 0.79 & 0.89 & 0.16 & 0.15 & 0.17 & 0.83 & 0.79 & 0.89 & 0.16 & 0.15 & 0.17 & 0.83 & 0.79 & 0.89 & 0.16 & 0.15 & 0.17 \\
+\bottomrule
+\end{tabular}
+\end{table*}

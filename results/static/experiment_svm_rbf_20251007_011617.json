@@ -1,0 +1,193 @@
+{
+    "timestamp": "2025-10-07T01:16:18.148493",
+    "model_type": "SVM (RBF)",
+    "hyperparameters": {
+        "C": 44.470109082504386,
+        "gamma": 0.03923113112591894
+    },
+    "hyperparameter_optimization": {
+        "enabled": true,
+        "n_trials": 50
+    },
+    "data_info": {
+        "csv_path": "./embeddings/embeddings_wav2vec2_large_xlsr_53_portuguese.csv",
+        "embedding_dim": 1024,
+        "num_classes": 7,
+        "label_to_idx": {
+            "Anger": 0,
+            "Disgust": 1,
+            "Fear": 2,
+            "Happiness": 3,
+            "Neutral": 4,
+            "Sadness": 5,
+            "Surprise": 6
+        },
+        "train_val_segments": 586,
+        "test_segments": 185
+    },
+    "k_fold_cross_validation": {
+        "n_folds": 3,
+        "random_state": 42,
+        "individual_folds": [
+            {
+                "acc_micro": 0.7527472527472527,
+                "precision_micro": 0.7527472527472527,
+                "recall_micro": 0.7527472527472527,
+                "f1_micro": 0.7527472527472527,
+                "acc_macro": 0.7527472527472527,
+                "precision_macro": 0.2673589630284283,
+                "recall_macro": 0.2543109668109668,
+                "f1_macro": 0.25285547785547785,
+                "acc_weighted": 0.7527472527472527,
+                "precision_weighted": 0.7242870253917536,
+                "recall_weighted": 0.7527472527472527,
+                "f1_weighted": 0.7348824252670405,
+                "fold": 1
+            },
+            {
+                "acc_micro": 0.8135593220338984,
+                "precision_micro": 0.8135593220338984,
+                "recall_micro": 0.8135593220338984,
+                "f1_micro": 0.8135593220338984,
+                "acc_macro": 0.8135593220338984,
+                "precision_macro": 0.16271186440677968,
+                "recall_macro": 0.2,
+                "f1_macro": 0.17943925233644858,
+                "acc_weighted": 0.8135593220338984,
+                "precision_weighted": 0.6618787704682563,
+                "recall_weighted": 0.8135593220338984,
+                "f1_weighted": 0.7299223823855536,
+                "fold": 2
+            },
+            {
+                "acc_micro": 0.9055944055944056,
+                "precision_micro": 0.9055944055944056,
+                "recall_micro": 0.9055944055944056,
+                "f1_micro": 0.9055944055944056,
+                "acc_macro": 0.9055944055944056,
+                "precision_macro": 0.17878325707507203,
+                "recall_macro": 0.16108428104066053,
+                "f1_macro": 0.16432517758484608,
+                "acc_weighted": 0.9055944055944056,
+                "precision_weighted": 0.8492604666981892,
+                "recall_weighted": 0.9055944055944056,
+                "f1_weighted": 0.875427887030097,
+                "fold": 3
+            }
+        ],
+        "aggregated_metrics": {
+            "acc_micro_mean": 0.8239669934585189,
+            "acc_micro_std": 0.06283206586731745,
+            "precision_micro_mean": 0.8239669934585189,
+            "precision_micro_std": 0.06283206586731745,
+            "recall_micro_mean": 0.8239669934585189,
+            "recall_micro_std": 0.06283206586731745,
+            "f1_micro_mean": 0.8239669934585189,
+            "f1_micro_std": 0.06283206586731745,
+            "acc_macro_mean": 0.8239669934585189,
+            "acc_macro_std": 0.06283206586731745,
+            "precision_macro_mean": 0.20295136150342666,
+            "precision_macro_std": 0.04601323553230567,
+            "recall_macro_mean": 0.20513174928387579,
+            "recall_macro_std": 0.03823222787965913,
+            "f1_macro_mean": 0.19887330259225752,
+            "f1_macro_std": 0.03866665444118516,
+            "acc_weighted_mean": 0.8239669934585189,
+            "acc_weighted_std": 0.06283206586731745,
+            "precision_weighted_mean": 0.7451420875193997,
+            "precision_weighted_std": 0.07790667593457658,
+            "recall_weighted_mean": 0.8239669934585189,
+            "recall_weighted_std": 0.06283206586731745,
+            "f1_weighted_mean": 0.7800775648942304,
+            "f1_weighted_std": 0.06745326013819593
+        }
+    },
+    "test_results": {
+        "acc_micro_mean": 0.8918918918918919,
+        "acc_micro_std": 0.0,
+        "precision_micro_mean": 0.8918918918918919,
+        "precision_micro_std": 0.0,
+        "recall_micro_mean": 0.8918918918918919,
+        "recall_micro_std": 0.0,
+        "f1_micro_mean": 0.8918918918918919,
+        "f1_micro_std": 0.0,
+        "acc_macro_mean": 0.8918918918918919,
+        "acc_macro_std": 0.0,
+        "precision_macro_mean": 0.21504237288135594,
+        "precision_macro_std": 0.0,
+        "recall_macro_mean": 0.20630081300813008,
+        "recall_macro_std": 0.0,
+        "f1_macro_mean": 0.20835777126099708,
+        "f1_macro_std": 0.0,
+        "acc_weighted_mean": 0.8918918918918919,
+        "acc_weighted_std": 0.0,
+        "precision_weighted_mean": 0.8356848373797526,
+        "precision_weighted_std": 0.0,
+        "recall_weighted_mean": 0.8918918918918919,
+        "recall_weighted_std": 0.0,
+        "f1_weighted_mean": 0.8617516049774115,
+        "f1_weighted_std": 0.0
+    },
+    "confusion_matrix": {
+        "image_path": "results/confusion_matrix_svm_rbf_20251007_011617.png",
+        "class_names": [
+            "Anger",
+            "Disgust",
+            "Fear",
+            "Happiness",
+            "Neutral",
+            "Sadness",
+            "Surprise"
+        ],
+        "matrix": [
+            [
+                0,
+                0,
+                3,
+                0,
+                0,
+                0
+            ],
+            [
+                0,
+                0,
+                0,
+                2,
+                0,
+                0
+            ],
+            [
+                0,
+                0,
+                3,
+                9,
+                0,
+                0
+            ],
+            [
+                0,
+                0,
+                2,
+                162,
+                0,
+                0
+            ],
+            [
+                0,
+                0,
+                0,
+                2,
+                0,
+                0
+            ],
+            [
+                0,
+                0,
+                0,
+                2,
+                0,
+                0
+            ]
+        ]
+    }
+}

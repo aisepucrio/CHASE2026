@@ -1,0 +1,194 @@
+{
+    "timestamp": "2025-10-06T15:30:21.613117",
+    "model_type": "Logistic Regression",
+    "hyperparameters": {
+        "C": 1.1400863701127328,
+        "max_iter": 1000,
+        "solver": "lbfgs"
+    },
+    "hyperparameter_optimization": {
+        "enabled": true,
+        "n_trials": 50
+    },
+    "data_info": {
+        "csv_path": "./embeddings/embeddings_hubert_base_ls960.csv",
+        "embedding_dim": 768,
+        "num_classes": 7,
+        "label_to_idx": {
+            "Anger": 0,
+            "Disgust": 1,
+            "Fear": 2,
+            "Happiness": 3,
+            "Neutral": 4,
+            "Sadness": 5,
+            "Surprise": 6
+        },
+        "train_val_segments": 586,
+        "test_segments": 185
+    },
+    "k_fold_cross_validation": {
+        "n_folds": 3,
+        "random_state": 42,
+        "individual_folds": [
+            {
+                "acc_micro": 0.7582417582417582,
+                "precision_micro": 0.7582417582417582,
+                "recall_micro": 0.7582417582417582,
+                "f1_micro": 0.7582417582417582,
+                "acc_macro": 0.7582417582417582,
+                "precision_macro": 0.20492202729044837,
+                "recall_macro": 0.24484126984126986,
+                "f1_macro": 0.22080872330758747,
+                "acc_weighted": 0.7582417582417582,
+                "precision_weighted": 0.7109761583445795,
+                "recall_weighted": 0.7582417582417582,
+                "f1_weighted": 0.73127599342956,
+                "fold": 1
+            },
+            {
+                "acc_micro": 0.8135593220338984,
+                "precision_micro": 0.8135593220338984,
+                "recall_micro": 0.8135593220338984,
+                "f1_micro": 0.8135593220338984,
+                "acc_macro": 0.8135593220338984,
+                "precision_macro": 0.16271186440677968,
+                "recall_macro": 0.2,
+                "f1_macro": 0.17943925233644858,
+                "acc_weighted": 0.8135593220338984,
+                "precision_weighted": 0.6618787704682563,
+                "recall_weighted": 0.8135593220338984,
+                "f1_weighted": 0.7299223823855536,
+                "fold": 2
+            },
+            {
+                "acc_micro": 0.9125874125874126,
+                "precision_micro": 0.9125874125874126,
+                "recall_micro": 0.9125874125874126,
+                "f1_micro": 0.9125874125874126,
+                "acc_macro": 0.9125874125874126,
+                "precision_macro": 0.20353302611367127,
+                "recall_macro": 0.2019006075712728,
+                "f1_macro": 0.20218967723588796,
+                "acc_weighted": 0.9125874125874126,
+                "precision_weighted": 0.8593691254981578,
+                "recall_weighted": 0.9125874125874126,
+                "f1_weighted": 0.8850474138402475,
+                "fold": 3
+            }
+        ],
+        "aggregated_metrics": {
+            "acc_micro_mean": 0.8281294976210231,
+            "acc_micro_std": 0.06384806322474623,
+            "precision_micro_mean": 0.8281294976210231,
+            "precision_micro_std": 0.06384806322474623,
+            "recall_micro_mean": 0.8281294976210231,
+            "recall_micro_std": 0.06384806322474623,
+            "f1_micro_mean": 0.8281294976210231,
+            "f1_micro_std": 0.06384806322474623,
+            "acc_macro_mean": 0.8281294976210231,
+            "acc_macro_std": 0.06384806322474623,
+            "precision_macro_mean": 0.1903889726036331,
+            "precision_macro_std": 0.019578884368497956,
+            "recall_macro_mean": 0.2155806258041809,
+            "recall_macro_std": 0.02070494376365087,
+            "f1_macro_mean": 0.20081255095997466,
+            "f1_macro_std": 0.016917065145247736,
+            "acc_weighted_mean": 0.8281294976210231,
+            "acc_weighted_std": 0.06384806322474623,
+            "precision_weighted_mean": 0.7440746847703311,
+            "precision_weighted_std": 0.08395333791706865,
+            "recall_weighted_mean": 0.8281294976210231,
+            "recall_weighted_std": 0.06384806322474623,
+            "f1_weighted_mean": 0.7820819298851204,
+            "f1_weighted_std": 0.07280968905440985
+        }
+    },
+    "test_results": {
+        "acc_micro_mean": 0.8648648648648649,
+        "acc_micro_std": 0.0,
+        "precision_micro_mean": 0.8648648648648649,
+        "precision_micro_std": 0.0,
+        "recall_micro_mean": 0.8648648648648649,
+        "recall_micro_std": 0.0,
+        "f1_micro_mean": 0.8648648648648649,
+        "f1_micro_std": 0.0,
+        "acc_macro_mean": 0.8648648648648649,
+        "acc_macro_std": 0.0,
+        "precision_macro_mean": 0.2049432938856016,
+        "precision_macro_std": 0.0,
+        "recall_macro_mean": 0.2269647696476965,
+        "recall_macro_std": 0.0,
+        "f1_macro_mean": 0.21467896467896466,
+        "f1_macro_std": 0.0,
+        "acc_weighted_mean": 0.8648648648648649,
+        "acc_weighted_std": 0.0,
+        "precision_weighted_mean": 0.8333200063969294,
+        "precision_weighted_std": 0.0,
+        "recall_weighted_mean": 0.8648648648648649,
+        "recall_weighted_std": 0.0,
+        "f1_weighted_mean": 0.848423713288578,
+        "f1_weighted_std": 0.0
+    },
+    "confusion_matrix": {
+        "image_path": "results/confusion_matrix_logistic_regression_20251006_153020.png",
+        "class_names": [
+            "Anger",
+            "Disgust",
+            "Fear",
+            "Happiness",
+            "Neutral",
+            "Sadness",
+            "Surprise"
+        ],
+        "matrix": [
+            [
+                0,
+                0,
+                2,
+                1,
+                0,
+                0
+            ],
+            [
+                0,
+                0,
+                0,
+                2,
+                0,
+                0
+            ],
+            [
+                0,
+                0,
+                5,
+                7,
+                0,
+                0
+            ],
+            [
+                0,
+                0,
+                9,
+                155,
+                0,
+                0
+            ],
+            [
+                0,
+                0,
+                0,
+                2,
+                0,
+                0
+            ],
+            [
+                0,
+                0,
+                0,
+                2,
+                0,
+                0
+            ]
+        ]
+    }
+}

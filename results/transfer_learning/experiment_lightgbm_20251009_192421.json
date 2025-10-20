@@ -1,0 +1,219 @@
+{
+    "timestamp": "2025-10-09T19:24:21.653059",
+    "model_type": "LightGBM",
+    "hyperparameters": {
+        "objective": "multiclass",
+        "num_class": 7,
+        "metric": "multi_logloss",
+        "boosting_type": "gbdt",
+        "num_leaves": 48,
+        "learning_rate": 0.1495076792598636,
+        "feature_fraction": 0.5699952326857555,
+        "bagging_fraction": 0.671412175693369,
+        "bagging_freq": 1,
+        "verbose": -1,
+        "random_state": 42
+    },
+    "hyperparameter_optimization": {
+        "enabled": true,
+        "n_trials": 50
+    },
+    "data_info": {
+        "csv_path": "./embeddings/externo/embeddings_wav2vec2_large_xlsr_53_portuguese.csv",
+        "train_dataset": "externo",
+        "test_dataset": "interno",
+        "embedding_dim": 1024,
+        "num_classes": 7,
+        "label_to_idx": {
+            "Anger": 0,
+            "Disgust": 1,
+            "Fear": 2,
+            "Happiness": 3,
+            "Neutral": 4,
+            "Sadness": 5,
+            "Surprise": 6
+        },
+        "train_val_segments": 1960,
+        "test_segments": 771
+    },
+    "k_fold_cross_validation": {
+        "n_folds": 3,
+        "random_state": 42,
+        "individual_folds": [
+            {
+                "acc_micro": 0.9128440366972477,
+                "precision_micro": 0.9128440366972477,
+                "recall_micro": 0.9128440366972477,
+                "f1_micro": 0.9128440366972477,
+                "acc_macro": 0.9128440366972477,
+                "precision_macro": 0.9151130440251547,
+                "recall_macro": 0.9129642576495849,
+                "f1_macro": 0.913416571525787,
+                "acc_weighted": 0.9128440366972477,
+                "precision_weighted": 0.9150244539667298,
+                "recall_weighted": 0.9128440366972477,
+                "f1_weighted": 0.9133088987942085,
+                "fold": 1
+            },
+            {
+                "acc_micro": 0.9540581929555896,
+                "precision_micro": 0.9540581929555896,
+                "recall_micro": 0.9540581929555896,
+                "f1_micro": 0.9540581929555896,
+                "acc_macro": 0.9540581929555896,
+                "precision_macro": 0.9544010172568929,
+                "recall_macro": 0.9541458312906494,
+                "f1_macro": 0.9539511268185521,
+                "acc_weighted": 0.9540581929555896,
+                "precision_weighted": 0.9543940960338282,
+                "recall_weighted": 0.9540581929555896,
+                "f1_weighted": 0.9539039295653717,
+                "fold": 2
+            },
+            {
+                "acc_micro": 0.9402756508422665,
+                "precision_micro": 0.9402756508422665,
+                "recall_micro": 0.9402756508422665,
+                "f1_micro": 0.9402756508422665,
+                "acc_macro": 0.9402756508422665,
+                "precision_macro": 0.9404460670573755,
+                "recall_macro": 0.9401539792903824,
+                "f1_macro": 0.9396825425717574,
+                "acc_weighted": 0.9402756508422665,
+                "precision_weighted": 0.9403515731446135,
+                "recall_weighted": 0.9402756508422665,
+                "f1_weighted": 0.9396959734874857,
+                "fold": 3
+            }
+        ],
+        "aggregated_metrics": {
+            "acc_micro_mean": 0.9357259601650346,
+            "acc_micro_std": 0.01713041024933192,
+            "precision_micro_mean": 0.9357259601650346,
+            "precision_micro_std": 0.01713041024933192,
+            "recall_micro_mean": 0.9357259601650346,
+            "recall_micro_std": 0.01713041024933192,
+            "f1_micro_mean": 0.9357259601650346,
+            "f1_micro_std": 0.01713041024933192,
+            "acc_macro_mean": 0.9357259601650346,
+            "acc_macro_std": 0.01713041024933192,
+            "precision_macro_mean": 0.9366533761131409,
+            "precision_macro_std": 0.016261910273464235,
+            "recall_macro_mean": 0.9357546894102056,
+            "recall_macro_std": 0.01709767655708372,
+            "f1_macro_mean": 0.9356834136386988,
+            "f1_macro_std": 0.016788037752379453,
+            "acc_weighted_mean": 0.9357259601650346,
+            "acc_weighted_std": 0.01713041024933192,
+            "precision_weighted_mean": 0.9365900410483906,
+            "precision_weighted_std": 0.01629118415802541,
+            "recall_weighted_mean": 0.9357259601650346,
+            "recall_weighted_std": 0.01713041024933192,
+            "f1_weighted_mean": 0.9356362672823554,
+            "f1_weighted_std": 0.01681963221321843
+        }
+    },
+    "test_results": {
+        "acc_micro_mean": 0.03501945525291829,
+        "acc_micro_std": 0.0,
+        "precision_micro_mean": 0.03501945525291829,
+        "precision_micro_std": 0.0,
+        "recall_micro_mean": 0.03501945525291829,
+        "recall_micro_std": 0.0,
+        "f1_micro_mean": 0.03501945525291829,
+        "f1_micro_std": 0.0,
+        "acc_macro_mean": 0.03501945525291829,
+        "acc_macro_std": 0.0,
+        "precision_macro_mean": 0.1508693132425384,
+        "precision_macro_std": 0.0,
+        "recall_macro_mean": 0.13180914359701584,
+        "recall_macro_std": 0.0,
+        "f1_macro_mean": 0.015540141230874088,
+        "f1_macro_std": 0.0,
+        "acc_weighted_mean": 0.03501945525291829,
+        "acc_weighted_std": 0.0,
+        "precision_weighted_mean": 0.8604330931352818,
+        "precision_weighted_std": 0.0,
+        "recall_weighted_mean": 0.03501945525291829,
+        "recall_weighted_std": 0.0,
+        "f1_weighted_mean": 0.008533632300870002,
+        "f1_weighted_std": 0.0
+    },
+    "confusion_matrix": {
+        "image_path": "results/transfer_learning/confusion_matrix_lightgbm_20251009_192421.png",
+        "class_names": [
+            "Anger",
+            "Disgust",
+            "Fear",
+            "Happiness",
+            "Neutral",
+            "Sadness",
+            "Surprise"
+        ],
+        "matrix": [
+            [
+                24,
+                0,
+                4,
+                0,
+                0,
+                0,
+                0
+            ],
+            [
+                4,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0
+            ],
+            [
+                2,
+                0,
+                0,
+                0,
+                0,
+                0,
+                1
+            ],
+            [
+                44,
+                0,
+                4,
+                0,
+                0,
+                0,
+                5
+            ],
+            [
+                490,
+                1,
+                108,
+                0,
+                2,
+                0,
+                61
+            ],
+            [
+                2,
+                0,
+                3,
+                0,
+                0,
+                0,
+                0
+            ],
+            [
+                14,
+                0,
+                1,
+                0,
+                0,
+                0,
+                1
+            ]
+        ]
+    }
+}

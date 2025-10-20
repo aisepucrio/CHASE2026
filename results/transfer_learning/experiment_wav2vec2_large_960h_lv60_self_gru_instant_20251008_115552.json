@@ -1,0 +1,237 @@
+{
+    "timestamp": "2025-10-08T11:55:53.022683",
+    "hyperparameters": {
+        "model_name": "wav2vec2_large_960h_lv60_self",
+        "rnn_type": "gru",
+        "strategy": "instant",
+        "bidirectional": false,
+        "epochs": 20,
+        "batch_size": 8,
+        "learning_rate": 0.003,
+        "hidden_size": 256,
+        "num_layers": 2,
+        "k_folds": 3,
+        "use_class_weights": false,
+        "embedding_dim": 1024,
+        "num_classes": 7,
+        "train_dataset": "externo",
+        "test_dataset": "interno"
+    },
+    "class_weights": null,
+    "data_splits": {
+        "train_size": 1764,
+        "val_size": 196,
+        "test_size": 4
+    },
+    "label_mapping": {
+        "label_to_idx": {
+            "Anger": 0,
+            "Disgust": 1,
+            "Fear": 2,
+            "Happiness": 3,
+            "Neutral": 4,
+            "Sadness": 5,
+            "Surprise": 6
+        },
+        "idx_to_label": {
+            "0": "Anger",
+            "1": "Disgust",
+            "2": "Fear",
+            "3": "Happiness",
+            "4": "Neutral",
+            "5": "Sadness",
+            "6": "Surprise"
+        }
+    },
+    "k_fold_cross_validation": {
+        "n_folds": 3,
+        "strategy": "StratifiedKFold",
+        "individual_folds": [
+            {
+                "fold": 1,
+                "val_loss": 1.4430325031280518,
+                "val_acc_micro": 0.35321101546287537,
+                "val_precision_micro": 0.35321101546287537,
+                "val_recall_micro": 0.35321101546287537,
+                "val_f1_micro": 0.35321101546287537,
+                "val_acc_macro": 0.16774065792560577,
+                "val_precision_macro": 0.2616378962993622,
+                "val_recall_macro": 0.16774065792560577,
+                "val_f1_macro": 0.1941295862197876,
+                "val_acc_weighted": 0.35321101546287537,
+                "val_precision_weighted": 0.6600407361984253,
+                "val_recall_weighted": 0.35321101546287537,
+                "val_f1_weighted": 0.435414582490921,
+                "checkpoint": "./checkpoints/fold_1/wav2vec2_large_960h_lv60_self-gru-instant-epoch=18-val_loss=1.44-v1.ckpt"
+            },
+            {
+                "fold": 2,
+                "val_loss": 1.4363973140716553,
+                "val_acc_micro": 0.36140888929367065,
+                "val_precision_micro": 0.36140888929367065,
+                "val_recall_micro": 0.36140888929367065,
+                "val_f1_micro": 0.36140888929367065,
+                "val_acc_macro": 0.18336977064609528,
+                "val_precision_macro": 0.2911301553249359,
+                "val_recall_macro": 0.18336977064609528,
+                "val_f1_macro": 0.20910213887691498,
+                "val_acc_weighted": 0.36140888929367065,
+                "val_precision_weighted": 0.6998103857040405,
+                "val_recall_weighted": 0.36140888929367065,
+                "val_f1_weighted": 0.4442030191421509,
+                "checkpoint": "./checkpoints/fold_2/wav2vec2_large_960h_lv60_self-gru-instant-epoch=17-val_loss=1.44-v1.ckpt"
+            },
+            {
+                "fold": 3,
+                "val_loss": 1.461055874824524,
+                "val_acc_micro": 0.3690658509731293,
+                "val_precision_micro": 0.3690658509731293,
+                "val_recall_micro": 0.3690658509731293,
+                "val_f1_micro": 0.3690658509731293,
+                "val_acc_macro": 0.1710377186536789,
+                "val_precision_macro": 0.30505359172821045,
+                "val_recall_macro": 0.1710377186536789,
+                "val_f1_macro": 0.2011411190032959,
+                "val_acc_weighted": 0.3690658509731293,
+                "val_precision_weighted": 0.8652373552322388,
+                "val_recall_weighted": 0.3690658509731293,
+                "val_f1_weighted": 0.46965888142585754,
+                "checkpoint": "./checkpoints/fold_3/wav2vec2_large_960h_lv60_self-gru-instant-epoch=18-val_loss=1.46-v1.ckpt"
+            }
+        ],
+        "aggregated_metrics": {
+            "val_loss_mean": 1.446828564008077,
+            "val_loss_std": 0.010418531990460458,
+            "val_acc_micro_mean": 0.3612285852432251,
+            "val_acc_micro_std": 0.006473965010061833,
+            "val_acc_macro_mean": 0.17404938240846,
+            "val_acc_macro_std": 0.006726558309484293,
+            "val_acc_weighted_mean": 0.3612285852432251,
+            "val_acc_weighted_std": 0.006473965010061833,
+            "val_f1_micro_mean": 0.3612285852432251,
+            "val_f1_micro_std": 0.006473965010061833,
+            "val_f1_macro_mean": 0.20145761469999948,
+            "val_f1_macro_std": 0.006116614554481205,
+            "val_f1_weighted_mean": 0.4497588276863098,
+            "val_f1_weighted_std": 0.014521667921209689,
+            "val_precision_micro_mean": 0.3612285852432251,
+            "val_precision_micro_std": 0.006473965010061833,
+            "val_precision_macro_mean": 0.2859405477841695,
+            "val_precision_macro_std": 0.01810027020448431,
+            "val_precision_weighted_mean": 0.7416961590449015,
+            "val_precision_weighted_std": 0.08885278694559326,
+            "val_recall_micro_mean": 0.3612285852432251,
+            "val_recall_micro_std": 0.006473965010061833,
+            "val_recall_macro_mean": 0.17404938240846,
+            "val_recall_macro_std": 0.006726558309484293,
+            "val_recall_weighted_mean": 0.3612285852432251,
+            "val_recall_weighted_std": 0.006473965010061833
+        }
+    },
+    "test_results": {
+        "loss_mean": 3.8718419075012207,
+        "loss_std": 0.0,
+        "acc_micro_mean": 0.03631647303700447,
+        "acc_micro_std": 0.0,
+        "precision_micro_mean": 0.03631647303700447,
+        "precision_micro_std": 0.0,
+        "recall_micro_mean": 0.03631647303700447,
+        "recall_micro_std": 0.0,
+        "f1_micro_mean": 0.03631647303700447,
+        "f1_micro_std": 0.0,
+        "acc_macro_mean": 0.1428571492433548,
+        "acc_macro_std": 0.0,
+        "precision_macro_mean": 0.0054495916701853275,
+        "precision_macro_std": 0.0,
+        "recall_macro_mean": 0.1428571492433548,
+        "recall_macro_std": 0.0,
+        "f1_macro_mean": 0.010498687624931335,
+        "f1_macro_std": 0.0,
+        "acc_weighted_mean": 0.03631647303700447,
+        "acc_weighted_std": 0.0,
+        "precision_weighted_mean": 0.00138536945451051,
+        "precision_weighted_std": 0.0,
+        "recall_weighted_mean": 0.03631647303700447,
+        "recall_weighted_std": 0.0,
+        "f1_weighted_mean": 0.002668927190825343,
+        "f1_weighted_std": 0.0
+    },
+    "confusion_matrix": {
+        "image_path": "results/transfer_learning/confusion_matrix_wav2vec2_large_960h_lv60_self_gru_instant_20251008_115552.png",
+        "class_names": [
+            "Anger",
+            "Disgust",
+            "Fear",
+            "Happiness",
+            "Neutral",
+            "Sadness",
+            "Surprise"
+        ],
+        "matrix": [
+            [
+                28,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0
+            ],
+            [
+                4,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0
+            ],
+            [
+                3,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0
+            ],
+            [
+                50,
+                0,
+                1,
+                0,
+                0,
+                0,
+                2
+            ],
+            [
+                629,
+                0,
+                27,
+                0,
+                0,
+                0,
+                6
+            ],
+            [
+                5,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0
+            ],
+            [
+                15,
+                0,
+                1,
+                0,
+                0,
+                0,
+                0
+            ]
+        ]
+    },
+    "best_checkpoint_path": "./checkpoints/final/wav2vec2_large_960h_lv60_self-gru-instant-epoch=17-val_loss=1.41-v1.ckpt"
+}

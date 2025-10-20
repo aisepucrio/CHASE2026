@@ -1,0 +1,237 @@
+{
+    "timestamp": "2025-10-08T11:02:11.640486",
+    "hyperparameters": {
+        "model_name": "hubert_base_ls960",
+        "rnn_type": "gru",
+        "strategy": "instant",
+        "bidirectional": false,
+        "epochs": 20,
+        "batch_size": 8,
+        "learning_rate": 0.003,
+        "hidden_size": 256,
+        "num_layers": 2,
+        "k_folds": 3,
+        "use_class_weights": false,
+        "embedding_dim": 768,
+        "num_classes": 7,
+        "train_dataset": "externo",
+        "test_dataset": "interno"
+    },
+    "class_weights": null,
+    "data_splits": {
+        "train_size": 1764,
+        "val_size": 196,
+        "test_size": 4
+    },
+    "label_mapping": {
+        "label_to_idx": {
+            "Anger": 0,
+            "Disgust": 1,
+            "Fear": 2,
+            "Happiness": 3,
+            "Neutral": 4,
+            "Sadness": 5,
+            "Surprise": 6
+        },
+        "idx_to_label": {
+            "0": "Anger",
+            "1": "Disgust",
+            "2": "Fear",
+            "3": "Happiness",
+            "4": "Neutral",
+            "5": "Sadness",
+            "6": "Surprise"
+        }
+    },
+    "k_fold_cross_validation": {
+        "n_folds": 3,
+        "strategy": "StratifiedKFold",
+        "individual_folds": [
+            {
+                "fold": 1,
+                "val_loss": 0.0018926265183836222,
+                "val_acc_micro": 1.0,
+                "val_precision_micro": 1.0,
+                "val_recall_micro": 1.0,
+                "val_f1_micro": 1.0,
+                "val_acc_macro": 1.0,
+                "val_precision_macro": 1.0,
+                "val_recall_macro": 1.0,
+                "val_f1_macro": 1.0,
+                "val_acc_weighted": 1.0,
+                "val_precision_weighted": 1.0,
+                "val_recall_weighted": 1.0,
+                "val_f1_weighted": 1.0,
+                "checkpoint": "./checkpoints/fold_1/hubert_base_ls960-gru-instant-epoch=17-val_loss=0.00-v1.ckpt"
+            },
+            {
+                "fold": 2,
+                "val_loss": 0.003772198222577572,
+                "val_acc_micro": 1.0,
+                "val_precision_micro": 1.0,
+                "val_recall_micro": 1.0,
+                "val_f1_micro": 1.0,
+                "val_acc_macro": 1.0,
+                "val_precision_macro": 1.0,
+                "val_recall_macro": 1.0,
+                "val_f1_macro": 1.0,
+                "val_acc_weighted": 1.0,
+                "val_precision_weighted": 1.0,
+                "val_recall_weighted": 1.0,
+                "val_f1_weighted": 1.0,
+                "checkpoint": "./checkpoints/fold_2/hubert_base_ls960-gru-instant-epoch=14-val_loss=0.00-v1.ckpt"
+            },
+            {
+                "fold": 3,
+                "val_loss": 0.0015220708446577191,
+                "val_acc_micro": 1.0,
+                "val_precision_micro": 1.0,
+                "val_recall_micro": 1.0,
+                "val_f1_micro": 1.0,
+                "val_acc_macro": 1.0,
+                "val_precision_macro": 1.0,
+                "val_recall_macro": 1.0,
+                "val_f1_macro": 1.0,
+                "val_acc_weighted": 1.0,
+                "val_precision_weighted": 1.0,
+                "val_recall_weighted": 1.0,
+                "val_f1_weighted": 1.0,
+                "checkpoint": "./checkpoints/fold_3/hubert_base_ls960-gru-instant-epoch=17-val_loss=0.00-v1.ckpt"
+            }
+        ],
+        "aggregated_metrics": {
+            "val_loss_mean": 0.002395631861872971,
+            "val_loss_std": 0.0009850648323503877,
+            "val_acc_micro_mean": 1.0,
+            "val_acc_micro_std": 0.0,
+            "val_acc_macro_mean": 1.0,
+            "val_acc_macro_std": 0.0,
+            "val_acc_weighted_mean": 1.0,
+            "val_acc_weighted_std": 0.0,
+            "val_f1_micro_mean": 1.0,
+            "val_f1_micro_std": 0.0,
+            "val_f1_macro_mean": 1.0,
+            "val_f1_macro_std": 0.0,
+            "val_f1_weighted_mean": 1.0,
+            "val_f1_weighted_std": 0.0,
+            "val_precision_micro_mean": 1.0,
+            "val_precision_micro_std": 0.0,
+            "val_precision_macro_mean": 1.0,
+            "val_precision_macro_std": 0.0,
+            "val_precision_weighted_mean": 1.0,
+            "val_precision_weighted_std": 0.0,
+            "val_recall_micro_mean": 1.0,
+            "val_recall_micro_std": 0.0,
+            "val_recall_macro_mean": 1.0,
+            "val_recall_macro_std": 0.0,
+            "val_recall_weighted_mean": 1.0,
+            "val_recall_weighted_std": 0.0
+        }
+    },
+    "test_results": {
+        "loss_mean": 18.733915328979492,
+        "loss_std": 0.0,
+        "acc_micro_mean": 0.005188067443668842,
+        "acc_micro_std": 0.0,
+        "precision_micro_mean": 0.005188067443668842,
+        "precision_micro_std": 0.0,
+        "recall_micro_mean": 0.005188067443668842,
+        "recall_micro_std": 0.0,
+        "f1_micro_mean": 0.005188067443668842,
+        "f1_micro_std": 0.0,
+        "acc_macro_mean": 0.1428571492433548,
+        "acc_macro_std": 0.0,
+        "precision_macro_mean": 0.0007430800469592214,
+        "precision_macro_std": 0.0,
+        "recall_macro_mean": 0.1428571492433548,
+        "recall_macro_std": 0.0,
+        "f1_macro_mean": 0.0014784698141738772,
+        "f1_macro_std": 0.0,
+        "acc_weighted_mean": 0.005188067443668842,
+        "acc_weighted_std": 0.0,
+        "precision_weighted_mean": 2.698604657780379e-05,
+        "precision_weighted_std": 0.0,
+        "recall_weighted_mean": 0.005188067443668842,
+        "recall_weighted_std": 0.0,
+        "f1_weighted_mean": 5.369280552258715e-05,
+        "f1_weighted_std": 0.0
+    },
+    "confusion_matrix": {
+        "image_path": "results/transfer_learning/confusion_matrix_hubert_base_ls960_gru_instant_20251008_110211.png",
+        "class_names": [
+            "Anger",
+            "Disgust",
+            "Fear",
+            "Happiness",
+            "Neutral",
+            "Sadness",
+            "Surprise"
+        ],
+        "matrix": [
+            [
+                0,
+                28,
+                0,
+                0,
+                0,
+                0,
+                0
+            ],
+            [
+                0,
+                4,
+                0,
+                0,
+                0,
+                0,
+                0
+            ],
+            [
+                0,
+                3,
+                0,
+                0,
+                0,
+                0,
+                0
+            ],
+            [
+                0,
+                53,
+                0,
+                0,
+                0,
+                0,
+                0
+            ],
+            [
+                0,
+                660,
+                0,
+                0,
+                0,
+                0,
+                2
+            ],
+            [
+                0,
+                5,
+                0,
+                0,
+                0,
+                0,
+                0
+            ],
+            [
+                0,
+                16,
+                0,
+                0,
+                0,
+                0,
+                0
+            ]
+        ]
+    },
+    "best_checkpoint_path": "./checkpoints/final/hubert_base_ls960-gru-instant-epoch=12-val_loss=0.00-v1.ckpt"
+}

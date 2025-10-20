@@ -1,0 +1,211 @@
+{
+    "timestamp": "2025-10-09T19:13:11.451165",
+    "model_type": "Logistic Regression",
+    "hyperparameters": {
+        "C": 91.98435469366954,
+        "max_iter": 1000,
+        "solver": "lbfgs"
+    },
+    "hyperparameter_optimization": {
+        "enabled": true,
+        "n_trials": 50
+    },
+    "data_info": {
+        "csv_path": "./embeddings/externo/embeddings_wav2vec2_large_960h_lv60_self.csv",
+        "train_dataset": "externo",
+        "test_dataset": "interno",
+        "embedding_dim": 1024,
+        "num_classes": 7,
+        "label_to_idx": {
+            "Anger": 0,
+            "Disgust": 1,
+            "Fear": 2,
+            "Happiness": 3,
+            "Neutral": 4,
+            "Sadness": 5,
+            "Surprise": 6
+        },
+        "train_val_segments": 1960,
+        "test_segments": 771
+    },
+    "k_fold_cross_validation": {
+        "n_folds": 3,
+        "random_state": 42,
+        "individual_folds": [
+            {
+                "acc_micro": 0.8944954128440367,
+                "precision_micro": 0.8944954128440367,
+                "recall_micro": 0.8944954128440367,
+                "f1_micro": 0.8944954128440367,
+                "acc_macro": 0.8944954128440367,
+                "precision_macro": 0.8963178060825772,
+                "recall_macro": 0.8946102985373673,
+                "f1_macro": 0.8943233117174151,
+                "acc_weighted": 0.8944954128440367,
+                "precision_weighted": 0.8965077586719806,
+                "recall_weighted": 0.8944954128440367,
+                "f1_weighted": 0.8943604026647364,
+                "fold": 1
+            },
+            {
+                "acc_micro": 0.8836140888208269,
+                "precision_micro": 0.8836140888208269,
+                "recall_micro": 0.8836140888208269,
+                "f1_micro": 0.8836140888208269,
+                "acc_macro": 0.8836140888208269,
+                "precision_macro": 0.883534836915116,
+                "recall_macro": 0.8837787450034176,
+                "f1_macro": 0.8835340268576223,
+                "acc_weighted": 0.8836140888208269,
+                "precision_weighted": 0.8833456160780355,
+                "recall_weighted": 0.8836140888208269,
+                "f1_weighted": 0.88335704002677,
+                "fold": 2
+            },
+            {
+                "acc_micro": 0.8606431852986217,
+                "precision_micro": 0.8606431852986217,
+                "recall_micro": 0.8606431852986217,
+                "f1_micro": 0.8606431852986217,
+                "acc_macro": 0.8606431852986217,
+                "precision_macro": 0.8617893829801406,
+                "recall_macro": 0.8606985481668422,
+                "f1_macro": 0.860296354560527,
+                "acc_weighted": 0.8606431852986217,
+                "precision_weighted": 0.861704317629309,
+                "recall_weighted": 0.8606431852986217,
+                "f1_weighted": 0.8602296700041339,
+                "fold": 3
+            }
+        ],
+        "aggregated_metrics": {
+            "acc_micro_mean": 0.8795842289878285,
+            "acc_micro_std": 0.014110826934233834,
+            "precision_micro_mean": 0.8795842289878285,
+            "precision_micro_std": 0.014110826934233834,
+            "recall_micro_mean": 0.8795842289878285,
+            "recall_micro_std": 0.014110826934233834,
+            "f1_micro_mean": 0.8795842289878285,
+            "f1_micro_std": 0.014110826934233834,
+            "acc_macro_mean": 0.8795842289878285,
+            "acc_macro_std": 0.014110826934233834,
+            "precision_macro_mean": 0.8805473419926114,
+            "precision_macro_std": 0.014253580717822265,
+            "recall_macro_mean": 0.8796958639025424,
+            "recall_macro_std": 0.014142233247996698,
+            "f1_macro_mean": 0.8793845643785215,
+            "f1_macro_std": 0.014197933710890783,
+            "acc_weighted_mean": 0.8795842289878285,
+            "acc_weighted_std": 0.014110826934233834,
+            "precision_weighted_mean": 0.8805192307931083,
+            "precision_weighted_std": 0.014348315056405743,
+            "recall_weighted_mean": 0.8795842289878285,
+            "recall_weighted_std": 0.014110826934233834,
+            "f1_weighted_mean": 0.87931570423188,
+            "f1_weighted_std": 0.014223830338383389
+        }
+    },
+    "test_results": {
+        "acc_micro_mean": 0.014267185473411154,
+        "acc_micro_std": 0.0,
+        "precision_micro_mean": 0.014267185473411154,
+        "precision_micro_std": 0.0,
+        "recall_micro_mean": 0.014267185473411154,
+        "recall_micro_std": 0.0,
+        "f1_micro_mean": 0.014267185473411154,
+        "f1_micro_std": 0.0,
+        "acc_macro_mean": 0.014267185473411154,
+        "acc_macro_std": 0.0,
+        "precision_macro_mean": 0.12992310031403334,
+        "precision_macro_std": 0.0,
+        "recall_macro_mean": 0.0684082716481679,
+        "recall_macro_std": 0.0,
+        "f1_macro_mean": 0.01501165030229643,
+        "f1_macro_std": 0.0,
+        "acc_weighted_mean": 0.014267185473411154,
+        "acc_weighted_std": 0.0,
+        "precision_weighted_mean": 0.7201664192026802,
+        "precision_weighted_std": 0.0,
+        "recall_weighted_mean": 0.014267185473411154,
+        "recall_weighted_std": 0.0,
+        "f1_weighted_mean": 0.018001444837927538,
+        "f1_weighted_std": 0.0
+    },
+    "confusion_matrix": {
+        "image_path": "results/transfer_learning/confusion_matrix_logistic_regression_20251009_191310.png",
+        "class_names": [
+            "Anger",
+            "Disgust",
+            "Fear",
+            "Happiness",
+            "Neutral",
+            "Sadness",
+            "Surprise"
+        ],
+        "matrix": [
+            [
+                0,
+                2,
+                22,
+                1,
+                0,
+                0,
+                3
+            ],
+            [
+                0,
+                0,
+                4,
+                0,
+                0,
+                0,
+                0
+            ],
+            [
+                0,
+                0,
+                1,
+                0,
+                0,
+                2,
+                0
+            ],
+            [
+                0,
+                1,
+                38,
+                4,
+                0,
+                0,
+                10
+            ],
+            [
+                5,
+                22,
+                472,
+                56,
+                5,
+                15,
+                87
+            ],
+            [
+                0,
+                0,
+                3,
+                0,
+                1,
+                0,
+                1
+            ],
+            [
+                0,
+                0,
+                13,
+                1,
+                0,
+                1,
+                1
+            ]
+        ]
+    }
+}
