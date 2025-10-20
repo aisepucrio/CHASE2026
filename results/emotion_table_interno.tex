@@ -1,0 +1,142 @@
+\begin{table*}[tbp]
+\centering
+\caption{Per-emotion Precision, Recall, and F1 scores for Interno dataset (Part 1/4)}
+\label{tab:emotion_metrics_interno_part1}
+\begin{tabular}{lcccccccccccccccccc}
+\toprule
+\textbf{Model} & \multicolumn{9}{c}{\textbf{Anger}} & \multicolumn{9}{c}{\textbf{Disgust}} \\
+ & \multicolumn{3}{c}{\textbf{HuBERT}} & \multicolumn{3}{c}{\textbf{W2V2-L}} & \multicolumn{3}{c}{\textbf{W2V2-PT}} & \multicolumn{3}{c}{\textbf{HuBERT}} & \multicolumn{3}{c}{\textbf{W2V2-L}} & \multicolumn{3}{c}{\textbf{W2V2-PT}} \\
+ & \textbf{Pr} & \textbf{Re} & \textbf{F1} & \textbf{Pr} & \textbf{Re} & \textbf{F1} & \textbf{Pr} & \textbf{Re} & \textbf{F1} & \textbf{Pr} & \textbf{Re} & \textbf{F1} & \textbf{Pr} & \textbf{Re} & \textbf{F1} & \textbf{Pr} & \textbf{Re} & \textbf{F1} \\
+\midrule
+\multicolumn{19}{c}{\textbf{Classical ML Models}} \\
+\midrule
+Extra Trees & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 \\
+Gradient Boosting & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.33 & 0.67 & 0.44 \\
+LightGBM & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.33 & 0.33 & 0.33 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 \\
+Logistic Regression & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.14 & 0.33 & 0.20 \\
+Random Forest & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 \\
+SVM (Linear) & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.33 & 0.33 & 0.33 & 0.08 & 0.33 & 0.13 \\
+SVM (RBF) & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 \\
+XGBoost & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 \\
+\midrule
+\multicolumn{19}{c}{\textbf{Sequential Models}} \\
+\midrule
+Bi-GRU & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 \\
+Bi-LSTM & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 \\
+GRU & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 \\
+LSTM & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 \\
+\midrule
+\multicolumn{19}{c}{\textbf{All Models}} \\
+\midrule
+Average & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.03 & 0.03 & 0.03 & 0.00 & 0.00 & 0.00 & 0.03 & 0.03 & 0.03 & 0.05 & 0.11 & 0.06 \\
+\bottomrule
+\end{tabular}
+\end{table*}
+
+
+\begin{table*}[tbp]
+\centering
+\caption{Per-emotion Precision, Recall, and F1 scores for Interno dataset (Part 2/4)}
+\label{tab:emotion_metrics_interno_part2}
+\begin{tabular}{lcccccccccccccccccc}
+\toprule
+\textbf{Model} & \multicolumn{9}{c}{\textbf{Fear}} & \multicolumn{9}{c}{\textbf{Happiness}} \\
+ & \multicolumn{3}{c}{\textbf{HuBERT}} & \multicolumn{3}{c}{\textbf{W2V2-L}} & \multicolumn{3}{c}{\textbf{W2V2-PT}} & \multicolumn{3}{c}{\textbf{HuBERT}} & \multicolumn{3}{c}{\textbf{W2V2-L}} & \multicolumn{3}{c}{\textbf{W2V2-PT}} \\
+ & \textbf{Pr} & \textbf{Re} & \textbf{F1} & \textbf{Pr} & \textbf{Re} & \textbf{F1} & \textbf{Pr} & \textbf{Re} & \textbf{F1} & \textbf{Pr} & \textbf{Re} & \textbf{F1} & \textbf{Pr} & \textbf{Re} & \textbf{F1} & \textbf{Pr} & \textbf{Re} & \textbf{F1} \\
+\midrule
+\multicolumn{19}{c}{\textbf{Classical ML Models}} \\
+\midrule
+Extra Trees & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.57 & 0.33 & 0.42 & 0.32 & 0.50 & 0.39 & 0.46 & 0.50 & 0.48 \\
+Gradient Boosting & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.18 & 0.25 & 0.21 & 0.14 & 0.25 & 0.18 & 0.44 & 0.58 & 0.50 \\
+LightGBM & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.27 & 0.25 & 0.26 \\
+Logistic Regression & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.31 & 0.42 & 0.36 & 0.24 & 0.42 & 0.30 & 0.23 & 0.25 & 0.24 \\
+Random Forest & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.36 & 0.33 & 0.35 & 0.24 & 0.33 & 0.28 & 0.28 & 0.58 & 0.38 \\
+SVM (Linear) & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.56 & 0.42 & 0.48 & 0.25 & 0.33 & 0.29 & 0.31 & 0.42 & 0.36 \\
+SVM (RBF) & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.23 & 0.42 & 0.29 & 0.00 & 0.00 & 0.00 & 0.38 & 0.25 & 0.30 \\
+XGBoost & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.57 & 0.33 & 0.42 & 0.24 & 0.33 & 0.28 & 0.40 & 0.33 & 0.36 \\
+\midrule
+\multicolumn{19}{c}{\textbf{Sequential Models}} \\
+\midrule
+Bi-GRU & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 \\
+Bi-LSTM & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 \\
+GRU & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 \\
+LSTM & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 \\
+\midrule
+\multicolumn{19}{c}{\textbf{All Models}} \\
+\midrule
+Average & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.23 & 0.21 & 0.21 & 0.12 & 0.18 & 0.14 & 0.23 & 0.26 & 0.24 \\
+\bottomrule
+\end{tabular}
+\end{table*}
+
+
+\begin{table*}[tbp]
+\centering
+\caption{Per-emotion Precision, Recall, and F1 scores for Interno dataset (Part 3/4)}
+\label{tab:emotion_metrics_interno_part3}
+\begin{tabular}{lcccccccccccccccccc}
+\toprule
+\textbf{Model} & \multicolumn{9}{c}{\textbf{Neutral}} & \multicolumn{9}{c}{\textbf{Sadness}} \\
+ & \multicolumn{3}{c}{\textbf{HuBERT}} & \multicolumn{3}{c}{\textbf{W2V2-L}} & \multicolumn{3}{c}{\textbf{W2V2-PT}} & \multicolumn{3}{c}{\textbf{HuBERT}} & \multicolumn{3}{c}{\textbf{W2V2-L}} & \multicolumn{3}{c}{\textbf{W2V2-PT}} \\
+ & \textbf{Pr} & \textbf{Re} & \textbf{F1} & \textbf{Pr} & \textbf{Re} & \textbf{F1} & \textbf{Pr} & \textbf{Re} & \textbf{F1} & \textbf{Pr} & \textbf{Re} & \textbf{F1} & \textbf{Pr} & \textbf{Re} & \textbf{F1} & \textbf{Pr} & \textbf{Re} & \textbf{F1} \\
+\midrule
+\multicolumn{19}{c}{\textbf{Classical ML Models}} \\
+\midrule
+Extra Trees & 0.91 & 0.99 & 0.95 & 0.92 & 0.92 & 0.92 & 0.92 & 0.97 & 0.95 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 \\
+Gradient Boosting & 0.91 & 0.90 & 0.90 & 0.90 & 0.87 & 0.88 & 0.93 & 0.91 & 0.92 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 \\
+LightGBM & 0.89 & 1.00 & 0.94 & 0.89 & 1.00 & 0.94 & 0.90 & 0.93 & 0.92 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 \\
+Logistic Regression & 0.92 & 0.95 & 0.93 & 0.92 & 0.90 & 0.91 & 0.91 & 0.91 & 0.91 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 \\
+Random Forest & 0.91 & 0.96 & 0.93 & 0.92 & 0.93 & 0.92 & 0.92 & 0.90 & 0.91 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 \\
+SVM (Linear) & 0.91 & 0.98 & 0.95 & 0.92 & 0.93 & 0.92 & 0.93 & 0.88 & 0.90 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 \\
+SVM (RBF) & 0.93 & 0.91 & 0.92 & 0.89 & 1.00 & 0.94 & 0.92 & 0.99 & 0.95 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 \\
+XGBoost & 0.91 & 0.98 & 0.94 & 0.92 & 0.93 & 0.92 & 0.91 & 0.98 & 0.94 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 \\
+\midrule
+\multicolumn{19}{c}{\textbf{Sequential Models}} \\
+\midrule
+Bi-GRU & 0.89 & 1.00 & 0.94 & 0.89 & 1.00 & 0.94 & 0.89 & 1.00 & 0.94 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 \\
+Bi-LSTM & 0.89 & 1.00 & 0.94 & 0.89 & 1.00 & 0.94 & 0.89 & 1.00 & 0.94 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 \\
+GRU & 0.89 & 1.00 & 0.94 & 0.89 & 1.00 & 0.94 & 0.89 & 1.00 & 0.94 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 \\
+LSTM & 0.89 & 1.00 & 0.94 & 0.89 & 1.00 & 0.94 & 0.89 & 1.00 & 0.94 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 \\
+\midrule
+\multicolumn{19}{c}{\textbf{All Models}} \\
+\midrule
+Average & 0.90 & 0.97 & 0.93 & 0.90 & 0.96 & 0.93 & 0.91 & 0.96 & 0.93 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 \\
+\bottomrule
+\end{tabular}
+\end{table*}
+
+
+\begin{table*}[tbp]
+\centering
+\caption{Per-emotion Precision, Recall, and F1 scores for Interno dataset (Part 4/4)}
+\label{tab:emotion_metrics_interno_part4}
+\begin{tabular}{lcccccccccccccccccc}
+\toprule
+\textbf{Model} & \multicolumn{9}{c}{\textbf{Surprise}} & \multicolumn{9}{c}{} \\
+ & \multicolumn{3}{c}{\textbf{HuBERT}} & \multicolumn{3}{c}{\textbf{W2V2-L}} & \multicolumn{3}{c}{\textbf{W2V2-PT}} & \multicolumn{3}{c}{} & \multicolumn{3}{c}{} & \multicolumn{3}{c}{} \\
+ & \textbf{Pr} & \textbf{Re} & \textbf{F1} & \textbf{Pr} & \textbf{Re} & \textbf{F1} & \textbf{Pr} & \textbf{Re} & \textbf{F1} & \textbf{Pr} & \textbf{Re} & \textbf{F1} & \textbf{Pr} & \textbf{Re} & \textbf{F1} & \textbf{Pr} & \textbf{Re} & \textbf{F1} \\
+\midrule
+\multicolumn{19}{c}{\textbf{Classical ML Models}} \\
+\midrule
+Extra Trees & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & - & - & - & - & - & - & - & - & - \\
+Gradient Boosting & 0.20 & 0.50 & 0.29 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & - & - & - & - & - & - & - & - & - \\
+LightGBM & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & - & - & - & - & - & - & - & - & - \\
+Logistic Regression & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & - & - & - & - & - & - & - & - & - \\
+Random Forest & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & - & - & - & - & - & - & - & - & - \\
+SVM (Linear) & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & - & - & - & - & - & - & - & - & - \\
+SVM (RBF) & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & - & - & - & - & - & - & - & - & - \\
+XGBoost & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & - & - & - & - & - & - & - & - & - \\
+\midrule
+\multicolumn{19}{c}{\textbf{Sequential Models}} \\
+\midrule
+Bi-GRU & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & - & - & - & - & - & - & - & - & - \\
+Bi-LSTM & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & - & - & - & - & - & - & - & - & - \\
+GRU & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & - & - & - & - & - & - & - & - & - \\
+LSTM & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & - & - & - & - & - & - & - & - & - \\
+\midrule
+\multicolumn{19}{c}{\textbf{All Models}} \\
+\midrule
+Average & 0.02 & 0.04 & 0.02 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & - & - & - & - & - & - & - & - & - \\
+\bottomrule
+\end{tabular}
+\end{table*}

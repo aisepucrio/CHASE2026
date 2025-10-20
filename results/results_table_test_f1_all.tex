@@ -1,0 +1,29 @@
+\begin{table*}[tbp]
+\centering
+\caption{Test set F1 scores for all experiments}
+\label{tab:results_f1_all}
+\begin{tabular}{lcccccc}
+\toprule
+\textbf{Model} & \multicolumn{2}{c}{\textbf{HuBERT-base}} & \multicolumn{2}{c}{\textbf{Wav2Vec2-large}} & \multicolumn{2}{c}{\textbf{Wav2Vec2-XLSR-PT}} \\
+ & \textbf{F1 (Weighted)} & \textbf{F1 (Macro)} & \textbf{F1 (Weighted)} & \textbf{F1 (Macro)} & \textbf{F1 (Weighted)} & \textbf{F1 (Macro)} \\
+\midrule
+\multicolumn{7}{c}{\textbf{Classical ML Models}} \\
+\midrule
+Extra Trees & 0.87 & 0.23 & 0.84 & 0.22 & 0.87 & 0.24 \\
+Gradient Boosting & 0.82 & 0.23 & 0.80 & 0.18 & 0.86 & 0.31 \\
+LightGBM & 0.83 & 0.16 & 0.83 & 0.16 & 0.83 & 0.22 \\
+Logistic Regression & 0.85 & 0.21 & 0.83 & 0.20 & 0.83 & 0.23 \\
+Random Forest & 0.85 & 0.21 & 0.84 & 0.20 & 0.83 & 0.21 \\
+SVM (Linear) & 0.87 & 0.24 & 0.84 & 0.26 & 0.83 & 0.23 \\
+SVM (RBF) & 0.83 & 0.20 & 0.83 & 0.16 & 0.86 & 0.21 \\
+XGBoost & 0.86 & 0.23 & 0.84 & 0.20 & 0.86 & 0.22 \\
+\midrule
+\multicolumn{7}{c}{\textbf{Sequential Models}} \\
+\midrule
+Bi-GRU & 0.83 & 0.16 & 0.83 & 0.16 & 0.83 & 0.16 \\
+Bi-LSTM & 0.83 & 0.16 & 0.83 & 0.16 & 0.83 & 0.16 \\
+GRU & 0.83 & 0.16 & 0.83 & 0.16 & 0.83 & 0.16 \\
+LSTM & 0.83 & 0.16 & 0.83 & 0.16 & 0.83 & 0.16 \\
+\bottomrule
+\end{tabular}
+\end{table*}
