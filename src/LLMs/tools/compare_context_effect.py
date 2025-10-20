@@ -73,7 +73,7 @@ def print_report(df: pd.DataFrame, subset: str) -> None:
         print("No models with both context and nocontext found.")
         return
     print(f"Models matched: {n}")
-    print(f"Average delta (context - nocontext) in F1_macro: {avg_delta:.6f}")
+    print(f"Average delta (context - nocontext) in F1_macro: {avg_delta:.2f}")
     if pd.notna(avg_pct):
         print(f"Average percent change relative to no-context: {avg_pct:.2f}%")
 
@@ -86,7 +86,7 @@ def print_report(df: pd.DataFrame, subset: str) -> None:
         delta = row['delta']
         pct = row['pct_change']
         pct_s = f"{pct:.2f}%" if pd.notna(pct) else "NA"
-        print(f"- {model}: context={f1c:.6f} | nocontext={f1n:.6f} | delta={delta:+.6f} ({pct_s})")
+    print(f"- {model}: context={f1c:.2f} | nocontext={f1n:.2f} | delta={delta:+.2f} ({pct_s})")
 
 
 def main():
