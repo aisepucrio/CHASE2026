@@ -1,0 +1,237 @@
+{
+    "timestamp": "2025-10-08T11:16:02.203241",
+    "hyperparameters": {
+        "model_name": "hubert_base_ls960",
+        "rnn_type": "gru",
+        "strategy": "full_context",
+        "bidirectional": true,
+        "epochs": 20,
+        "batch_size": 8,
+        "learning_rate": 0.003,
+        "hidden_size": 256,
+        "num_layers": 2,
+        "k_folds": 3,
+        "use_class_weights": false,
+        "embedding_dim": 768,
+        "num_classes": 7,
+        "train_dataset": "externo",
+        "test_dataset": "interno"
+    },
+    "class_weights": null,
+    "data_splits": {
+        "train_size": 1764,
+        "val_size": 196,
+        "test_size": 4
+    },
+    "label_mapping": {
+        "label_to_idx": {
+            "Anger": 0,
+            "Disgust": 1,
+            "Fear": 2,
+            "Happiness": 3,
+            "Neutral": 4,
+            "Sadness": 5,
+            "Surprise": 6
+        },
+        "idx_to_label": {
+            "0": "Anger",
+            "1": "Disgust",
+            "2": "Fear",
+            "3": "Happiness",
+            "4": "Neutral",
+            "5": "Sadness",
+            "6": "Surprise"
+        }
+    },
+    "k_fold_cross_validation": {
+        "n_folds": 3,
+        "strategy": "StratifiedKFold",
+        "individual_folds": [
+            {
+                "fold": 1,
+                "val_loss": 0.000578037986997515,
+                "val_acc_micro": 1.0,
+                "val_precision_micro": 1.0,
+                "val_recall_micro": 1.0,
+                "val_f1_micro": 1.0,
+                "val_acc_macro": 1.0,
+                "val_precision_macro": 1.0,
+                "val_recall_macro": 1.0,
+                "val_f1_macro": 1.0,
+                "val_acc_weighted": 1.0,
+                "val_precision_weighted": 1.0,
+                "val_recall_weighted": 1.0,
+                "val_f1_weighted": 1.0,
+                "checkpoint": "./checkpoints/fold_1/hubert_base_ls960-gru-full_context-epoch=08-val_loss=0.00-v1.ckpt"
+            },
+            {
+                "fold": 2,
+                "val_loss": 0.0028163734823465347,
+                "val_acc_micro": 0.9984685778617859,
+                "val_precision_micro": 0.9984685778617859,
+                "val_recall_micro": 0.9984685778617859,
+                "val_f1_micro": 0.9984685778617859,
+                "val_acc_macro": 0.9931087493896484,
+                "val_precision_macro": 0.9938744306564331,
+                "val_recall_macro": 0.9931087493896484,
+                "val_f1_macro": 0.9934660792350769,
+                "val_acc_weighted": 0.9984685778617859,
+                "val_precision_weighted": 1.0,
+                "val_recall_weighted": 0.9984685778617859,
+                "val_f1_weighted": 0.9991832971572876,
+                "checkpoint": "./checkpoints/fold_2/hubert_base_ls960-gru-full_context-epoch=09-val_loss=0.00-v1.ckpt"
+            },
+            {
+                "fold": 3,
+                "val_loss": 0.007711947895586491,
+                "val_acc_micro": 0.9969372153282166,
+                "val_precision_micro": 0.9969372153282166,
+                "val_recall_micro": 0.9969372153282166,
+                "val_f1_micro": 0.9969372153282166,
+                "val_acc_macro": 0.9862174391746521,
+                "val_precision_macro": 0.9877488613128662,
+                "val_recall_macro": 0.9862174391746521,
+                "val_f1_macro": 0.986932098865509,
+                "val_acc_weighted": 0.9969372153282166,
+                "val_precision_weighted": 1.0,
+                "val_recall_weighted": 0.9969372153282166,
+                "val_f1_weighted": 0.9983665347099304,
+                "checkpoint": "./checkpoints/fold_3/hubert_base_ls960-gru-full_context-epoch=17-val_loss=0.01-v1.ckpt"
+            }
+        ],
+        "aggregated_metrics": {
+            "val_loss_mean": 0.00370211978831018,
+            "val_loss_std": 0.002978990604758842,
+            "val_acc_micro_mean": 0.9984685977300009,
+            "val_acc_micro_std": 0.0012503766063934416,
+            "val_acc_macro_mean": 0.9931087295214335,
+            "val_acc_macro_std": 0.005626706895180028,
+            "val_acc_weighted_mean": 0.9984685977300009,
+            "val_acc_weighted_std": 0.0012503766063934416,
+            "val_f1_micro_mean": 0.9984685977300009,
+            "val_f1_micro_std": 0.0012503766063934416,
+            "val_f1_macro_mean": 0.9934660593668619,
+            "val_f1_macro_std": 0.005334948298125211,
+            "val_f1_weighted_mean": 0.9991832772890726,
+            "val_f1_weighted_std": 0.0006668594123509511,
+            "val_precision_micro_mean": 0.9984685977300009,
+            "val_precision_micro_std": 0.0012503766063934416,
+            "val_precision_macro_mean": 0.9938744306564331,
+            "val_precision_macro_std": 0.005001506425258065,
+            "val_precision_weighted_mean": 1.0,
+            "val_precision_weighted_std": 0.0,
+            "val_recall_micro_mean": 0.9984685977300009,
+            "val_recall_micro_std": 0.0012503766063934416,
+            "val_recall_macro_mean": 0.9931087295214335,
+            "val_recall_macro_std": 0.005626706895180028,
+            "val_recall_weighted_mean": 0.9984685977300009,
+            "val_recall_weighted_std": 0.0012503766063934416
+        }
+    },
+    "test_results": {
+        "loss_mean": 22.335460662841797,
+        "loss_std": 0.0,
+        "acc_micro_mean": 0.005188067443668842,
+        "acc_micro_std": 0.0,
+        "precision_micro_mean": 0.005188067443668842,
+        "precision_micro_std": 0.0,
+        "recall_micro_mean": 0.005188067443668842,
+        "recall_micro_std": 0.0,
+        "f1_micro_mean": 0.005188067443668842,
+        "f1_micro_std": 0.0,
+        "acc_macro_mean": 0.1428571492433548,
+        "acc_macro_std": 0.0,
+        "precision_macro_mean": 0.0007440476329065859,
+        "precision_macro_std": 0.0,
+        "recall_macro_mean": 0.1428571492433548,
+        "recall_macro_std": 0.0,
+        "f1_macro_mean": 0.0014803848462179303,
+        "f1_macro_std": 0.0,
+        "acc_weighted_mean": 0.005188067443668842,
+        "acc_weighted_std": 0.0,
+        "precision_weighted_mean": 2.702118581510149e-05,
+        "precision_weighted_std": 0.0,
+        "recall_weighted_mean": 0.005188067443668842,
+        "recall_weighted_std": 0.0,
+        "f1_weighted_mean": 5.376235640142113e-05,
+        "f1_weighted_std": 0.0
+    },
+    "confusion_matrix": {
+        "image_path": "results/transfer_learning/confusion_matrix_hubert_base_ls960_gru_full_context_20251008_111601.png",
+        "class_names": [
+            "Anger",
+            "Disgust",
+            "Fear",
+            "Happiness",
+            "Neutral",
+            "Sadness",
+            "Surprise"
+        ],
+        "matrix": [
+            [
+                0,
+                28,
+                0,
+                0,
+                0,
+                0,
+                0
+            ],
+            [
+                0,
+                4,
+                0,
+                0,
+                0,
+                0,
+                0
+            ],
+            [
+                0,
+                3,
+                0,
+                0,
+                0,
+                0,
+                0
+            ],
+            [
+                0,
+                53,
+                0,
+                0,
+                0,
+                0,
+                0
+            ],
+            [
+                0,
+                659,
+                0,
+                0,
+                0,
+                0,
+                3
+            ],
+            [
+                0,
+                5,
+                0,
+                0,
+                0,
+                0,
+                0
+            ],
+            [
+                0,
+                16,
+                0,
+                0,
+                0,
+                0,
+                0
+            ]
+        ]
+    },
+    "best_checkpoint_path": "./checkpoints/final/hubert_base_ls960-gru-full_context-epoch=13-val_loss=0.00-v1.ckpt"
+}
