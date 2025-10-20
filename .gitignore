@@ -1,0 +1,67 @@
+
+# ===== Audio Emotion Classification System =====
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+ENV/
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# PyTorch Lightning
+lightning_logs/
+
+# Experiment outputs
+results/*.json
+results/*.tex
+results/*.png
+results/static/
+results/transfer_learning/
+experiment_logs/
+transfer_learning_logs/
+
+# Model checkpoints
+checkpoints/
+*.ckpt
+*.pth
+
+# Data files (large files)
+data/embeddings/*.csv
+data/raw/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Jupyter
+.ipynb_checkpoints/
+*.ipynb
+
+# Keep placeholder files
+!results/.gitkeep
+!checkpoints/.gitkeep
