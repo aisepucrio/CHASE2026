@@ -1,0 +1,71 @@
+\begin{table*}[tbp]
+\centering
+\caption{Per-emotion Precision, Recall, and F1 scores for LLMs without context and full dataset}
+\label{tab:emotions_llm}
+\resizebox{\textwidth}{!}{
+\begin{tabular}{lccccccccccccccccccccc}
+\toprule
+\textbf{Model} & \multicolumn{3}{c}{\textbf{Neutral}} & \multicolumn{3}{c}{\textbf{Hapiness}} & \multicolumn{3}{c}{\textbf{Anger}} & \multicolumn{3}{c}{\textbf{Surprise}} & \multicolumn{3}{c}{\textbf{Sadness}} & \multicolumn{3}{c}{\textbf{Fear}} & \multicolumn{3}{c}{\textbf{Disgust}} \\
+ & \textbf{Pr} & \textbf{Re} & \textbf{F1} & \textbf{Pr} & \textbf{Re} & \textbf{F1} & \textbf{Pr} & \textbf{Re} & \textbf{F1} & \textbf{Pr} & \textbf{Re} & \textbf{F1} & \textbf{Pr} & \textbf{Re} & \textbf{F1} & \textbf{Pr} & \textbf{Re} & \textbf{F1} & \textbf{Pr} & \textbf{Re} & \textbf{F1}\\
+\midrule
+\input{section/tables/LLMs/per_emotion_llm_noctx_full_rows} \\
+\midrule
+Average & 0.85 & 0.83 & 0.83 & 0.31 & 0.12 & 0.16 & 0.17 & 0.08 & 0.10 & 0.15 & 0.10 & 0.07 & 0.09 & 0.15 & 0.11 & 0.00 & 0.00 & 0.00 & 0.06 & 0.28 & 0.09 \\
+\bottomrule
+\end{tabular}
+}
+\end{table*}
+
+\begin{table*}[tbp]
+\centering
+\caption{Per-emotion Precision, Recall, and F1 scores for LLMs without context and test split}
+\label{tab:emotions_llm}
+\resizebox{\textwidth}{!}{
+\begin{tabular}{lccccccccccccccccccccc}
+\toprule
+\textbf{Model} & \multicolumn{3}{c}{\textbf{Neutral}} & \multicolumn{3}{c}{\textbf{Happiness}} & \multicolumn{3}{c}{\textbf{Anger}} & \multicolumn{3}{c}{\textbf{Surprise}} & \multicolumn{3}{c}{\textbf{Sadness}} & \multicolumn{3}{c}{\textbf{Fear}} & \multicolumn{3}{c}{\textbf{Disgust}} \\
+ & \textbf{Pr} & \textbf{Re} & \textbf{F1} & \textbf{Pr} & \textbf{Re} & \textbf{F1} & \textbf{Pr} & \textbf{Re} & \textbf{F1} & \textbf{Pr} & \textbf{Re} & \textbf{F1} & \textbf{Pr} & \textbf{Re} & \textbf{F1} & \textbf{Pr} & \textbf{Re} & \textbf{F1} & \textbf{Pr} & \textbf{Re} & \textbf{F1}\\
+\midrule
+\input{section/tables/LLMs/per_emotion_llm_noctx_test_rows} \\
+\midrule
+Average & 0.83 & 0.82 & 0.82 & 0.21 & 0.08 & 0.10 & 0.02 & 0.02 & 0.02 & 0.02 & 0.06 & 0.03 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.04 & 0.19 & 0.06 \\
+\bottomrule
+\end{tabular}
+}
+\end{table*}
+
+\begin{table*}[tbp]
+\centering
+\caption{Per-emotion Precision, Recall, and F1 scores for LLMs with context and full dataset}
+\label{tab:emotions_llm}
+\resizebox{\textwidth}{!}{
+\begin{tabular}{lccccccccccccccccccccc}
+\toprule
+\textbf{Model} & \multicolumn{3}{c}{\textbf{Neutral}} & \multicolumn{3}{c}{\textbf{Hapiness}} & \multicolumn{3}{c}{\textbf{Anger}} & \multicolumn{3}{c}{\textbf{Surprise}} & \multicolumn{3}{c}{\textbf{Sadness}} & \multicolumn{3}{c}{\textbf{Fear}} & \multicolumn{3}{c}{\textbf{Disgust}} \\
+ & \textbf{Pr} & \textbf{Re} & \textbf{F1} & \textbf{Pr} & \textbf{Re} & \textbf{F1} & \textbf{Pr} & \textbf{Re} & \textbf{F1} & \textbf{Pr} & \textbf{Re} & \textbf{F1} & \textbf{Pr} & \textbf{Re} & \textbf{F1} & \textbf{Pr} & \textbf{Re} & \textbf{F1} & \textbf{Pr} & \textbf{Re} & \textbf{F1}\\
+\midrule
+\input{section/tables/LLMs/per_emotion_llm_ctx_full_rows} \\
+\midrule
+Average & 0.84 & 0.80 & 0.81 & 0.16 & 0.09 & 0.10 & 0.16 & 0.09 & 0.10 & 0.02 & 0.09 & 0.03 & 0.09 & 0.09 & 0.08 & 0.01 & 0.04 & 0.01 & 0.01 & 0.12 & 0.02 \\
+\bottomrule
+\end{tabular}
+}
+\end{table*}
+
+\begin{table*}[tbp]
+\centering
+\caption{Per-emotion Precision, Recall, and F1 scores for LLMs with context and test split}
+\label{tab:emotions_llm}
+\resizebox{\textwidth}{!}{
+\begin{tabular}{lccccccccccccccccccccc}
+\toprule
+\textbf{Model} & \multicolumn{3}{c}{\textbf{Neutral}} & \multicolumn{3}{c}{\textbf{Happiness}} & \multicolumn{3}{c}{\textbf{Anger}} & \multicolumn{3}{c}{\textbf{Surprise}} & \multicolumn{3}{c}{\textbf{Sadness}} & \multicolumn{3}{c}{\textbf{Fear}} & \multicolumn{3}{c}{\textbf{Disgust}} \\
+ & \textbf{Pr} & \textbf{Re} & \textbf{F1} & \textbf{Pr} & \textbf{Re} & \textbf{F1} & \textbf{Pr} & \textbf{Re} & \textbf{F1} & \textbf{Pr} & \textbf{Re} & \textbf{F1} & \textbf{Pr} & \textbf{Re} & \textbf{F1} & \textbf{Pr} & \textbf{Re} & \textbf{F1} & \textbf{Pr} & \textbf{Re} & \textbf{F1}\\
+\midrule
+\input{section/tables/LLMs/per_emotion_llm_ctx_test_rows} \\
+\midrule
+Average & 0.83 & 0.79 & 0.80 & 0.09 & 0.11 & 0.09 & 0.03 & 0.03 & 0.03 & 0.01 & 0.06 & 0.02 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.03 & 0.25 & 0.05 \\
+\bottomrule
+\end{tabular}
+}
+\end{table*}
