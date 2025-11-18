@@ -1,5 +1,5 @@
 """
-Convert resultado_manual.csv into JSON in the format:
+Convert manual_labelling.csv into JSON in the format:
 {
   "output_v1": {
     "segment_000": {"principal_emocao_detectada": "Happiness"},
@@ -9,7 +9,7 @@ Convert resultado_manual.csv into JSON in the format:
 }
 
 Usage:
-  python tools/convert_manual_csv_to_json.py resultado_manual.csv resultado_manual.json
+    python tools/convert_manual_csv_to_json.py manual_labelling.csv manual_labelling.json
 """
 
 import csv
